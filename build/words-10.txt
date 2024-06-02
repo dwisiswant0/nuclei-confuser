@@ -2,9 +2,9 @@
 <script>alert(document.domain)</script>
 extensions
 fonts
-DB_PASSWORD
 bit
+DB_PASSWORD
 DB_NAME
-"name":
 display_name
+"name":
 "id":
