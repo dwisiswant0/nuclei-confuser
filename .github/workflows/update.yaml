@@ -1,0 +1,28 @@
+name: "Update Build"
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'
+  workflow_dispatch:
+
+jobs:
+  update-build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: arduino/setup-task@v2
+      - uses: actions/setup-go@v5
+        with:
+          go-version: 'stable'
+          cache-dependency-path: '**/*.sum'
+      - uses: Homebrew/actions/setup-homebrew@master
+      - uses: actions/cache@v4
+        with:
+          path: nuclei-templates/
+          key: ${{ runner.os }}-nuclei-templates
+      - run: brew install yq
+      - run: task dependencies
+      - run: task dump-all-matchers
+      - run: task clean-build
+      - run: task build-all
+      - run: task commit

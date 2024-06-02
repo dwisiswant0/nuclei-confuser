@@ -1,0 +1,186 @@
+version: '3'
+
+dotenv: ['.env']
+
+env:
+  NUCLEI_TEMPLATES_REPOSITORY: https://github.com/projectdiscovery/nuclei-templates
+
+vars:
+  MATCHERS: .http[].matchers[]
+  SELECTOR: select(.part == "body" or has("part") == false)
+  BUILD_DIR: '{{ .USER_WORKING_DIR }}/build'
+  MATCHERS_DIR: '{{ .USER_WORKING_DIR }}/matchers'
+  SCRIPTS_DIR: '{{ .USER_WORKING_DIR }}/scripts'
+
+tasks:
+  clone-nuclei-templates:
+    aliases: [clone-templates, clone, cnt]
+    dir: '{{ .USER_WORKING_DIR }}'
+    cmds:
+      - git clone {{ .NUCLEI_TEMPLATES_REPOSITORY }} {{ .NUCLEI_DIR }}
+    status:
+      - test -d {{ .NUCLEI_DIR }}/.git
+
+  update-nuclei-templates:
+    aliases: [update-templates, update, unt]
+    dir: '{{ .NUCLEI_DIR }}'
+    cmds:
+      - git pull origin HEAD
+
+  dump-matchers:
+    internal: true
+    dir: '{{ .NUCLEI_DIR }}'
+    deps: [clone-nuclei-templates]
+    cmds:
+      - task: update-nuclei-templates
+      - find . -name "*.yaml" -exec yq '{{ .MATCHERS }} | {{ .SELECTOR }} | .{{ .TYPE }}[]' {} \; | tee {{ .OUTPUT }}
+    requires:
+      vars: [SELECTOR, TYPE]
+    vars:
+      OUTPUT: '{{ .MATCHERS_DIR }}/{{ .TYPE }}.txt'
+    preconditions:
+      - sh: '[ -f {{ .OUTPUT }} ] && rm -rf {{ .OUTPUT }} || true'
+
+  # dump-*-matchers:
+  #   cmds:
+  #     - task: dump-matchers
+  #       vars:
+  #         TYPE: '{{index .MATCH 0}}'
+
+  dump-words-matchers:
+    aliases: [dump-words, dwm]
+    cmds:
+      - task: dump-matchers
+        vars:
+          TYPE: words
+
+  dump-regex-matchers:
+    aliases: [dump-regex, drm]
+    cmds:
+      - task: dump-matchers
+        vars:
+          TYPE: regex
+
+  dump-all-matchers:
+    aliases: [dump-all, dam]
+    cmds:
+      - task: dump-words-matchers
+      - task: dump-regex-matchers
+
+  build:
+    aliases: [b]
+    deps: [reggen]
+    cmds:
+      - sort -u {{ .WORDS_MATCHERS }} | anew {{ .WORDS_OUTPUT }}
+      - sort -u {{ .REGEX_MATCHERS }} | ./scripts/bin/reggen | anew {{ .REGEX_OUTPUT }}
+      - sort -u {{ .BUILD_DIR }}/* | anew {{ .COMBINED_OUTPUT }}
+    vars:
+      WORDS_MATCHERS: '{{ .MATCHERS_DIR }}/words.txt'
+      REGEX_MATCHERS: '{{ .MATCHERS_DIR }}/regex.txt'
+      WORDS_OUTPUT: '{{ .BUILD_DIR }}/words.txt'
+      REGEX_OUTPUT: '{{ .BUILD_DIR }}/regex.txt'
+      COMBINED_OUTPUT: '{{ .BUILD_DIR }}/combined.txt'
+    preconditions:
+      - sh: '[ ! -f {{ .WORDS_MATCHERS }} ] && exit 1 || true'
+        msg: File {{ .WORDS_MATCHERS }} does not exists
+      - sh: '[ ! -f {{ .REGEX_MATCHERS }} ] && exit 1 || true'
+        msg: File {{ .REGEX_MATCHERS }} does not exists
+      - sh: which anew
+        msg: anew is not installed
+      - sh: '[ -f {{ .WORDS_OUTPUT }} ] && rm -rf {{ .WORDS_OUTPUT }} || true'
+      - sh: '[ -f {{ .REGEX_OUTPUT }} ] && rm -rf {{ .REGEX_OUTPUT }} || true'
+      - sh: '[ -f {{ .COMBINED_OUTPUT }} ] && rm -rf {{ .COMBINED_OUTPUT }} || true'
+
+  build-top-*:
+    deps: [reggen]
+    cmds:
+      - sort {{ .WORDS_MATCHERS }} | uniq -c | sort -nr | head -{{ .COUNT }} | awk '{print $2}' | anew {{ .WORDS_OUTPUT }}
+      - sort {{ .REGEX_MATCHERS }} | uniq -c | sort -nr | head -{{ .COUNT }} | awk '{print $2}' | ./scripts/bin/reggen | anew {{ .REGEX_OUTPUT }}
+      - sort -u {{ .BUILD_DIR }}/*-{{ .COUNT }}.txt | anew {{ .COMBINED_OUTPUT }}
+    vars:
+      COUNT: '{{ index .MATCH 0 }}'
+      WORDS_MATCHERS: '{{ .MATCHERS_DIR }}/words.txt'
+      REGEX_MATCHERS: '{{ .MATCHERS_DIR }}/regex.txt'
+      WORDS_OUTPUT: '{{ .BUILD_DIR }}/words-{{ .COUNT }}.txt'
+      REGEX_OUTPUT: '{{ .BUILD_DIR }}/regex-{{ .COUNT }}.txt'
+      COMBINED_OUTPUT: '{{ .BUILD_DIR }}/combined-{{ .COUNT }}.txt'
+    preconditions:
+      - sh: '[ ! -f {{ .WORDS_MATCHERS }} ] && exit 1 || true'
+        msg: File {{ .WORDS_MATCHERS }} does not exists
+      - sh: '[ ! -f {{ .REGEX_MATCHERS }} ] && exit 1 || true'
+        msg: File {{ .REGEX_MATCHERS }} does not exists
+      - sh: which anew
+        msg: anew is not installed
+      - sh: '[ -f {{ .WORDS_OUTPUT }} ] && rm -rf {{ .WORDS_OUTPUT }} || true'
+      - sh: '[ -f {{ .REGEX_OUTPUT }} ] && rm -rf {{ .REGEX_OUTPUT }} || true'
+      - sh: '[ -f {{ .COMBINED_OUTPUT }} ] && rm -rf {{ .COMBINED_OUTPUT }} || true'
+
+  build-all:
+    aliases: [ba]
+    deps: [clean-build]
+    cmds:
+      - task: build
+      - task: build-top-10
+      - task: build-top-100
+      - task: build-top-250
+      - task: build-top-500
+      - task: build-top-1000
+
+  reggen:
+    aliases: [r]
+    dir: '{{ .SCRIPTS_DIR }}'
+    cmds:
+      - go build -trimpath -ldflags "-s -w" -o {{ .OUTPUT }} ./cmd/{{ .BINARY }}/{{ .BINARY }}.go
+    vars:
+      BINARY: reggen
+      OUTPUT: ./bin/{{ .BINARY }}
+    status:
+      - test -f ./bin/{{ .BINARY }}
+
+  anew:
+    aliases: [a]
+    cmds:
+      - go install -v github.com/tomnomnom/anew@latest
+    status:
+      - which anew
+
+  dependencies:
+    aliases: [deps, d]
+    cmds:
+      - task: clone-nuclei-templates
+      - task: update-nuclei-templates
+      - task: reggen
+      - task: anew
+
+  clean-matchers:
+    aliases: [cm]
+    cmds:
+      - rm -rf matchers/*.txt
+
+  clean-build:
+    aliases: [cb]
+    cmds:
+      - rm -rf build/*.txt
+
+  clean-reggen:
+    aliases: [cr]
+    dir: '{{ .SCRIPTS_DIR }}'
+    cmds:
+      - rm -rf bin/
+
+  clean:
+    aliases: [c]
+    cmds:
+      - task: clean-matchers
+      - task: clean-build
+      - task: clean-reggen
+
+  commit:
+    cmds:
+      - git config --local user.email "ghost@users.noreply.github.com"
+      - git config --local user.name "ghost"
+      - git add build/
+      - 'git commit -m "build: update [$(date --iso-8601=ns)]"'
+      - git push origin master
+    status:
+      - git diff --exit-code build/
