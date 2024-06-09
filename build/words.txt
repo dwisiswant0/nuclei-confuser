@@ -520,6 +520,7 @@
 "longitude":
 "macaddr"
 "major":
+"mappings":
 "maxMemory":
 "mbean":"java.lang:type=Memory"
 "md5":
@@ -1374,6 +1375,7 @@ $webdb
 /lib/js/apps/zotonic-1.0
 /lib/mode_ana
 /lifesizecontrol/asp/index.html
+/lighter/favicon.svg
 /lims/dist/css/font-awesome.min.css
 /lksys_windowcontrolscript.js
 /login/lpec/qrcode.html
@@ -3046,6 +3048,7 @@ $webdb
 <title>Leostream</title>
 <title>LibreNMS</title>
 <title>LibrePhotos
+<title>Lighter</title>
 <title>Linkerd</title>
 <title>Linksys Smart Wi-Fi</title>
 <title>Loading
@@ -3161,10 +3164,10 @@ $webdb
 <title>Openfire Admin Console
 <title>Operations Automation Default Page</title>
 <title>Oracle Business Intelligence Sign In</title>
+<title>Oracle Business Intelligence</title>
 <title>Oracle Commerce Business Control Center</title>
 <title>Oracle Database as a Service</title>
 <title>Oracle HTTP Server 12c</title>
-<title>Oracle PeopleSoft Sign-in</title>
 <title>Oracle(R) Integrated Lights Out Manager - Login</title>
 <title>Oracle, OPERA</title>
 <title>Orangescrum Setup Wizard
@@ -4050,6 +4053,7 @@ Couchbase Sync Gateway
 Could not connect to the CBS
 Could not login to JasperReports Server
 Could not parse auth token
+Cox Business Dominion Gateway - Login
 Cracked.io - Profile of
 CraftCMS
 Create Admin User
@@ -4111,6 +4115,7 @@ DJANGO
 DMS Admin
 DMS || Dashboard
 DOCUMENT_ROOT="
+DON'T PANIC
 DPLUS Dashboard
 DQS | Superadmin
 DROP TABLE IF EXISTS
@@ -4318,6 +4323,7 @@ Express Status
 Extreme Management Center
 EyesOfNetwork
 EyouCms
+F5 Networks
 F5 Networks.
 FASTPANEL HOSTING CONTROL
 FETCH-CSRF-TOKEN
@@ -5090,6 +5096,7 @@ Opera Web Browser | Faster, Safer, Smarter | Oper
 Operator Panel
 Optional Parameters
 Options -Indexes
+Oracle BI Presentation Services
 Oracle Enterprise Manager
 Oracle UIX
 Oracle WebLogic Server
@@ -5376,6 +5383,7 @@ Return to sign in
 RewriteRule
 Rhadamanthys Admin
 Roblox is ushering in the next generation of entertainment. Imagine, create, and play together with millions of people across an infinite variety of immersive, user-generated 3D worlds.
+RoleId
 Room Alert - Account Log In
 Roundcube Webmail
 Roundcube Webmail initial database structure
@@ -5796,6 +5804,7 @@ Total War Forums
 Total execution time is
 Total gems
 Total video views
+Traceback
 Traceback (most recent call last)
 Tracking code not correct
 Transmission Web Interface
@@ -5918,6 +5927,7 @@ WD Privacy Statement
 WDMyCloud
 WEB Local Craft Terminal
 WEB-INF
+WEB_PASSWORD
 WHIZZ
 WL-520GU
 WMW Enterprise login
@@ -6376,7 +6386,6 @@ alt="MachForm"
 alt="Nagios XI
 alt="Nuxeo"
 alt="ONLYOFFICE
-alt="Oracle PeopleSoft Sign-in" title="Oracle PeopleSoft Sign-in"
 alt="Pega Infinity
 alt="Pega Logo
 alt="Plesk Onyx
@@ -7256,6 +7265,7 @@ copyrightpt12
 copyright© genie networks ltd.
 coredump
 coremail/common
+count
 count/mystat.asp
 country_selector_
 cp 
@@ -8533,6 +8543,7 @@ mongodb_exporter_build_info
 monospace
 mooSocial
 moodle-editor
+most recent call last
 movable type version
 moveit.transfer
 msg_abortservice
@@ -9125,6 +9136,7 @@ pulumiAccessToken
 puppetboard.css" rel="stylesheet"
 push_location
 pwd yahei16
+pwd=&quot;
 pwdAdmin =
 pwdSupport =
 pwdUser =
@@ -9867,6 +9879,7 @@ url_portail
 urlcli
 urn:schemas-microsoft-com:vml
 urn:schemas-upnp-org:device-1-0
+use Oracle BIEE
 use this if you want to run the seceon module of kibana.
 user-hover-details
 user-member-since
