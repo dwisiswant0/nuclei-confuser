@@ -88,10 +88,10 @@ description
 com.thoughtworks.xstream
 candidat
 [project-discovery]
+[extensions]
 Powered
 Login=
 Installation
 <title>Example
 <svg
 <?xml
-:"true"

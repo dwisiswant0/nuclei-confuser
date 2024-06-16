@@ -1,11 +1,10 @@
-root:u:0:0:
-STABLEfTAG:
-u
+root:U:0:0:
+STABLErTAG:	y
 root:x:0:0
 [fonts]
 root:x:0:0:
-root:/:0:0
-uid=e
+root:R:0:0
+uid=6
 for
-uid=4(`)
-groups=8(k)
+uid=6(J)
+groups=9(g)

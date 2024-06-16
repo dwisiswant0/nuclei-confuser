@@ -4,18 +4,17 @@
 <script>alert(document.domain)</script>
 DB_NAME
 DB_PASSWORD
-STABLEfTAG:
+STABLErTAG:	y
 [fonts]
 bit
 display_name
 extensions
 fonts
 for
-groups=8(k)
-root:/:0:0
-root:u:0:0:
+groups=9(g)
+root:R:0:0
+root:U:0:0:
 root:x:0:0
 root:x:0:0:
-u
-uid=4(`)
-uid=e
+uid=6
+uid=6(J)

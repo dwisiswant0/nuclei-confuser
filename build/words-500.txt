@@ -88,6 +88,7 @@ description
 com.thoughtworks.xstream
 candidat
 [project-discovery]
+[extensions]
 Powered
 Login=
 Installation
@@ -123,7 +124,6 @@ c8c605999f3d8352d7bb792cf3fdb25b
 blog-title
 access_token
 access_key
-[extensions]
 You
 XPATH
 WebLogic
