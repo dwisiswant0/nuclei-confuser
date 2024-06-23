@@ -9,8 +9,8 @@ display_name
 "name":
 "id":
 {{md5({{num}})}}
-Tags:
 {{md5(num)}}
+Tags:
 "username":
 Index
 "data":
@@ -104,6 +104,7 @@ Installation
 "mappings":
 "items":[{
 "code":200
+"code":
 "archived_snapshots":
 {{md5("{{randstr}}")}}
 version:
@@ -178,7 +179,6 @@ Adminer
 "deleteUrl":
 "deleteKey":
 "date":
-"code":
 "client_id":
 "account_id":
 "PodList":
