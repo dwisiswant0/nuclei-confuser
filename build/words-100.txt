@@ -31,9 +31,9 @@ gid=
 </web-app>
 "id"
 "><script>alert(document.domain)</script>
+password
 error_message
 Parent
-password
 "></script><script>alert(document.domain)</script>
 password=
 groups=
