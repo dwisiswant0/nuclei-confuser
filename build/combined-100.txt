@@ -51,14 +51,14 @@ Login
 Login=
 Member
 Model=
-ORA-35089
+ORA-58234
 PHP
 Parent
 Password=
 Powered
 SQ200:
 SQL
-SQLSTATE[2]:
+SQLSTATE[5]:
 SQLServer
 SQLSrvException
 SQLite
@@ -67,13 +67,13 @@ SQLite/JDBCDriver
 SQLite3::SQLException
 SQLiteException
 SR185:
-STABLE TAG:m
+STABLE>TAG:k
 Spotweb
 SybSQLException
 Sybase
 Sybase.Data.AseClient
 Syntax
-System.Data.SqlClient.SqlException.SqlException
+System.Data.SqlClient.SqlException.SqlConnection.OnError
 Tags:
 Tested
 UNION
@@ -95,8 +95,8 @@ Zend_Db_Statement_Sqlsrv_Exception
 [files]
 [project-discovery]
 admin
-aws_access_key_id=
-bin::1:1
+aws_access_key_id =
+bin:F:1:1
 bit
 c8c605999f3d8352d7bb792cf3fdb25
 candidat
@@ -118,7 +118,7 @@ com.sybase.jdbc
 com.thoughtworks.xstream
 com.vertica.dsi.dataengine
 com.vertica.jdbc
-db2_7(
+db2_n(
 description
 display_name
 encountered
@@ -129,7 +129,7 @@ fonts
 for
 gid=
 groups=
-groups=1(s)
+groups=4(6)
 host
 ibm_db_dbi.ProgrammingError
 id
@@ -157,23 +157,23 @@ org.sqlite.JDBC
 password
 password=
 quoted
-rdmStmtPrepare(`)
-root:#:0:0:
-root:*:0:0
-root:*:0:0:
-root::3::
-root:[:0:0
+rdmStmtPrepare(P)
+root::0:0
+root::4::
+root:S:0:0:
+root:x:0:0
+root:x:0:0:
 s
-sqlite3 OperationalError:
+sqlite37OperationalError:
 success
 timestamp
-toor:x:0:0
+toor:*:0:0
 uid=
-uid=9(D)
-uid=g
-uid=i
-uid=m
-uid=s
+uid=1
+uid=2
+uid=4(p)
+uid=5
+uid=l
 unsupported
 url
 username

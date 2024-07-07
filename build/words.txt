@@ -483,6 +483,7 @@
 "jsapi_ticket":
 "jsonrpc":
 "jsonrpc":"2.0"
+"jvmConfig"
 "jwt":
 "k3woq"^confirm(document.domain)^"a2pbrnzx5a9"
 "key"
@@ -614,6 +615,7 @@
 "permissions"
 "permissions":
 "person":
+"pinotConfig"
 "pipfile-spec":
 "plan"
 "plan":
@@ -796,6 +798,7 @@
 "supportsLogin":false}
 "swagger":
 "symbol"
+"systemConfig"
 "tab":
 "target":
 "td_oa"
@@ -858,6 +861,7 @@
 "url":
 "user"
 "user":
+"user-info">anonymous</span>
 "userDetails":
 "userID":
 "userId"
@@ -1350,6 +1354,7 @@ $webdb
 /index.php?step=2
 /install.css
 /install/index.php?step=2
+/installed_emanual_down.html
 /integrats/gs.sub.systemmanager/dologin/json
 /irj/portal/fiori
 /iufo/web/images/tree/tree_plus.gif
@@ -2586,7 +2591,9 @@ $webdb
 <select class="sqlcombo" name="tablecombo
 <select id = "selclangswitch" class="langswitch" onchange = "switchpagelanguage()">
 <select id="selprovince"   onchange="getcity(this.options[this.selectedindex].value)">
+<seqno>
 <serialNumber>
+<service>DEVICE.ACCOUNT</service>
 <servlet-name>
 <servlet-name>CDGPermissions</servlet-name>
 <servlet-name>NCInvokerServlet</servlet-name>
@@ -2761,6 +2768,7 @@ $webdb
 <title>Apache Druid</title>
 <title>Apache Flink Web Dashboard</title>
 <title>Apache HTTP Server Test Page powered by CentOS</title>
+<title>Apache Pinot</title>
 <title>Apache Shiro Quickstart</title>
 <title>Apache2 Debian Default Page: It works</title>
 <title>Apache2 Ubuntu Default Page: It works</title>
@@ -3441,6 +3449,7 @@ $webdb
 <title>Welcome to your Strapi app</title>
 <title>Welcome to</title>
 <title>Welcome</title>
+<title>Wi-Fi APP Login</title>
 <title>Wiki.js Setup</title>
 <title>WoW-CMS | Installation
 <title>WordPress
@@ -3777,6 +3786,7 @@ Antivirus, VPN, Identity &amp; Privacy Protection | McAfee
 AnyConnect
 AnythingHereController
 Apache
+Apache Apollo - Admin Console
 Apache Chemistry OpenCMIS
 Apache Guacamole
 Apache Impala
@@ -4052,6 +4062,7 @@ Control center
 Controller</title>
 Cookies Example
 Cookies are required to log on to Bolt. Please allow cookies.
+Coolify
 Copyright (c) 2008 Irubin Consulting Inc.
 Copyright (c) 2009 Irubin Consulting Inc.
 Copyright (c) 2010 Magento Inc.
@@ -4184,6 +4195,8 @@ DeviceIP
 DeviceName
 DeviceSubClass
 Diagnostics
+Dialogic XMS Admin Console
+DialogicDojo
 Did you mean
 Did you remember your password?
 Digital Rebar
@@ -4290,6 +4303,7 @@ Enable Telnet
 Encompass CM1 Home Page
 Encryption:
 End Time
+Endpoint Protector - Reporting and Administration Tool
 EndpointAutoConfiguration#beansEndpoint
 Enter your new password:
 Enterprise-Class Redis for Developers
@@ -4395,6 +4409,7 @@ Flahscookie Superadmin
 FlatPress
 Fleet
 FleetCart - Installation
+FolderTotal=1
 Foldery
 Follow
 Followers
@@ -4636,6 +4651,7 @@ Installation Wizard
 Installation and Deployment
 Installation assitance
 Installation status
+Installation wizard
 Installed parts
 Installer - Easyscripts
 Installing publication system...
@@ -4903,6 +4919,7 @@ Mappings
 Marmoset Viewer
 Matomo
 Mautic Installation - Environment Check
+MaxFolderTotal=1
 MaxSite CMS
 Measuring for
 Mecze wyjazdowe:
@@ -5166,6 +5183,7 @@ Password
 Password Management Client
 Password Manager for Families, Enterprise &amp; Business | 1Password
 Password Setting
+Password again
 Password and Secrets Management - Keeper Security
 Password" value="admin"><script>alert(document.domain)</script>
 Password":
@@ -5533,6 +5551,7 @@ Server rejected file due to unsupported file format.
 ServerName
 ServerVersion=11.6.0
 Service/Action name
+ServiceEmanualList
 ServiceNow
 Servlets Examples
 Sessions
@@ -5653,6 +5672,7 @@ String index out of range
 Strona główna
 Study any topic
 Subrion CMS - Open Source Content Management System
+Subrion CMS Web Installer
 SuccessfulUpload
 Successfully found player by given ID.
 Suggestions for improving the results
@@ -5752,7 +5772,6 @@ The application you're trying to access doesn't seem to exist
 The attribute value
 The base configuration for WordPress
 The base configurations of the WordPress
-The deployment could not be found on Vercel
 The following namespaces are registered in the repository:
 The gods are wise, but do not know of the site which you seek.
 The official home of the Python Programming Language
@@ -6118,6 +6137,7 @@ XMLHttpRequest.prototype.open
 XPATH syntax error
 XPATH syntax error:
 XWiki.XWikiUsers[0]
+XWikiGuest
 XWikiUsers[0].password
 XenCenter
 Xerox Corporation
@@ -6176,6 +6196,7 @@ Zostań Patronem
 [0] => Array
 [DEFAULT]
 [Edition]
+[JHFile]
 [Jenkins]
 [LocalInfo]
 [LocalizedFileNames]
@@ -6321,6 +6342,7 @@ action="/wisepower/login.jsp
 action="/wp-admin/admin.php/"><script>alert(document.domain)</script>
 action="/{{string}}"><img src=a onerror=alert(document.domain)>
 action="i.cgi
+action="javascript:alert(document.domain)"
 action="login.aspx" id="ctl00"
 action="login.pl" method="post"  onsubmit="encryptpasswd()
 action="logon.aspx?
@@ -6676,6 +6698,7 @@ cachehit
 caldav_public_user
 canRead
 can_execute_commands
+cancel" href="javascript:alert(document.domain)
 cancelchangepwbtn
 candidat
 cannot be registered
@@ -7345,6 +7368,7 @@ d9b2c63a497e2f30c4ad9ad083a00691
 daemon.info
 darkstat
 dashboards
+dashboards</a>
 data
 data":
 data":"
@@ -8166,6 +8190,7 @@ ilch_token
 image/png
 image/setup_wizard
 image_id":
+images/WAVLINK-logo.png
 images/common/logina_1.gif
 images/ewuser_title.jpg
 images/general/zabbix.ico
@@ -8749,6 +8774,7 @@ onclick="changelanguage
 onclick="document.loginform.register.value=0; document.loginform.lostpassword.value=0
 onclick="gotomeeting('/gotomeeting.php
 onclick="loginsubmit()"
+onclick="logout
 onclick="safecodeclick" src="safecode.aspx
 onclick="showstate(gettext('forgotten password')) 
 onclick="window.navigate(this.fname);enablesetup();"
@@ -9928,7 +9954,6 @@ urn:schemas-upnp-org:device-1-0
 use Oracle BIEE
 use this if you want to run the seceon module of kibana.
 user-hover-details
-user-info">anonymous"
 user-member-since
 user-picker
 user.debug
@@ -9938,6 +9963,7 @@ user?username=
 userHash
 userID:
 userId
+userId">user:
 userInfo
 userInfo:{nickName
 userName
@@ -10022,6 +10048,7 @@ var currentmode ='fittowindowonload
 var data = formatparams(params.data)
 var db    = 'information_schema';
 var detectedLanguage = ';alert(document.domain)//';
+var downloads
 var ec = new evercookie();
 var flexofficepath="\/flexoffice"
 var formidafterlogin = '"bos_mainconsolesutra"

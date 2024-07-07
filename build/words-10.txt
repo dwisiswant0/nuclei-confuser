@@ -5,6 +5,6 @@ fonts
 bit
 DB_PASSWORD
 DB_NAME
+{{md5(num)}}
 display_name
 "name":
-"id":

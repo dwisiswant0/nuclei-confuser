@@ -1,24 +1,24 @@
-root:#:0:0:
-STABLE TAG:m
-root:*:0:0
+root:S:0:0:
+STABLE>TAG:k
+root:x:0:0
 [files]
-root:*:0:0:
-root:[:0:0
-uid=g
+root:x:0:0:
+root::0:0
+uid=1
 for
-uid=9(D)
-groups=1(s)
-uid=i
-uid=m
-toor:x:0:0
-root::3::
+uid=4(p)
+root::4::
+groups=4(6)
+uid=5
+uid=2
+toor:*:0:0
 Windows
 weblogic.jdbc.informix
 valid
 unsupported
-uid=s
-sqlite3 OperationalError:
-rdmStmtPrepare(`)
+uid=l
+sqlite37OperationalError:
+rdmStmtPrepare(P)
 quoted
 org.sqlite.JDBC
 org.postgresql.util.PSQLException
@@ -54,12 +54,12 @@ com.ibm.db2.jcc
 com.frontbase.jdbc
 com.facebook.presto.jdbc
 check
-bin::1:1
-aws_access_key_id=
+bin:F:1:1
+aws_access_key_id =
 success
-db2_7(
+db2_n(
 SQL
-ORA-35089
+ORA-58234
 [SQLITE_ERROR]
 [SQL
 [MonetDB][ODBC
@@ -74,7 +74,7 @@ Unknown
 Unexpected
 Unclosed
 UNION
-System.Data.SqlClient.SqlException.SqlException
+System.Data.SqlClient.SqlException.SqlConnection.OnError
 Syntax
 Sybase.Data.AseClient
 Sybase
@@ -86,6 +86,6 @@ SQLite3::SQLException
 SQLite/JDBCDriver
 SQLite
 SQLServer
-SQLSTATE[2]:
+SQLSTATE[5]:
 SQLSrvException
 SQ200:
