@@ -90,6 +90,7 @@ candidat
 [project-discovery]
 [extensions]
 Powered
+Name
 Login=
 Installation
 <title>Example
@@ -135,7 +136,6 @@ Setup
 Portfolio
 Password
 PASSWORD
-Name
 ManageEngine
 IBM
 Followers
@@ -227,7 +227,6 @@ server.port
 server
 security:
 result
-resource
 reloadByURL
 qdPM
 projects
@@ -248,6 +247,7 @@ maxResults
 lvm_
 local.server.port
 listen
+javascript:alert(document.domain)
 issuer
 is_dir
 id="vbulletin_css
@@ -373,6 +373,7 @@ Monstra
 Logout
 Logged
 Log
+Label
 LISTSERV
 LDAP
 KEY
@@ -433,7 +434,6 @@ ASUS
 <title>Roteador
 <title>Jamf
 <title>Honeywell
-<title>Harbor</title>
 <title>Froxlor
 <title>Flowchart
 <title>Database
@@ -474,4 +474,3 @@ ASUS
 6ae610d783ba9a520b82263f49d2907a52090fecb3ac37819cea12b67e6d94fb
 655ad8aea57bdaaad10ff208c7f7aa88c9af89a834c0041ffc18c928cc3eab1f
 62e4cc014d9d96f9cbf443186289ffd9c41bdfe951565324891dcf38bcca5a51
-5df2cb13ec314995ea43d698e888ddb240dbc7ccb6e635434dc8919eced3e25f

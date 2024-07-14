@@ -90,6 +90,7 @@ candidat
 [project-discovery]
 [extensions]
 Powered
+Name
 Login=
 Installation
 <title>Example
@@ -135,7 +136,6 @@ Setup
 Portfolio
 Password
 PASSWORD
-Name
 ManageEngine
 IBM
 Followers
@@ -227,7 +227,6 @@ server.port
 server
 security:
 result
-resource
 reloadByURL
 qdPM
 projects
@@ -241,3 +240,4 @@ ok
 og:title
 oauth-private.key
 nvarchar
+namespace:

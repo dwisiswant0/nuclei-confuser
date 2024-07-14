@@ -90,6 +90,7 @@ candidat
 [project-discovery]
 [extensions]
 Powered
+Name
 Login=
 Installation
 <title>Example
