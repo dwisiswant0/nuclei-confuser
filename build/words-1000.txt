@@ -59,6 +59,7 @@ DB_HOST
 <svg/onload=alert(document.domain)>
 <h1>
 "url":
+"token":
 "access_token":
 {{randstr}}
 timestamp
@@ -69,13 +70,11 @@ Exception
 <script>alert(document.domain);</script>
 "user":
 "url"
-"token":
 "status":
 "sources":
 "results":
 "host":
 "domain"
-"data"
 "created_at":
 url
 s
@@ -104,6 +103,7 @@ Installation
 "node":
 "mappings":
 "items":[{
+"data"
 "code":200
 "code":
 "archived_snapshots":
@@ -156,6 +156,7 @@ Adminer
 <script>alert(1)</script>
 <methodResponse>
 <img/src/onerror=alert(document.domain)>
+<configuration>
 </script><img
 </password>
 6fa9fec63ba24ec06fcae0ec30d1369619c2c3323fe9ddc4849af86457d59eef
@@ -167,7 +168,6 @@ Adminer
 "value":
 "uuid":
 "type":
-"token"
 "success":
 "result":true
 "protocol":
@@ -457,7 +457,6 @@ ASUS
 <html
 <groupId>com.atlassian.jira</groupId>
 <deviceType>
-<configuration>
 <config>
 <authResult>0</authResult>
 <a
@@ -516,6 +515,7 @@ ASUS
 "user"
 "totalCount":
 "took":
+"token"
 "timestamp"
 "terms"
 "team_id":
@@ -795,6 +795,7 @@ ASUS
 {"dismissed":"xxx<img
 {"data":
 {"code":200}
+{"code":0
 {"code"
 {"api_status":
 {"Uri":"/worker","Method":"GET"}

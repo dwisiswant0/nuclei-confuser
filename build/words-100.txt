@@ -59,6 +59,7 @@ DB_HOST
 <svg/onload=alert(document.domain)>
 <h1>
 "url":
+"token":
 "access_token":
 {{randstr}}
 timestamp
@@ -69,13 +70,11 @@ Exception
 <script>alert(document.domain);</script>
 "user":
 "url"
-"token":
 "status":
 "sources":
 "results":
 "host":
 "domain"
-"data"
 "created_at":
 url
 s

@@ -59,6 +59,7 @@ DB_HOST
 <svg/onload=alert(document.domain)>
 <h1>
 "url":
+"token":
 "access_token":
 {{randstr}}
 timestamp
@@ -69,13 +70,11 @@ Exception
 <script>alert(document.domain);</script>
 "user":
 "url"
-"token":
 "status":
 "sources":
 "results":
 "host":
 "domain"
-"data"
 "created_at":
 url
 s
@@ -104,6 +103,7 @@ Installation
 "node":
 "mappings":
 "items":[{
+"data"
 "code":200
 "code":
 "archived_snapshots":
@@ -156,6 +156,7 @@ Adminer
 <script>alert(1)</script>
 <methodResponse>
 <img/src/onerror=alert(document.domain)>
+<configuration>
 </script><img
 </password>
 6fa9fec63ba24ec06fcae0ec30d1369619c2c3323fe9ddc4849af86457d59eef
@@ -167,7 +168,6 @@ Adminer
 "value":
 "uuid":
 "type":
-"token"
 "success":
 "result":true
 "protocol":
@@ -457,7 +457,6 @@ ASUS
 <html
 <groupId>com.atlassian.jira</groupId>
 <deviceType>
-<configuration>
 <config>
 <authResult>0</authResult>
 <a
@@ -474,3 +473,5 @@ ASUS
 6ae610d783ba9a520b82263f49d2907a52090fecb3ac37819cea12b67e6d94fb
 655ad8aea57bdaaad10ff208c7f7aa88c9af89a834c0041ffc18c928cc3eab1f
 62e4cc014d9d96f9cbf443186289ffd9c41bdfe951565324891dcf38bcca5a51
+5df2cb13ec314995ea43d698e888ddb240dbc7ccb6e635434dc8919eced3e25f
+5cd37ee959b5338b5fb48eafc6c7290ca1fa60e653292304102cc19a16cc25e4

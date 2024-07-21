@@ -262,7 +262,6 @@
 "cmdline":
 "code":
 "code":"validation_error"
-"code":0
 "code":200
 "code":20000
 "coin":
@@ -2070,9 +2069,11 @@ $webdb
 <access-policy>
 <acx-root>
 <acx-root></acx-root>
+<add key="SqlConnString"
 <address>Apache Server at
 <afData>ABC<afBoundData/>
 <allow-access-from domain="*"/>
+<appSettings>
 <applet code=vncviewer.class archive=vncviewer.jar
 <authResult>0</authResult>
 <auth_state>1</auth_state>
@@ -2145,6 +2146,7 @@ $webdb
 <div class="main_supporterbar">
 <div class="navbar-brand">Hadoop</div>
 <div class="notfound">
+<div class="outputmsg_text">1787569</div>
 <div class="panel-footer btn-group btn-group-justified"
 <div class="progress-bar small level">
 <div class="signinheader">outlook</div>
@@ -2602,6 +2604,7 @@ $webdb
 <signedlicense id=
 <soap:Envelope
 <source>hbase-default.xml</source>
+<source>ozone-default.xml</source>
 <span class="ametys-version">
 <span class="apptitle" id="apppixviewer">
 <span class="blue bolder">drc</span>
@@ -2715,6 +2718,7 @@ $webdb
 <title>4G LTE WiFi VoIP Router</title>
 <title>::: ACEmanager :::</title>
 <title>::: COMMAX :::</title>
+<title><style><foo>Injected Title</foo></style></title>
 <title>@
 <title>A8 Management Monitor</title>
 <title>ACE 4710 DM - Login</title>
@@ -3685,6 +3689,7 @@ AWS EC2 Auto Scaling Lab
 AWSEBDockerrunVersion
 AWSTATS CONFIGURE
 About
+About FreshRSS
 About Repetier-Server
 About TIBCO JasperReports Server
 About VMware AirWatch
@@ -3709,6 +3714,7 @@ Activity
 Activity</h2>
 Acunetix 360 - Installation Wizard
 Ad Hoc Transfer
+AdGuard Home</title>
 Add LINE Friends via QR Code
 Add a new VAT ID to the queue
 Add new URL
@@ -3750,7 +3756,7 @@ AirCube Dashboard
 AirNotifier
 Airflow
 Airflow - Login
-Airflow 404 = lots of circles
+Airflow 404
 Ajax Random Post
 Akamai CloudTest
 Akamai Inc. All rights reserved
@@ -3794,6 +3800,7 @@ Apache Guacamole
 Apache Impala
 Apache JMeter Dashboard
 Apache Karaf Web Console - Bundles
+Apache Ozone</title>
 Apache Server Status
 Apache Tomcat
 AppLoginType
@@ -4432,6 +4439,8 @@ FortiManager
 FortiNAC
 Found Exact Match
 FreePBX Administration
+FreshRSS
+FreshRSS</title>
 Friendly path
 From
 From RFC 2068
@@ -4661,6 +4670,7 @@ Installation and Deployment
 Installation assitance
 Installation status
 Installation wizard
+Installation · FreshRSS
 Installed parts
 Installer - Easyscripts
 Installing publication system...
@@ -5577,6 +5587,7 @@ Settings - JSFiddle - Code Playground
 Settings · TeslaMate
 Settings</a>
 Setup - jfa-go
+Setup AdGuard Home
 Setup GLPI
 Setup GitHub Enterprise
 Setup Wizard
@@ -5798,6 +5809,7 @@ The profile of
 The requested range is not satisfiable
 The requested resource could not be found, or a request was received using an HTTP method that is not supported by the mapped resource
 The requested resource is not authorized to view
+The requested resource isn't a valid image
 The server sent HTTP status code 200
 The source URL is not valid
 The specified bucket does not exist
@@ -6319,6 +6331,7 @@ a8-v5企业版
 a8bf3d1210afa873d9b9af583e944bdbf5ac7c8a63f6eccc3d6795802bd380d2
 a9308f85e95b00007892d451fd9f6beabcd8792b4c5f8cd7524ba7e941d479c9
 a=""
+a=logout
 aakuan.cn
 aardvark topsites
 about
@@ -6448,6 +6461,7 @@ alt="CAREL
 alt="CudaTel
 alt="Cypress Oxygen-3
 alt="Eclipse Logo
+alt="FreshRSS
 alt="ILIAS
 alt="Immich Logo
 alt="Keycloak
@@ -6601,6 +6615,7 @@ autofocus onfocus='alert(document.domain)
 autofocus onfocus=alert(/{{randstr}}/);//
 autoindex.sourceforge.net/
 aux-widget
+auxauthmode
 avada-footer-scripts
 availabilityDomain
 avatar
@@ -6711,6 +6726,7 @@ c8c605999f3d8352d7bb792cf3fdb25b
 c8d8d30d89b00098edab024579a3f3c0df2613a29ebcd57cdb9a9062675558e4
 c91127b2698c0a2ae0103be3accffe01995b8531bf1027ae4f0a8ad099e7a209
 c923fa3e71e104d50615978c1ab9fcfccfcbada9e8df638fc27bf4d4eb72d78c
+c=user&amp;a=profile
 cURL Test for PhonePe
 cacheManagers
 cachehit
@@ -7000,6 +7016,7 @@ content="Emby Server"
 content="EverWeb 
 content="F5 Networks, Inc."
 content="Fork CMS"
+content="FreshRSS
 content="Friendica
 content="FusionAuth
 content="GX WebManager
@@ -7616,6 +7633,7 @@ errmag
 errmsg
 error
 error getting pending
+error": null
 error":"invalid_client"
 errorMessage
 error_message
@@ -7789,6 +7807,7 @@ github.com/provectus/kafka-ui
 gke-remote
 glances.config
 glassfish community
+glide.db.user
 global traffic statistics
 global-protect/login.esp
 glpi-project.org
@@ -8142,6 +8161,7 @@ iconsets
 id
 id = "pegaLogin
 id":
+id": 51
 id="browserchecktext_id
 id="car-repair-services-
 id="chkworkbyreplacer" type="checkbox"
@@ -8824,7 +8844,6 @@ onmouseover=alert(/d0cument.domain/) y=&act
 onmouseover=alert(document.domain)
 onmouseover=alert(document.domain) x=
 onmouseover=alert(document.domain)//
-onmousewheel=\"return bbimg(this)\"
 onrememberpasswordclick
 onsubmit="openexpress(document.expresslogin)
 onsubmit="return checksubmit()
@@ -8877,6 +8896,7 @@ owncloud
 owncloud/config
 owner
 ownerName
+ozone
 p-nickname vcard-username d-block
 p1_network_mail.cgi
 pCloud - Europe's Most Secure Cloud Storage
@@ -9303,6 +9323,7 @@ resources/themes/images/logo/favicon.ico
 resources:
 resterrorresponse
 result
+result": true
 result":{
 results
 return
@@ -9728,6 +9749,8 @@ system.listMethods
 system.multicall
 system/templates/xdcms/
 system:
+system:basicSettings
+system:staSettings
 systemGeneratedPassword
 systemload.average
 t_系统首页模板
@@ -10171,6 +10194,8 @@ vpn
 vpn/js/lsgateway_login_view.js
 vstor
 vti_extenderversion:
+vtyname
+vtypasswd
 w7.cc
 wafportal/wafportal.nocache.js
 waitedTime
@@ -10384,6 +10409,7 @@ zyxel
 {"Uri":"/worker","Method":"GET"}
 {"api_status":
 {"code"
+{"code":0
 {"code":200}
 {"data":
 {"dismissed":"xxx<img src=x onerror=alert(document.domain)>"}
