@@ -16,8 +16,8 @@ Index
 "data":
 "email":
 PHP
-"success":true
 username
+"success":true
 "name"
 uid=
 login
@@ -26,14 +26,15 @@ for
 "items":
 Interactsh
 "version":
+password
 name
 gid=
 </web-app>
 "id"
 "><script>alert(document.domain)</script>
-password
 error_message
 Parent
+<h1>
 "></script><script>alert(document.domain)</script>
 password=
 groups=
@@ -57,7 +58,6 @@ DB_HOST
 ><script>alert(document.domain)</script>
 <web-app
 <svg/onload=alert(document.domain)>
-<h1>
 "url":
 "token":
 "access_token":
@@ -92,7 +92,6 @@ Powered
 Name
 Login=
 Installation
-<title>Example
 <svg
 <?xml
 :"true"
@@ -383,6 +382,7 @@ Infusionsoft
 IceWarp
 INFO
 IMAP
+ID
 HttpUcmdbServiceProviderFactoryImpl
 Host
 HDW
@@ -438,6 +438,7 @@ ASUS
 <title>Flowchart
 <title>Database
 <title>Cisco
+<title>Bazarr</title>
 <title>Apache
 <title>Ambari</title>
 <title>Administration</title>
@@ -931,4 +932,3 @@ window.appname_='pcpin_chat'
 window.appname
 window._zimbramail
 window.___gcfg
-window.__NUXT__
