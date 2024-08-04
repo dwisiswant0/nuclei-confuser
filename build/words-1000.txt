@@ -16,8 +16,8 @@ Index
 "data":
 "email":
 PHP
-username
 "success":true
+username
 "name"
 uid=
 login
@@ -26,15 +26,16 @@ for
 "items":
 Interactsh
 "version":
+"id"
 password
 name
 gid=
 </web-app>
-"id"
 "><script>alert(document.domain)</script>
 error_message
 Parent
 <h1>
+<img
 "></script><script>alert(document.domain)</script>
 password=
 groups=
@@ -43,7 +44,6 @@ c8c605999f3d8352d7bb792cf3fdb25
 Password=
 Login
 Joined
-<img
 <?php
 #
 {{result}}
@@ -407,6 +407,7 @@ Contact
 Company
 Cluster
 Cloud
+Change
 CREATE
 CATS=
 Brother
@@ -523,6 +524,7 @@ ASUS
 "success":200
 "status"
 "slug":
+"sessionId":
 "server":
 "result":"ok"
 "result":
@@ -786,6 +788,7 @@ ASUS
 {"name":"guest"
 {"name":"Windows","path":"C:\\\\Windows","folder":true}
 {"message":"You
+{"message":
 {"issuer":
 {"html"
 {"formpost"
@@ -929,6 +932,3 @@ window.external.addfavorite(location.href,document.title);
 window.eset
 window.erxesEnv
 window.appname_='pcpin_chat'
-window.appname
-window._zimbramail
-window.___gcfg
