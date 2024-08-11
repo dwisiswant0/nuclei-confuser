@@ -108,6 +108,7 @@ Installation
 "archived_snapshots":
 {{md5("{{randstr}}")}}
 version:
+variables:
 self
 profile:username
 paths:
@@ -247,6 +248,7 @@ lvm_
 local.server.port
 listen
 javascript:alert(document.domain)
+java.lang.Exception
 issuer
 is_dir
 id="vbulletin_css
@@ -299,6 +301,7 @@ c91127b2698c0a2ae0103be3accffe01995b8531bf1027ae4f0a8ad099e7a209
 c8d8d30d89b00098edab024579a3f3c0df2613a29ebcd57cdb9a9062675558e4
 bf1c397958ee5114e8f1dadc98fa9c9d7ddb031a4c3c030fa00c315384456218
 bf1ba5d5d3395adc5bad6f17cc3cb21b3fb29d3e3471a5b260e0bc5ec7a57bc4
+before_script:
 be9a23d3021354ec649bc823b23eab01ed235a4eb730fd2f4f7cdb2a6dee453a
 ba74062de4171df6109c4c96da1ebe2b538bb6cc7cd55867cbdfba44777700e1
 b50bfeb87fe7bb245b31a0423ccfd866ca974bc5943e568ce47efb4cd221d711
@@ -928,7 +931,3 @@ window.location.href
 window.location.host
 window.location
 window.grafanabootdata
-window.external.addfavorite(location.href,document.title);
-window.eset
-window.erxesEnv
-window.appname_='pcpin_chat'

@@ -108,6 +108,7 @@ Installation
 "archived_snapshots":
 {{md5("{{randstr}}")}}
 version:
+variables:
 self
 profile:username
 paths:
@@ -240,4 +241,3 @@ og:title
 oauth-private.key
 nvarchar
 namespace:
-name=
