@@ -1543,6 +1543,7 @@ $webdb
 /usr/script
 /utility/corescripts/widget.js
 /valcode.aspx
+/var/tmp</td>
 /vhost/view/default/style/login.css
 /vhplot/webresource.axd
 /video_record.jnlp
@@ -2287,7 +2288,6 @@ $webdb
 <h2>Broker</h2>
 <h2>Database</h2>
 <h2>Tasmota</h2>
-<h2>Welcome to the Apache ActiveMQ!</h2>
 <h2>blog comments</h2>
 <h2>modify this template to jump-start your asp.net mvc application.</h2>
 <h2>nsoc大数据分析系统</h2>
@@ -2342,6 +2342,7 @@ $webdb
 <img src onerror=alert(document.domain)>
 <img src onerror=alert(document.domain)>' type='hidden
 <img src onerror=alert(document.domain)><br/>
+<img src/onerror="alert(document.domain)">
 <img src="" onerror="alert(1);">1</img>
 <img src="./images/main/ultrastatslogo.png" width="300" height="200" name="ultrastats_logo" align="center">
 <img src="./img/panel-logo.png" alt="parallels plesk panel"></a>
@@ -2371,6 +2372,7 @@ $webdb
 <img src=x onerror=alert(1)>
 <img src=x onerror=alert(123);>
 <img src=x onerror=alert(2)>
+<img src=x onerror=alert(3)>
 <img src=x onerror=alert(document.domain) />
 <img src=x onerror=alert(document.domain)>
 <img src=x onerror=alert(document.domain)>&action=edit
@@ -2643,7 +2645,6 @@ $webdb
 <strong class="product">HP Color LaserJet
 <strong><img src onerror=alert(document.domain)></strong>
 <strong>IceWarp
-<strong>Trying to access your account?</strong>
 <strong>URL:</strong>
 <strong>Warning</strong>:
 <strong>hostbill
@@ -2778,6 +2779,7 @@ $webdb
 <title>Apache Flink Web Dashboard</title>
 <title>Apache HTTP Server Test Page powered by CentOS</title>
 <title>Apache Pinot</title>
+<title>Apache ShenYu Gateway</title>
 <title>Apache Shiro Quickstart</title>
 <title>Apache2 Debian Default Page: It works</title>
 <title>Apache2 Ubuntu Default Page: It works</title>
@@ -2931,6 +2933,9 @@ $webdb
 <title>EyesOfNetwork</title>
 <title>F-Secure Policy Manager Server</title>
 <title>FCKeditor
+<title>FOSSBilling
+<title>FOSSBilling Installation
+<title>FOSSBilling setup
 <title>FUEL CMS</title>
 <title>FastAPI - ReDoc</title>
 <title>FastAPI - Swagger UI</title>
@@ -3125,6 +3130,7 @@ $webdb
 <title>Management Console</title>
 <title>MassageAnywhere.com Profile for 
 <title>Mautic</title>
+<title>MeTube</title>
 <title>Meet people like 
 <title>Memos
 <title>MeshCentral - Login</title>
@@ -3217,6 +3223,7 @@ $webdb
 <title>People -  [Jenkins]</title>
 <title>Persis</title>
 <title>PgHero / Connections</title>
+<title>PhotoPrism</title>
 <title>PhpCollab</title>
 <title>Pi-hole
 <title>Ping |dir</title>
@@ -3234,6 +3241,7 @@ $webdb
 <title>PrivX</title>
 <title>ProcessWire 3.x Installer
 <title>Processing...</title>
+<title>Procore Log In</title>
 <title>Profile
 <title>Profiler</title>
 <title>Project Fauxton</title>
@@ -3288,6 +3296,7 @@ $webdb
 <title>SaltStack</title>
 <title>Sauter moduWeb - Login</title>
 <title>Scribble Diffusion
+<title>SearXNG</title>
 <title>Search</title>
 <title>Secure Login Service</title>
 <title>SecureTrack - Tufin Technologies</title>
@@ -3460,6 +3469,7 @@ $webdb
 <title>Welcome to your Strapi app</title>
 <title>Welcome to</title>
 <title>Welcome</title>
+<title>WhatsUp Gold</title>
 <title>Whoops! There was an error
 <title>Wi-Fi APP Login</title>
 <title>Wiki.js Setup</title>
@@ -3849,7 +3859,6 @@ Avocent Corporation and its affiliates
 Axis
 Axis Happiness Page
 Axis2 Happiness Page
-Axway API Manager Login</title>
 Axyom Network Manager
 Azkaban Web Client
 BEGIN CERTIFICATE
@@ -3950,6 +3959,7 @@ CQ Feed
 CREATE TABLE
 CREATOR STATS
 CREDENTIAL_CHALLENGE
+CSR
 CSS TRANSITION SUPPORT
 CTCWebServiceSi
 CVE-2018-7602-POC
@@ -4319,6 +4329,7 @@ Electronics, Cars, Fashion, Collectibles &amp; More | eBay
 Elementor Website Builder
 Elemiz Network Manager
 Email
+Email Newsletter Software
 Embed Code
 Embed Swagger
 Employee Management System
@@ -4380,6 +4391,7 @@ FETCH-CSRF-TOKEN
 FILE/PERIOD
 FOR ORACLE
 FORTINET LOGIN</title>
+FOSSBilling
 FPC Login
 FPM Configuration
 FPVersion=
@@ -4417,6 +4429,7 @@ Figma: The Collaborative Interface Design Tool
 File Browser
 File Browser</title>
 File Manager - Kae's File Manager
+File System Info
 File is not a JPEG Image
 File not found: {{randstr}}.txt.
 File to import
@@ -4577,6 +4590,7 @@ Homepage | Gila CMS
 HordeLogin.user
 Hospital Management System
 Host
+Host name</label>
 HostName
 Hostname
 HotelDruid
@@ -4855,6 +4869,7 @@ Log in to OpenAI to continue to OpenAI Platform.
 Log in to PayPal automatically for faster checkout without entering your password wherever you're logged in with your Google account.
 Log in to iCloud to access your photos, mail, notes, documents and more. Sign in with your Apple&nbsp;ID or create a new account to start using Apple services.
 Log in to the Administrative Console
+Log in to your Procore account using your email and password
 Log in | Royal Mail Group Ltd
 Log on to MACH-ProWeb
 Log out
@@ -5532,6 +5547,7 @@ SQLite format 3
 SRC=menu.html
 SRVE0255E:
 SSID1
+SSL
 SSL VPN Service
 SSLVPN
 SSLVPN Service
@@ -5822,6 +5838,7 @@ The base configuration for WordPress
 The base configurations of the WordPress
 The following namespaces are registered in the repository:
 The gods are wise, but do not know of the site which you seek.
+The message to ""><h2>TEST</h2>" failed
 The official home of the Python Programming Language
 The page you’re looking for may have been moved
 The password manager trusted by millions | Bitwarden
@@ -6115,6 +6132,7 @@ Welcome to Open Virtualization Manager
 Welcome to Openfire Setup
 Welcome to Oracle Containers for J2EE 10g
 Welcome to Password Management
+Welcome to Progress Application Server for OpenEdge
 Welcome to Python.org
 Welcome to Qualtrics Certification
 Welcome to Reporter
@@ -6309,6 +6327,7 @@ _PASSWORD</td>
 _USERNAME</td>
 _ZCMS_ShowNewMessage
 __CSRF_TOKEN_PLACEHOLDER__
+__NEXT_DATA__
 __WEAVEWORKS_CSRF_TOKEN
 __admin_media_prefix__
 __gwt_historyframe
@@ -6445,6 +6464,7 @@ afterlogic webmail pro
 agenda_js.php?type=xss" onmouseover=alert(document.domain)
 agent
 aggregateRating
+airos_logo.png
 ajax/confirm.ashx
 ajax_ccea.php
 ajax_getemailingactions.php
@@ -6538,6 +6558,7 @@ alt="接口应用管理工具"
 alt="汉码软件logo
 alt="联想企业网盘android客户端下载"
 alt='XFINITY'
+alt=PrivateGPT
 alterian
 amap.mousetool,amap.districtsearch
 amax information technologies inc.
@@ -6592,6 +6613,7 @@ arn:aws:ecs
 array(2)
 artica-applianc
 artifact_location
+as/wapi/profile_entry?sid=
 asp.net mvc application</p>
 aspx/casecenter/acasecenter.aspx?pagetype=sxcx&casetype=sscs&casename=
 assert
@@ -7083,6 +7105,7 @@ content="Metro Publisher
 content="Microweber"
 content="Mijnwebwinkel"
 content="Monstra Admin Area
+content="My Private GPT
 content="Navicat On-Prem Server
 content="Netvolution WCM"
 content="NocoDB
@@ -7401,6 +7424,7 @@ cryptographp.php
 csod-custom
 csodcommon
 csrfmiddlewaretoken
+css.createsend1.com
 css/cluster-viz.css
 css/css_whir.css
 css/festos.css
@@ -7665,6 +7689,7 @@ esoaisapp/login.jsp
 esri/discovery/admin.js
 est.connection.url
 etag
+eth0
 eth: gpu0
 eth — total speed:
 eureka/css/wro.css
@@ -7696,6 +7721,7 @@ f8ba2470fbf1e30f2ce64d34705b8e6615ac964ea84163c8a6adaaf8a91f9eac
 f9ab217549b223c55fa310f2007a8f5685f9596c579f5c5526e7dcb204ba0e11
 f_theme
 faccloudhost
+face="courier
 facebook
 failed loading package
 failed to open stream: No such file or directory
@@ -8891,7 +8917,6 @@ opms
 opms管理系统,织蝶-企业应用系统为您的企业保驾护航
 option value="enterprise"
 options:
-or <a href="mailto:help@createsend.com
 oracle http server</font></font></b></h1>
 oracle jsp documentation
 order by begintime
@@ -8997,6 +9022,7 @@ phpList Ltd
 phpList</a>
 phpMemcachedAdmin
 phpMyAdmin SQL Dump
+phpMyFAQ
 phpPgAdmin
 phpSysInfo
 phpbb
@@ -9538,6 +9564,7 @@ snspam/spam_request/
 snspam/start_page.asp
 social.network.europa.eu
 socket = /tmp/grafana.sock
+softwareVersion
 solarwinds
 songinfo.php
 sorry but SkyWalking doesn't work
@@ -9859,6 +9886,7 @@ tiny_token_
 tip_browsertoolow:"您当前使用的浏览器版本或模式太低，鹏为e5为了您更好的体验，请升级您的ie版本至8.0或以上。"
 titan.css
 title
+title":"My Private GPT
 title">Glances</title>
 title="Changedetection.io
 title="DELL DPI Remote Power Management
@@ -10105,6 +10133,7 @@ value="responseMessage"
 value="sinopec.ad" readonly="readonly" id="ddldomains2"
 value="style2012/style1/scripts/expressinstall.swf"
 value="test"><script>alert(document.domain)</script>">
+value="“><script>alert(document.domain)</script>" id="standort"
 value="明源售楼管理系统v5.0"
 value="经理">经理</option>
 value='&#39; and &#39;1&#39;=&#39;0 --

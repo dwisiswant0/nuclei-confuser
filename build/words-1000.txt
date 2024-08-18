@@ -931,3 +931,4 @@ window.location.href
 window.location.host
 window.location
 window.grafanabootdata
+window.external.addfavorite(location.href,document.title);
