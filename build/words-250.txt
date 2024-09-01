@@ -16,8 +16,8 @@ Index
 "data":
 "email":
 PHP
-"success":true
 username
+"success":true
 "password":
 "name"
 uid=
@@ -96,6 +96,7 @@ Installation
 <?xml
 :"true"
 "username"
+"type":
 "type"
 "token_type":
 "success"
@@ -167,7 +168,6 @@ Adminer
 "zlo
 "value":
 "uuid":
-"type":
 "success":
 "result":true
 "protocol":

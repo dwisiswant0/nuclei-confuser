@@ -109,6 +109,7 @@
 "ITEMS"
 "Id":
 "Labels":
+"LastLoginDate":
 "LocalizedName"
 "LoginOK":"ok"
 "MINIO_ROOT_PASSWORD":
@@ -287,6 +288,7 @@
 "config":{
 "config.file":
 "configuration_method":
+"confirmed":
 "connection"
 "connection-types": {
 "connections": {
@@ -384,6 +386,7 @@
 "error": ""
 "errorMessage":"Internal error
 "error_code":""
+"error_data"
 "error_description":"Wrong email or password."
 "error_message" : "-"
 "error_message":""
@@ -428,6 +431,7 @@
 "groupName"
 "groups":
 "guacadmin"
+"guid":
 "guppyUsers":
 "harbor_version"
 "hasAdmin"
@@ -574,6 +578,7 @@
 "mustChangePwd":
 "name"
 "name":
+"name":"
 "name":"admin"
 "name":"databases"
 "name_for_model":
@@ -658,6 +663,7 @@
 "protocol"
 "protocol":
 "provider"
+"provider":
 "providerId"
 "provision":
 "provisionArgs":
@@ -720,6 +726,7 @@
 "roleUser":
 "roles"
 "roles":
+"roles":[
 "root":
 "root@
 "rootFolder"
@@ -863,6 +870,7 @@
 "uname":
 "unavailables":
 "unconditionalClasses":[
+"unknown_error"
 "unlocked"
 "upassword":
 "updated":
@@ -1212,6 +1220,7 @@ $webdb
 /Solar_AiConf.php/"><script>alert(document.domain)</script>
 /Solar_History.php" METHOD="post">
 /UserSelect/dept.php
+/V1.0<sVg/onload=alert.bind()(1)>/Alarm/Exceptions/LinkageActions?=
 /WEB_VMS/LEVEL15/
 /_common/scripts/global.js
 /_emeetingglobals.js
@@ -3434,7 +3443,6 @@ $webdb
 <title>VMware HCX</title>
 <title>VMware View Portal</title>
 <title>VMware vCloud Director</title>
-<title>Vault</title>
 <title>Veeam Backup for GCP</title>
 <title>Veeam Backup for Microsoft Azure</title>
 <title>Verizon Router</title>
@@ -3708,6 +3716,7 @@ ALIYUN_ACCESSKEYSECRET
 AMBARI.
 AM_Self_Service_Console
 APCu Version Information
+API Key:
 APP_DEBUG=
 APP_KEY
 APP_NAME=
@@ -3732,6 +3741,7 @@ About the Author
 Access Token Invalid
 Access denied
 AccessKeyId
+AccessToken":
 Account not found.
 Account.LocalPassword=
 Account.Maxuser=
@@ -3940,6 +3950,7 @@ Brother Industries
 Browse
 BucketName
 Buddy App
+Build Your Own Botnet
 BuildTime
 BuildVersion
 Building configuration
@@ -4075,6 +4086,7 @@ Config
 Config List
 Configuaration
 Configuration
+Configuration Overview
 Configuration Repository
 Configuration Serveur
 Configuration Utility
@@ -4823,6 +4835,7 @@ LISTSERV
 LMSZAI - Learning Management System
 LNAME
 LOGIN
+LOGIN_REDIRECT:dashboard/dashboard.php
 LOGO1=
 LOG_LEVEL
 LSWEBSERVER
@@ -4895,6 +4908,7 @@ Log out</a>
 Logged in
 Logged in as root
 Login
+Login (Virtual Traffic Manager
 Login -  Speedtest Tracker
 Login - Dynatrace
 Login - Jorani
@@ -5326,6 +5340,7 @@ Portfolio of IT Projects - Spiceworks
 Position: ||whoami||
 Post
 Post Grid
+Post-Exploitation Framework
 Power Configuration:
 PowerCom Network Manager
 PowerLogic ION
@@ -5785,6 +5800,7 @@ Symfony Profiler
 Symmetricom SyncServer
 Sync | Secure Cloud Storage, File Sharing and Document Collaboration
 SyncThru Web Service
+System Administrator Settings
 System Description
 System Error
 System Info</a>
@@ -6005,6 +6021,7 @@ User profile for
 User sign up completed successfully
 User unknown
 User {{randstr}} successfully added to Database
+User":{"Name
 User-agent:
 User:
 User=
@@ -6601,7 +6618,9 @@ apache
 apache2.conf
 apache_modules:
 api
+apiKey
 apiKey:
+apiSecret
 apiVersion
 apiVersion:
 apikey
@@ -6777,6 +6796,7 @@ buckets
 build:
 buildCount
 build_name
+buildyourownbotnet/database.db
 bun-lockfile-format-v0
 bx.setcsslist
 by <a href="http://hikiwiki.org/
@@ -7775,6 +7795,7 @@ firebase
 firewalls:
 firmware version: stor_2.0
 firstName
+firstname":"{{firstname}}","lastname":"{{lastname}}
 fisheye 
 fisheye-16.ico
 fixedDelay
@@ -7877,6 +7898,8 @@ github-oauth
 github.com
 github.com/mher/flower
 github.com/provectus/kafka-ui
+give-form-hash
+give-form-id-prefix
 gke-remote
 glances.config
 glassfish community
@@ -8663,6 +8686,7 @@ main.nsf
 main:
 maincontent.css
 maintained by Netgate
+malwaredllc/byob
 manage this jboss as instance
 manage&a\"><script>alert(1)</script>">
 manageengine
@@ -9259,6 +9283,7 @@ powered_by_metinfo
 poweredby'><a href='http://www.chanzhi.org
 pppoe
 ppvod copyright
+pq: invalid input syntax for type integer: \"PostgreSQL 
 predicate
 preset
 presets: [
@@ -9395,6 +9420,7 @@ require 'rubygems'
 require (
 res/libs/webuploader/webuploader.css
 res/phabricator
+resetPasswordForm
 resource
 resource="title_sub"
 resource_references
@@ -10164,7 +10190,7 @@ value="明源售楼管理系统v5.0"
 value="经理">经理</option>
 value='&#39; and &#39;1&#39;=&#39;0 --
 value=''><sVg/OnLoAD=alert`1337`//'>
-value='test' draggable=true ondrag=alert(1)
+value='test' draggable=true ondrag=alert(document.domain)
 var Display_FAQ_ID =
 var WscDevPin
 var _adfwindowopenerror
@@ -10251,7 +10277,6 @@ var wpapskkey
 varchar
 variables:
 vassets/images/2af62f58ee2baf495c9b3a9a1c30ce03-favicon.png
-vault/
 vbulletinrce
 vcode.aspx
 vcxvcxv
@@ -10337,6 +10362,7 @@ whitelabel/mobileiron/img/favicon.ico
 widget-title"><script>alert(document.domain)</script></h3>
 widget.TreeView
 width="100"
+wiki-xwiki"onload="alert(document.domain)"
 wiki/tracguide
 wildfly project
 window.Bazarr
@@ -10517,6 +10543,7 @@ zyxel
 {"name":"guest"
 {"name":"root","path":"/root","folder":true}
 {"namedfieldempty":
+{"ok":true
 {"organization
 {"path":"/etc/designs/xh1x.childrenlist.json
 {"php":
@@ -10531,6 +10558,7 @@ zyxel
 {"seriesID":
 {"state":
 {"status":"Session Expired"}
+{"status":"success
 {"status":"success","message":"Items are loaded","data":
 {"success":"Chart updated"}
 {"success":true,"data":
@@ -10547,6 +10575,7 @@ zyxel
 {'api': '
 {{ neo4j.version | neo4jdeveloperdoc }}/
 {{base64_decode(cmd)}}
+{{echo-cmd-hash}}
 {{filename}}.php
 {{md5("{{randstr}}")}}
 {{md5(num)}}

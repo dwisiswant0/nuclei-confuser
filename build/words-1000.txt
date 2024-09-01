@@ -16,8 +16,8 @@ Index
 "data":
 "email":
 PHP
-"success":true
 username
+"success":true
 "password":
 "name"
 uid=
@@ -96,6 +96,7 @@ Installation
 <?xml
 :"true"
 "username"
+"type":
 "type"
 "token_type":
 "success"
@@ -167,7 +168,6 @@ Adminer
 "zlo
 "value":
 "uuid":
-"type":
 "success":
 "result":true
 "protocol":
@@ -244,6 +244,7 @@ namespace:
 name=
 myicalusername
 maxResults
+malwaredllc/byob
 lvm_
 local.server.port
 listen
@@ -252,6 +253,7 @@ java.lang.Exception
 issuer
 is_dir
 id="vbulletin_css
+id":
 hybris
 https://about.gitlab.com
 http://wadl.dev.java.net/2009/02
@@ -368,6 +370,7 @@ Project
 Progress
 Profile
 Profil
+Post-Exploitation
 Please
 Netsparker
 My
@@ -380,6 +383,7 @@ LISTSERV
 LDAP
 KEY
 Joomla
+Jackett
 JK
 Infusionsoft
 IceWarp
@@ -401,6 +405,7 @@ EMS
 Doris</title>
 Domain
 Disallow:
+Description
 Database
 Dashboard</a>
 DB
@@ -414,6 +419,7 @@ Cloud
 Change
 CREATE
 CATS=
+Build
 Brother
 Backdrop
 BEGIN:VCALENDAR
@@ -760,6 +766,7 @@ ASUS
 {{payload}}
 {{md5({{rand2}})}}
 {{filename}}.php
+{{echo-cmd-hash}}
 {{base64_decode(cmd)}}
 {{
 {'api':
@@ -776,6 +783,7 @@ ASUS
 {"success":true,"data":
 {"success":"Chart
 {"status":"success","message":"Items
+{"status":"success
 {"status":"Session
 {"state":
 {"seriesID":
@@ -789,6 +797,7 @@ ASUS
 {"php":
 {"path":"/etc/designs/xh1x.childrenlist.json
 {"organization
+{"ok":true
 {"namedfieldempty":
 {"name":"root","path":"/root","folder":true}
 {"name":"guest"
@@ -932,5 +941,3 @@ window.location.href="/源头数据资源管理/default/default.aspx"
 window.location.href.indexof("/index/carfile/"
 window.location.href.indexOf
 window.location.href
-window.location.host
-window.location
