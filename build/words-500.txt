@@ -27,11 +27,11 @@ for
 Interactsh
 "version":
 "id"
+"><script>alert(document.domain)</script>
 password
 name
 gid=
 </web-app>
-"><script>alert(document.domain)</script>
 error_message
 Parent
 <h1>
@@ -46,6 +46,7 @@ Login
 Joined
 <?php
 #
+"token":
 {{result}}
 {{md5(string)}}
 onclick='alert(document.domain)
@@ -58,8 +59,8 @@ DB_HOST
 ><script>alert(document.domain)</script>
 <web-app
 <svg/onload=alert(document.domain)>
+<script>alert(document.domain);</script>
 "url":
-"token":
 "access_token":
 {{randstr}}
 timestamp
@@ -67,7 +68,6 @@ success
 [core]
 Tested
 Exception
-<script>alert(document.domain);</script>
 "user":
 "url"
 "status":
@@ -109,7 +109,9 @@ Installation
 "archived_snapshots":
 {{md5("{{randstr}}")}}
 version:
+version
 variables:
+uid
 self
 profile:username
 paths:
@@ -138,6 +140,7 @@ Portfolio
 Password
 PASSWORD
 ManageEngine
+Logout
 IBM
 Followers
 Environment
@@ -187,6 +190,7 @@ Adminer
 로그인
 错误的id
 审计管理员
+{{string}}
 {{randstr}}.tld
 {"result":
 {"message":"
@@ -197,14 +201,12 @@ xdebug-error
 window.open
 window.FileBrowser
 web-app
-version
 var
 value=""><script>alert(document.domain)</script>
 user_login
 user_id
 userInfo
 userId
-uid
 type=dberror
 type
 true
@@ -285,6 +287,7 @@ discuz_uid
 default:
 def_wirelesspassword
 database:
+data":
 data
 d161b6e25db66456f8e0603de5132d1ff90f9388d0a0305d2d073a67fd229ddb
 d0850f616c5b4f09a7ff319701bce0460ffc17ca0349ad2cf7808b868688cf71
@@ -314,10 +317,12 @@ appId
 apiVersion:
 alert(document.domain);
 ae0edd232df6f579e19ea52115d35977f8bdbfa9958e0aef2221d62f3a39e7d8
+address
 added
 adapter:
 activeProfiles
 account
+accessToken
 ac9b38e86b6c87bf8db038ae23da3a5f17a6c391b3a54ad1e727136141a7d4f5
 about
 a9308f85e95b00007892d451fd9f6beabcd8792b4c5f8cd7524ba7e941d479c9
@@ -375,7 +380,6 @@ Please
 Netsparker
 My
 Monstra
-Logout
 Logged
 Log
 Label
@@ -472,7 +476,3 @@ ASUS
 <config>
 <authResult>0</authResult>
 <a
-<VERSION>
-<CmdResult>
-</usrid>
-969119f639d0837f445a10ced20d3a82d2ea69d682a4e74f39a48a4e7b443d5e

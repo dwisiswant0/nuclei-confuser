@@ -3,8 +3,8 @@
 <script>alert(document.domain)</script>
 DB_NAME
 DB_PASSWORD
-STABLEoTAG:	v
-[fonts]
+STABLE~TAG:3
+[extensions]
 bit
 display_name
 extensions
@@ -12,9 +12,9 @@ fonts
 for
 root:*:0:0
 root::0:0:
-root:::8:
-root:d:0:0
+root:::9:
+root:w:0:0
 root:x:0:0:
-uid=3(i)
-uid=e
+uid=1(n)
+uid=u
 {{md5(num)}}
