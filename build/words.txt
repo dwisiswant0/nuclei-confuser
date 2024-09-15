@@ -989,6 +989,7 @@ $_GET['css']
 $_POST[
 $_REQUEST[
 $_SERVER[
+$bindInfo = array
 $certfile
 $cfg_basedir
 $filename=$_GET["filename"];
@@ -1619,6 +1620,7 @@ $webdb
 /wp-content/plugins/redirection/
 /wp-content/plugins/shortcode-ninja/
 /wp-content/plugins/swipehq-payment-gateway-woocommerce/
+/wp-content/plugins/ultimate-maps-by-supsystic/modules/maps/css/
 /wp-content/plugins/ultimate-member/
 /wp-content/plugins/userpro/
 /wp-content/plugins/web-directory-free
@@ -2112,6 +2114,7 @@ $webdb
 <auth_state>1</auth_state>
 <auto-completion>
 <b><u>my last viewed</u></b>
+<b>Active Wiki Users</b>
 <b>INSERT:</b>
 <b>Interactsh</b>
 <b>M</b>altrail
@@ -2163,6 +2166,7 @@ $webdb
 <displayName>
 <div align="center" class="weatimages_toppest_navig" style="text-decoration:underline;">
 <div align="center">(<a href="doc.html" target="_blank">查看帝国备份王说明文档</a>)</div>
+<div class="AlrtMsgTxt">Profile was updated.</div>
 <div class="bigfix-logo">
 <div class="boxlabel">citadel server - powered by
 <div class="ciuis-body-content">
@@ -3094,6 +3098,7 @@ $webdb
 <title>Kafka Topics UI - Browse Kafka Data</title>
 <title>Kasm</title>
 <title>Kavita
+<title>Kemp Login Screen</title>
 <title>Kerio Connect Client</title>
 <title>Kibana Login</title>
 <title>Kibana</title>
@@ -3540,6 +3545,7 @@ $webdb
 <title>[AMPPS] - Web Local</title>
 <title>airCube</title>
 <title>atvise - next generation</title>
+<title>authentik</title>
 <title>browserless debugger</title>
 <title>cAdvisor - /</title>
 <title>dcTrack - Operations</title>
@@ -3681,6 +3687,7 @@ $webdb
 ?a"><script>alert(1)</script>&new-user-approve-settings
 ?a"><script>alert(document.domain)</script>
 ?action=register"
+?page=calendar
 ?worker=Cluster" name="cluster" id="id_cluster
 @
 @101010.pl
@@ -3787,6 +3794,7 @@ Admin Profile
 Admin User
 Admin of this Helprace account needs to set up domain alias
 Admin user
+Admin-Login: MPFTVC
 AdminFirstTime
 AdminLogin - MPFTVC
 Adminer
@@ -4783,6 +4791,7 @@ JIRA - JIRA setup
 JK Status Manager
 JNews -
 JSP Examples
+JSP Request Method
 JSP Samples
 JSmol2WP
 JVM
@@ -5184,6 +5193,7 @@ Nothing found
 Nothing here.
 Notion Labs, Inc.
 Notion – One workspace. Every team.
+Number of active sessions
 Nuxeo Platform
 NzbwpQSdbY06Dngnoteo2wdgiekm7j4Ndisplay_errors
 O2 | Phone, SIM &amp; Tech Deals - See What You Can Do
@@ -5302,6 +5312,7 @@ Password":
 Password:
 Password=
 Path Array
+Path info
 Payara Micro #badassfish - Error report
 PbootCMS
 Peer2Peer
@@ -5513,6 +5524,7 @@ Rekognition Image Validation Debug UI</title>
 Release date
 Remedy Login Page
 Remote IP
+Remote address
 Rep. all time</h5>
 Replace Textareas by Class Name
 Report Manager
@@ -5524,7 +5536,9 @@ Reports
 Repositories
 Repository not found
 Reputa
+Request Information
 Request Method:
+Request URI: /examples/jsp/snp/snoop.jsp;<script>alert(document.domain)</script>test.jsp
 Request with action all
 RequestDataTooBig
 RequestTorrentOfBucketError
@@ -5666,6 +5680,7 @@ Server Info
 Server Information
 Server Version
 Server logs (if subscribed)
+Server name
 Server rejected file due to unsupported file format.
 ServerName
 ServerVersion=11.6.0
@@ -6518,6 +6533,7 @@ adobe
 adobe experience manager
 adobe flex
 adsf/js/
+advancedOAuth2Config
 advfile/ad12.js
 ae0edd232df6f579e19ea52115d35977f8bdbfa9958e0aef2221d62f3a39e7d8
 aeddf31361633b3d1196c6483f25c484855e0f243e7f7e62686a4de9e10ec03b
@@ -6702,6 +6718,7 @@ aura:invalidSession
 auth
 auth-server-url
 authDomain:
+authId
 authResult":"0
 auth_cookie_name: 'PVEAuthCookie'
 auth_token
@@ -6711,6 +6728,7 @@ authentication
 authentication mode = dolibarr
 authentication_type":"local
 authenticity_token
+authentik.css
 author: 'Deluge Team
 author:lvzhaohua
 author=
@@ -7506,6 +7524,7 @@ ctpDataSource.password
 cui-login-screen
 currently locked
 custom tables
+customLoginUrlTemplate
 custom_scalars
 customizationIdMessage
 cws
@@ -7851,6 +7870,7 @@ forbidden - number in author
 forgerock
 format:
 formatter:
+formulaire_action_args
 fortiSIEM_current_login_salt
 fortiguard web filtering
 forum.trs.com.cn
@@ -8382,6 +8402,7 @@ imc来宾接入自助管理系统
 imgNavLeftXX\"><script>alert(document.cookie)</script>
 imgresize.riseup.ai
 imgs/fs-black-box.jpg
+imo
 imp: copyright 2001-2009 the horde project
 import-wbcr_insert_php&a\"><script>alert(1)</script>"
 inc/wqcms.js
@@ -8738,6 +8759,7 @@ maximum-resource-capability
 mdaemon 
 mdash; gpodder.net
 mdmserver
+media?parent={{template_id}}
 media_directory
 meetingplaza http tunneling
 mem
@@ -9572,6 +9594,7 @@ self.location = 'http://oast.me'
 self.location=
 sellerToken
 senginx-robot-mitigation
+sensei_email_preview_id={{template_id}}
 sensei_message
 seopanel
 serendipity_editor.js
@@ -9663,6 +9686,7 @@ spark jobs
 speakintertscarch.aspx
 specifiers:
 spider_Calendar_theme
+spip
 splash.loadExample
 spring boot admin
 spring:
@@ -9827,6 +9851,7 @@ static/style/images/tou.png") no-repeat
 static/styles/frame/basic.css
 statistics report for haproxy
 status
+status": 200
 status":"OK
 status":"good
 status_code_1 == 200
@@ -10027,6 +10052,7 @@ todaynic.com,inc.
 token
 token | mintMe
 tokenGenerationKey
+tokenId
 token_endpoint
 token_type":
 token_uri
@@ -10330,6 +10356,7 @@ version.services.core.carbon.wso2.org
 version:
 view config
 view report
+view=activity
 view_update_every
 viewer.min.css
 viewgood
@@ -10413,6 +10440,7 @@ window.___gcfg
 window._zimbramail
 window.appname = 'alidts';
 window.appname_='pcpin_chat'
+window.authentik
 window.erxesEnv
 window.eset
 window.external.addfavorite(location.href,document.title);

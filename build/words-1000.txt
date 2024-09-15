@@ -36,6 +36,7 @@ error_message
 Parent
 <h1>
 <img
+<?php
 "></script><script>alert(document.domain)</script>
 password=
 groups=
@@ -44,7 +45,6 @@ c8c605999f3d8352d7bb792cf3fdb25
 Password=
 Login
 Joined
-<?php
 #
 "token":
 {{result}}
@@ -80,6 +80,7 @@ url
 s
 notifyemail
 module.exports
+message
 java.sun.com
 id
 host
@@ -93,6 +94,7 @@ Name
 Login=
 Installation
 <svg
+<img/src/onerror=alert(document.domain)>
 <?xml
 :"true"
 "username"
@@ -117,7 +119,6 @@ profile:username
 paths:
 name:
 mooSocial
-message
 h3c.com
 followers
 f8ba2470fbf1e30f2ce64d34705b8e6615ac964ea84163c8a6adaaf8a91f9eac
@@ -159,7 +160,6 @@ Adminer
 <svg/onload=alert(/xss/)>
 <script>alert(1)</script>
 <methodResponse>
-<img/src/onerror=alert(document.domain)>
 <configuration>
 </script><img
 </password>
@@ -230,6 +230,7 @@ server
 security:
 result
 reloadByURL
+reason
 qdPM
 projects
 pool:
@@ -297,6 +298,7 @@ content="CMS
 content
 containerDefinitions
 configuration
+code
 cm9vd
 client_id
 class="oat
@@ -336,6 +338,7 @@ __CSRF_TOKEN_PLACEHOLDER__
 [default]
 Zabbix
 YzmCMS
+XML-RPC
 WriteCSS
 WooCommerce
 Windows
@@ -940,6 +943,3 @@ window.location.replace("/rss/")
 window.location.replace("/owa/"
 window.location.replace("/cgi-bin/web2cgi/index.cgi");
 window.location.href="single/empmain2.aspx
-window.location.href="main.html";
-window.location.href="iserver";
-window.location.href="https://"+window.location.host+"/fort/login
