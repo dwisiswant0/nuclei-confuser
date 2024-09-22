@@ -24,10 +24,10 @@ uid=
 login
 for
 "items":
+"><script>alert(document.domain)</script>
 Interactsh
 "version":
 "id"
-"><script>alert(document.domain)</script>
 password
 name
 gid=
@@ -198,6 +198,7 @@ zcms_skin
 zabbix
 xnstyle.css
 xdebug-error
+writeln('Log
 window.open
 window.FileBrowser
 web-app
@@ -369,6 +370,7 @@ SQLServer
 SQLSTATE
 SQLException
 Repositories
+Remote
 Redmine
 Recent
 Reached
@@ -767,6 +769,7 @@ ASUS
 {{username}}',
 {{username}}
 {{str}}16384
+{{secret}}
 {{revstr}}
 {{reflection}}
 {{redirect_to}}
@@ -783,6 +786,7 @@ ASUS
 {"username":"{{user}}"}
 {"username":"{{username}}","error":false}
 {"type":"success","message":"File
+{"type":"event"
 {"token":".*"}
 {"title":"FastAPI"
 {"text":"Page
@@ -938,8 +942,3 @@ window.location="/citrix/xenapp"
 window.location="/citrix/metaframe
 window.location.replace('/bin/hdnet.dll/login')
 window.location.replace("web/");
-window.location.replace("login.jsp?up=1")
-window.location.replace("/rss/")
-window.location.replace("/owa/"
-window.location.replace("/cgi-bin/web2cgi/index.cgi");
-window.location.href="single/empmain2.aspx

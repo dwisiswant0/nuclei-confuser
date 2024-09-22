@@ -24,10 +24,10 @@ uid=
 login
 for
 "items":
+"><script>alert(document.domain)</script>
 Interactsh
 "version":
 "id"
-"><script>alert(document.domain)</script>
 password
 name
 gid=
@@ -198,6 +198,7 @@ zcms_skin
 zabbix
 xnstyle.css
 xdebug-error
+writeln('Log
 window.open
 window.FileBrowser
 web-app
@@ -369,6 +370,7 @@ SQLServer
 SQLSTATE
 SQLException
 Repositories
+Remote
 Redmine
 Recent
 Reached
@@ -473,6 +475,3 @@ ASUS
 <script>alert(document.domain)</script>/graphics/common/screen/dotclear.gif
 <script>alert(1337)</script>
 <name>faultString</name>
-<html
-<groupId>com.atlassian.jira</groupId>
-<deviceType>

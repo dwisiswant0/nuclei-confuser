@@ -24,10 +24,10 @@ uid=
 login
 for
 "items":
+"><script>alert(document.domain)</script>
 Interactsh
 "version":
 "id"
-"><script>alert(document.domain)</script>
 password
 name
 gid=
