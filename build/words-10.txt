@@ -6,5 +6,5 @@ bit
 DB_PASSWORD
 DB_NAME
 {{md5(num)}}
+"id":
 display_name
-"name":

@@ -6,9 +6,9 @@ bit
 DB_PASSWORD
 DB_NAME
 {{md5(num)}}
+"id":
 display_name
 "name":
-"id":
 {{md5({{num}})}}
 Tags:
 "username":
@@ -37,6 +37,7 @@ Parent
 <h1>
 <img
 <?php
+"token":
 "></script><script>alert(document.domain)</script>
 password=
 groups=
@@ -46,7 +47,7 @@ Password=
 Login
 Joined
 #
-"token":
+"created_at":
 {{result}}
 {{md5(string)}}
 onclick='alert(document.domain)
@@ -65,6 +66,7 @@ DB_HOST
 {{randstr}}
 timestamp
 success
+module.exports
 [core]
 Tested
 Exception
@@ -75,11 +77,9 @@ Exception
 "results":
 "host":
 "domain"
-"created_at":
 url
 s
 notifyemail
-module.exports
 message
 java.sun.com
 id
@@ -171,7 +171,9 @@ Adminer
 "zlo
 "value":
 "uuid":
+"updated_at":
 "success":
+"state":
 "result":true
 "protocol":
 "password"
@@ -421,7 +423,6 @@ DB
 Current
 Contributions
 ContentPanel
-Contact
 Company
 Cluster
 Cloud
@@ -768,7 +769,9 @@ ASUS
 |
 {{username}}',
 {{username}}
+{{to_lower(username)}}
 {{str}}16384
+{{sid}}
 {{secret}}
 {{revstr}}
 {{reflection}}
@@ -819,6 +822,7 @@ ASUS
 {"html"
 {"formpost"
 {"facebook_urls":[["<img
+{"expire":
 {"events":
 {"errorMessage":"Bad
 {"error":"You
@@ -938,7 +942,3 @@ window.location='login.action';
 window.location='/www/login.html'
 window.location="templateOfTaohong_manager.jsp?path="
 window.location="/vmonitor";
-window.location="/citrix/xenapp"
-window.location="/citrix/metaframe
-window.location.replace('/bin/hdnet.dll/login')
-window.location.replace("web/");
