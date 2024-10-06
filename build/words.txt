@@ -58,6 +58,7 @@
 "</script><script>alert(document.domain);</script><script>
 "</script><script>alert(document.domain)</script>"><input
 "<div class=
+"<script>alert(document.domain)</script>
 "<script>alert(document.domain)</script>",
 "></script><script>alert(document.domain)</script>
 "></script><script>alert(document.domain)</script>.php
@@ -271,6 +272,7 @@
 "cmc_rank"
 "cmdline":
 "code":
+"code":"success"
 "code":"validation_error"
 "code":200
 "code":20000
@@ -354,6 +356,7 @@
 "description" :"The Pega API
 "description":
 "description":"AWX REST API"
+"detail"
 "detailMsg":
 "deviceImage":
 "deviceReadonly":
@@ -438,6 +441,7 @@
 "guacadmin"
 "guid":
 "guppyUsers":
+"handle"
 "harbor_version"
 "hasAdmin"
 "hash":"<img src=x onerror=alert(document.domain)>"
@@ -572,6 +576,7 @@
 "metrics":
 "minor":
 "mode":
+"model":
 "more":
 "msg"
 "msg":
@@ -588,6 +593,7 @@
 "name":"
 "name":"admin"
 "name":"databases"
+"name":"{{to_lower(filename)}}"
 "name_for_model":
 "name_local":
 "network"
@@ -693,6 +699,7 @@
 "rating"
 "reason":
 "record"
+"records"
 "redirect": "/htdocs/pages/main/main.lsp"
 "redirection"]
 "refresh_token":
@@ -720,9 +727,11 @@
 "resourceName":
 "response": "ok",
 "responseHeader":
+"response_type":
 "result":
 "result":"ok"
 "result":true
+"result":true,"session"
 "result\":false
 "results":
 "retCode":0
@@ -749,6 +758,7 @@
 "sciName":
 "scope"
 "scopes":
+"scopes":[
 "script":
 "search_shield"
 "search_url"
@@ -798,6 +808,7 @@
 "status":"OK"
 "status":"Success"
 "status":"ok"
+"status":"success
 "status":1
 "status":400
 "status":999
@@ -852,8 +863,11 @@
 "title"
 "title":
 "title":"OpenEMR Product Registration"
+"title":"{{marker}}","description":"{{marker}}"
 "token"
 "token":
+"token_expire":
+"token_issued_at":
 "token_type"
 "token_type":
 "took":
@@ -926,6 +940,7 @@
 "users"
 "uuid"
 "uuid":
+"value"
 "value":
 "value":"group"
 "value":"passwd"
@@ -940,6 +955,7 @@
 "view":
 "visibility":"public"
 "weather":
+"webLinks"
 "webmail"
 "website":
 "whois_server"
@@ -1131,7 +1147,6 @@ $webdb
 ,'manageengine servicedesk plus',
 - 123RF
 - Academia.edu
-- Adminer</title>
 - Arduino Project Hub
 - BOOTH</title>
 - BitTube</title>
@@ -1614,6 +1629,7 @@ $webdb
 /wp-content/plugins/import-legacy-media/
 /wp-content/plugins/lifterlms/
 /wp-content/plugins/mstore-api
+/wp-content/plugins/ninja-forms
 /wp-content/plugins/phpfreechat/
 /wp-content/plugins/pondol-formmail/
 /wp-content/plugins/qards
@@ -2237,6 +2253,7 @@ $webdb
 <em class="wk-fl">在沃系统</em>
 <em id="jserror">please enable javascript for full functionality
 <em style="color: black;"><script>alert(document.domain)</script>
+<environment include="Development">
 <f-icon class="fa-warning
 <faultcode>
 <fieldset id="adminaccount"><legend>Create an <strong>admin account</strong></legend>
@@ -2591,6 +2608,7 @@ $webdb
 <script src="http://kefu.qycn.com/
 <script src="oemmessage.js
 <script type="text/javascript" src="themes/default/js/webmail.js"></script>
+<script type="text/javascript">
 <script> alert
 <script>alert("{{randstr}}")</script>
 <script>alert('XSS')</script>
@@ -2679,6 +2697,7 @@ $webdb
 <string>
 <strong class="product">HP Color LaserJet
 <strong><img src onerror=alert(document.domain)></strong>
+<strong>ASPNETCORE_ENVIRONMENT</strong> environment variable to <strong>Development</strong>
 <strong>IceWarp
 <strong>URL:</strong>
 <strong>Warning</strong>:
@@ -3593,6 +3612,7 @@ $webdb
 <title>perfSONAR Toolkit</title>
 <title>pfSense - Login</title>
 <title>pgAdmin
+<title>pgAdmin 4</title>
 <title>phpMyAdmin
 <title>phpMyAdmin setup
 <title>phpMyAdmin setup</title>
@@ -3631,6 +3651,7 @@ $webdb
 <tr><td><a href="http://www.stardot.com" target="_blank"><img src="logo.gif" alt="" width="227" height="45"></a></td>
 <tt>&#039;{{BaseURL}}&#039;</tt>
 <tt>&#039;{{BaseURL}}/&#039;</tt>
+<umb-auth
 <url-pattern>/weaver/
 <user name=
 <userName>
@@ -3747,6 +3768,7 @@ APP_KEY
 APP_NAME=
 AR9344_GATEWAY
 ARCHIBUS
+ASPNETCORE_ENVIRONMENT
 ASUS
 ATP
 ATutor
@@ -4401,6 +4423,7 @@ Endpoint Protector - Reporting and Administration Tool
 EndpointAutoConfiguration#beansEndpoint
 Enter your new password:
 Enterprise-Class Redis for Developers
+EntityDescriptor
 Entry Error
 Environment Variables
 Environment Variables:
@@ -4514,10 +4537,12 @@ Following</span>
 FootPrints Service Core Login
 For root URLs (like <code>http://example.com/</code>)
 For root URLs (like http://example.com/) you must provide an index.html file
+Forbidden - CUPS
 Forcepoint Email Security
 ForgeRock
 Forget About Shortcode Buttons =
 Forgot password
+Forgot your password
 FortiClient Endpoint Management Server
 FortiMail Click Protection
 FortiManager
@@ -5210,6 +5235,7 @@ Number of active sessions
 Nuxeo Platform
 NzbwpQSdbY06Dngnoteo2wdgiekm7j4Ndisplay_errors
 O2 | Phone, SIM &amp; Tech Deals - See What You Can Do
+OAUTH2_CLIENT_SECRET
 OAuth Administration
 OJS Installation
 OK
@@ -5582,8 +5608,10 @@ Rule Execution Server console
 Run Script
 Running Time
 Runs - 
+RuntimeException
 S3 Video Plugin =
 SABnzbd Quick-Start Wizard
+SAML
 SAP Analytics Cloud
 SAP IGS
 SAP Management Console
@@ -5700,6 +5728,7 @@ Server Version
 Server logs (if subscribed)
 Server name
 Server rejected file due to unsupported file format.
+Server: CUPS
 ServerName
 ServerVersion=11.6.0
 Service/Action name
@@ -5787,6 +5816,7 @@ Sorry, the requested URL
 Sorry, this page is no longer available.
 Sorry, this shop is currently unavailable.
 Sorry, this store is currently unavailable.
+Sorry, you are not allowed to do that.
 SoundCloud</title>
 SourceAfrica
 SourceTimeStamp=
@@ -5883,6 +5913,7 @@ TEST<script>alert(1)</script>
 TEW-827DRU
 THANOS_COMPONENT
 THANOS_QUERY_URL
+THIS WEBSITE HAS BEEN SEIZED
 TIBCO Jaspersoft: Login
 TIME
 TITLE 46ea1712d4b13b55b3f680cc5b8b54e8
@@ -6172,6 +6203,7 @@ Web Configurator
 Web Console</a>
 Web File Manager
 Web Interface
+Web Interface is Disabled - CUPS
 Web Server Configuration
 Web Shell
 Web Suite
@@ -6301,7 +6333,7 @@ X-Rate-Limit-Remaining:
 X-Rate-Limit-Scope:
 XEROX WORKCENTRE
 XML-RPC server accepts POST requests only.
-XMLHttpRequest.prototype.open
+XMLHttpRequest.prototype.open = XMLHttpRequest.prototype.send
 XPATH syntax error
 XPATH syntax error:
 XWiki.XWikiUsers[0]
@@ -6580,6 +6612,7 @@ alert("菜单层数量和内容层数量不一样!")
 alert("餐厅编号不能为空")
 alert('Administrator
 alert('document.domain')
+alert('document.domain');
 alert(/XSS/);
 alert(/{{randstr}}/)
 alert(1337)
@@ -6885,6 +6918,7 @@ cURL Test for PhonePe
 cacheManagers
 cachehit
 caldav_public_user
+camaleon_cms
 canRead
 can_execute_commands
 cancel" href="javascript:alert(document.domain)
@@ -7584,6 +7618,7 @@ data-qa-selector="new_user_register_button"
 data-redirect="account/systemconfiguration.aspx"
 data-shoppable-auth-token
 data-target="#navbar-feifeicms"
+data-tinvwl_product_id="
 data-xwiki
 data:
 data:image\/;base64
@@ -7955,6 +7990,7 @@ geoserver
 get book price failed! You have an error in your SQL syntax
 get microsoft silverlight
 get started with yii
+getHashSalt
 getServletConfig
 get_cfg_clientlist
 get_dkey_passwd
@@ -9114,7 +9150,6 @@ parent.location.replace("http://")
 parent.main.location = urlnonst + "?nst=" + top.menu.securitytoken
 parent_location
 parseHadoopProgress
-partial(verifyVersion
 pass:
 pass=
 passphrase
@@ -10101,6 +10136,7 @@ tongda2000
 tools:
 top.location.href = 'javascript:alert(document.domain)';
 top.location=window.location;top.location="/remote/login";
+top.postMessage(
 topic_id: "</script><script>alert(document.domain)</script>
 topics
 toplevel_page_snippets
@@ -10651,7 +10687,9 @@ zyxel
 {"message":"You are not subscribed to this API."}
 {"name":"Windows","path":"C:\\\\Windows","folder":true}
 {"name":"guest"
+{"name":"restart.txt","folder_path":"../../../tmp"
 {"name":"root","path":"/root","folder":true}
+{"name":"{{filename}}.rb","folder_path":"../../../config/initializers"
 {"namedfieldempty":
 {"ok":true
 {"organization
@@ -10688,6 +10726,7 @@ zyxel
 {{base64_decode(cmd)}}
 {{echo-cmd-hash}}
 {{filename}}.php
+{{marker}}
 {{md5("{{randstr}}")}}
 {{md5(num)}}
 {{md5(string)}}

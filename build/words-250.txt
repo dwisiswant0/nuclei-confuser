@@ -35,9 +35,9 @@ gid=
 error_message
 Parent
 <h1>
+"token":
 <img
 <?php
-"token":
 "></script><script>alert(document.domain)</script>
 password=
 groups=
@@ -47,6 +47,7 @@ Password=
 Login
 Joined
 #
+"url":
 "created_at":
 {{result}}
 {{md5(string)}}
@@ -61,7 +62,6 @@ DB_HOST
 <web-app
 <svg/onload=alert(document.domain)>
 <script>alert(document.domain);</script>
-"url":
 "access_token":
 {{randstr}}
 timestamp
@@ -173,8 +173,8 @@ Adminer
 "uuid":
 "updated_at":
 "success":
+"status"
 "state":
-"result":true
 "protocol":
 "password"
 "message":
@@ -227,7 +227,6 @@ startAt
 ssh-rsa
 ssh-ed25519
 ssh-dss
-session
 server.port
 server
 security:
@@ -240,3 +239,4 @@ pool:
 phpinfo()
 paths
 pass:
+parameters:

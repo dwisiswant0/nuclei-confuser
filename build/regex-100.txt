@@ -1,24 +1,23 @@
-root:P:0:0:
-STABLEITAG:	z
+root:L:0:0:
+STABLE/TAG:y
 root:*:0:0
 [fonts]
 root:*:0:0:
-root:|:0:0
-uid=m
-uid=0(q)
+root:Y:0:0
+uid=v
+uid=6(A)
 for
-root:::5:
-uid=6(l)
-uid=i
+root:Z::7:
+groups=2(l)
+uid=(
 toor:x:0:0
 Windows
 weblogic.jdbc.informix
 valid
 unsupported
-uid=8gid=61
-uid=9
-sqlite3UOperationalError:
-rdmStmtPrepare(F)
+uid=4gid=2
+sqlite3tOperationalError:
+rdmStmtPrepare(i)
 quoted
 org.sqlite.JDBC
 org.postgresql.util.PSQLException
@@ -54,12 +53,12 @@ com.ibm.db2.jcc
 com.frontbase.jdbc
 com.facebook.presto.jdbc
 check
-bin:.:1:1
-aws_access_key_id= 
+bin::1:1
+aws_access_key_id=
 success
-db2_7(
+db2_f(
 SQL
-ORA-73461
+ORA-51085
 [SQLITE_ERROR]
 [SQL
 [MonetDB][ODBC
@@ -67,8 +66,8 @@ ORA-73461
 
 Zend_Db_Adapter_Sqlsrv_Exception
 Zend_Db_Adapter_Oracle_Exception
-Zend_Db_Adapter_Mysqli_Exception
-Zend_Db_Statement_Db2_Exception
+Zend_Db_Statement_Mysqli_Exception
+Zend_Db_Adapter_Db2_Exception
 Virtuoso
 Unknown
 Unexpected
@@ -86,5 +85,5 @@ SQLite3::SQLException
 SQLite/JDBCDriver
 SQLite
 SQLServer
-SQLSTATE[2]:
+SQLSTATE[7]:
 SQLSrvException

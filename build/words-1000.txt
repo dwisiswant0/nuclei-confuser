@@ -35,9 +35,9 @@ gid=
 error_message
 Parent
 <h1>
+"token":
 <img
 <?php
-"token":
 "></script><script>alert(document.domain)</script>
 password=
 groups=
@@ -47,6 +47,7 @@ Password=
 Login
 Joined
 #
+"url":
 "created_at":
 {{result}}
 {{md5(string)}}
@@ -61,7 +62,6 @@ DB_HOST
 <web-app
 <svg/onload=alert(document.domain)>
 <script>alert(document.domain);</script>
-"url":
 "access_token":
 {{randstr}}
 timestamp
@@ -173,8 +173,8 @@ Adminer
 "uuid":
 "updated_at":
 "success":
+"status"
 "state":
-"result":true
 "protocol":
 "password"
 "message":
@@ -227,7 +227,6 @@ startAt
 ssh-rsa
 ssh-ed25519
 ssh-dss
-session
 server.port
 server
 security:
@@ -278,6 +277,7 @@ f9ab217549b223c55fa310f2007a8f5685f9596c579f5c5526e7dcb204ba0e11
 f154ef27cf0f1383ba4ca59531058312b44c84d40938bc8758827023db472812
 errors
 errorMessage
+environments:
 email
 ecology.password
 ecdsa-sha2-nistp256
@@ -540,13 +540,14 @@ ASUS
 "took":
 "token"
 "timestamp"
+"time":
 "terms"
 "team_id":
 "success":200
-"status"
 "slug":
 "sessionId":
 "server":
+"result":true
 "result":"ok"
 "result":
 "rates"
@@ -778,6 +779,7 @@ ASUS
 {{redirect_to}}
 {{payload}}
 {{md5({{rand2}})}}
+{{marker}}
 {{filename}}.php
 {{echo-cmd-hash}}
 {{base64_decode(cmd)}}
@@ -813,7 +815,9 @@ ASUS
 {"organization
 {"ok":true
 {"namedfieldempty":
+{"name":"{{filename}}.rb","folder_path":"../../../config/initializers"
 {"name":"root","path":"/root","folder":true}
+{"name":"restart.txt","folder_path":"../../../tmp"
 {"name":"guest"
 {"name":"Windows","path":"C:\\\\Windows","folder":true}
 {"message":"You
@@ -937,8 +941,3 @@ window.open(url,
 window.open('index.htm
 window.open('http://www.hechen.com')
 window.open("http://itmc.mmsh.sinopec.com/itgk/sysmgr/productregister/yunweiproregister.view");
-window.location=contextpath+"/work/index.jsp"
-window.location='login.action';
-window.location='/www/login.html'
-window.location="templateOfTaohong_manager.jsp?path="
-window.location="/vmonitor";
