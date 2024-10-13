@@ -24,10 +24,10 @@ uid=
 login
 for
 "items":
+"id"
 "><script>alert(document.domain)</script>
 Interactsh
 "version":
-"id"
 password
 name
 gid=
@@ -46,6 +46,7 @@ c8c605999f3d8352d7bb792cf3fdb25
 Password=
 Login
 Joined
+><script>alert(document.domain)</script>
 #
 "url":
 "created_at":
@@ -58,7 +59,6 @@ Model=
 Member
 Dashboard
 DB_HOST
-><script>alert(document.domain)</script>
 <web-app
 <svg/onload=alert(document.domain)>
 <script>alert(document.domain);</script>
@@ -70,6 +70,7 @@ module.exports
 [core]
 Tested
 Exception
+"username"
 "user":
 "url"
 "status":
@@ -97,7 +98,6 @@ Installation
 <img/src/onerror=alert(document.domain)>
 <?xml
 :"true"
-"username"
 "type":
 "type"
 "token_type":
@@ -142,6 +142,7 @@ Password
 PASSWORD
 ManageEngine
 Logout
+LISTSERV
 IBM
 Followers
 Environment
@@ -152,6 +153,7 @@ Configuration
 BEGIN
 AuthMode=
 Adminer
+Action
 <title>Odoo</title>
 <title>Logon</title>
 <title>Login</title>
@@ -238,5 +240,3 @@ projects
 pool:
 phpinfo()
 paths
-pass:
-parameters:

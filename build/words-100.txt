@@ -24,10 +24,10 @@ uid=
 login
 for
 "items":
+"id"
 "><script>alert(document.domain)</script>
 Interactsh
 "version":
-"id"
 password
 name
 gid=
@@ -46,6 +46,7 @@ c8c605999f3d8352d7bb792cf3fdb25
 Password=
 Login
 Joined
+><script>alert(document.domain)</script>
 #
 "url":
 "created_at":
@@ -58,7 +59,6 @@ Model=
 Member
 Dashboard
 DB_HOST
-><script>alert(document.domain)</script>
 <web-app
 <svg/onload=alert(document.domain)>
 <script>alert(document.domain);</script>
@@ -70,6 +70,7 @@ module.exports
 [core]
 Tested
 Exception
+"username"
 "user":
 "url"
 "status":
@@ -95,4 +96,3 @@ Login=
 Installation
 <svg
 <img/src/onerror=alert(document.domain)>
-<?xml

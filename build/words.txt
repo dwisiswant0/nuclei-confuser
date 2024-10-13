@@ -66,6 +66,7 @@
 "><img src onerror=alert(document.domain) x
 "><injectable>
 "><script>alert("1")</script>
+"><script>alert(/document_domain/)</script>
 "><script>alert(/{{randstr}}/);</script>
 "><script>alert(1)</script>
 "><script>alert(document.domain);</script><
@@ -418,6 +419,7 @@
 "files":
 "firstName"
 "firstName":
+"first_name:"
 "fixedEmail"
 "folders":
 "folders": {
@@ -489,6 +491,7 @@
 "isTopTeacher":
 "isValid":true
 "is_active":
+"is_bot"
 "is_dir":
 "is_icon_glyph":
 "is_up_to_date":
@@ -604,6 +607,7 @@
 "node":
 "nodeName":
 "nodes"
+"nps"
 "num_results":
 "number" :
 "number":
@@ -611,6 +615,8 @@
 "object":
 "ok":true
 "online_flag":
+"openai_api_key":
+"openai_api_type":
 "orb_num":
 "org"
 "organization_id":
@@ -632,6 +638,7 @@
 "param"
 "parameters":
 "params":
+"passive_count"
 "passphrase":
 "password"
 "password":
@@ -671,6 +678,8 @@
 "product":
 "profile"
 "projects":
+"promoter_count"
+"promoter_percent"
 "properties":
 "propertySources"
 "protocol"
@@ -727,6 +736,7 @@
 "resourceName":
 "response": "ok",
 "responseHeader":
+"response_count"
 "response_type":
 "result":
 "result":"ok"
@@ -1036,6 +1046,7 @@ $webdb
 '';alert('document.domain')//';
 '';alert(document.domain);var ok='
 ',alert(document.domain),'
+'-alert(document.domain)-'
 '/admin/launch?script=
 '/auth/sage-id/registerStart'
 '</script><svg/onload=alert(document.cookie)>
@@ -1090,6 +1101,7 @@ $webdb
 'DB_PASSWORD'
 'DB_USER'
 'DB_USER',
+'Downloading'
 'LOG_CNT':
 'Shopsys\
 'TrueNAS'
@@ -1615,6 +1627,7 @@ $webdb
 /wp-content/plugins/
 /wp-content/plugins/1-flash-gallery
 /wp-content/plugins/FlagEm/
+/wp-content/plugins/agile-store-locator
 /wp-content/plugins/alert-before-your-post/
 /wp-content/plugins/api-bearer-auth/
 /wp-content/plugins/bbpress/
@@ -1626,6 +1639,7 @@ $webdb
 /wp-content/plugins/formcraft3/
 /wp-content/plugins/gtranslate/
 /wp-content/plugins/heat-trackr/
+/wp-content/plugins/hostel
 /wp-content/plugins/import-legacy-media/
 /wp-content/plugins/lifterlms/
 /wp-content/plugins/mstore-api
@@ -2971,6 +2985,7 @@ $webdb
 <title>Elasticsearch-sql client</title>
 <title>Emby</title>
 <title>Emerson Network Power IntelliSlot Web Card</title>
+<title>Enablix</title>
 <title>EnvisionGateway</title>
 <title>Envoy Admin</title>
 <title>Error - Site Recovery</title>
@@ -3107,6 +3122,7 @@ $webdb
 <title>Issabel - Login page</title>
 <title>Ivanti Connect Secure</title>
 <title>Ivanti(R) Cloud Services Appliance</title>
+<title>JC-e converter webinterface</title>
 <title>JCR Compare | ACS AEM Commons</title>
 <title>JSON Server</title>
 <title>Jamf Pro Login</title>
@@ -3317,6 +3333,7 @@ $webdb
 <title>QloApps Installation
 <title>Qualitor Web</title>
 <title>R WebServer</title>
+<title>RStudio Sign In</title>
 <title>RTM WEB</title>
 <title>RabbitMQ Management</title>
 <title>Radarr</title>
@@ -3339,6 +3356,7 @@ $webdb
 <title>RouterOS router configuration page</title>
 <title>Ruckus Wireless Admin</title>
 <title>Rule Execution Server</title>
+<title>Runtime Error</title>
 <title>Rustici Content Controller</title>
 <title>S-Filer Portal - Login</title>
 <title>SAP&#x20;NetWeaver&#x20;Portal</title>
@@ -3371,6 +3389,7 @@ $webdb
 <title>Sensu
 <title>SequoiaDB</title>
 <title>ServerStatus</title>
+<title>Service</title>
 <title>Setup - mosparo
 <title>Setup Wizard
 <title>Setup Wizard</title>
@@ -3406,7 +3425,6 @@ $webdb
 <title>Splunk SOAR</title>
 <title>Start Element Manager</title>
 <title>Storybook</title>
-<title>Strapi Admin</title>
 <title>Structurizr
 <title>Struts Problem Report</title>
 <title>Struts2 Showcase
@@ -3515,6 +3533,7 @@ $webdb
 <title>WebTitan Cloud
 <title>WebTools | Home</title>
 <title>WebcomCo</title>
+<title>Webinterface</title>
 <title>Webmodule</title>
 <title>Webroot - Login</title>
 <title>Welcome To Kenesto&reg;</title>
@@ -3560,6 +3579,7 @@ $webdb
 <title>Yellowfin Information Collaboration</title>
 <title>Yii Debugger</title>
 <title>Yopass
+<title>Your Azure Function App is up and running.</title>
 <title>Z-Blog</title>
 <title>ZEROF Web Server</title>
 <title>ZM - Login</title>
@@ -3847,6 +3867,7 @@ AgencytaskList.aspx
 AiCloud</title>
 AirCube Dashboard
 AirNotifier
+AirWatch
 Airflow
 Airflow - Login
 Airflow 404
@@ -3904,6 +3925,7 @@ ArcGIS
 ArcGIS Enterprise
 ArcGIS REST API
 Arcserve UDP
+AriaNg Debug Console
 Array
 Art Type
 Artica Web
@@ -4248,6 +4270,7 @@ DIRECTUM Login
 DJANGO
 DMS Admin
 DMS || Dashboard
+DMVCFramework Exception
 DOCUMENT_ROOT="
 DON'T PANIC
 DPLUS Dashboard
@@ -4291,6 +4314,7 @@ Dejavu, the missing Web UI for Elasticsearch
 DeleteApplication
 Deleted 1<img src onerror=alert(document.domain)> posts
 Deliveroo - Takeaway Food Delivery from Local Restaurants &amp; Shops
+DelphiMVCFramework
 Delta Controls ORCAview
 Deluge WebUI
 DeploySuccess._init
@@ -4420,6 +4444,7 @@ Encompass CM1 Home Page
 Encryption:
 End Time
 Endpoint Protector - Reporting and Administration Tool
+Endpoint not found.
 EndpointAutoConfiguration#beansEndpoint
 Enter your new password:
 Enterprise-Class Redis for Developers
@@ -4432,6 +4457,7 @@ Epson Web Control
 Error 403--
 Error 404 - AnnounceKit
 Error 404--Not Found
+Error 500 : LUA Runtime Error
 Error ConnectYourDomain occurred
 Error Log for
 Error in query [INSERT INTO profiles (profileid, userid
@@ -4450,6 +4476,8 @@ Examining System Properties
 Examining Version Service
 Examining webapp configuration
 Exception
+Exception - ExpressionEngine
+Exception Caught
 Exception while fetching data
 Exception: Error while [Loading XML
 Exchange Admin Center
@@ -4769,7 +4797,6 @@ Install - StackPosts - Social Marketing Tools
 Install ESPEasy
 Install GitHub Enterprise
 Install Tasmota
-Install Umbraco
 Install the script - JustFans
 Install via Web Browser
 Install</a>
@@ -5003,6 +5030,7 @@ Login=
 LoginPage
 LoginPage":false
 Logitech Harmony Pro Installer Portal
+Logon Error Message
 Logout
 Logs
 Looking for
@@ -5054,6 +5082,7 @@ Main Config
 Main URL to Post
 Main page - Lansweeper
 Main_List.asp
+Mako Runtime Error
 Maltrail</title>
 Malware Protection & Internet Security &#124; ESET
 Manage Account
@@ -5126,6 +5155,7 @@ Module B
 Moleculer Microservices Project
 Monero | User
 Mongo Express
+MongoDB Exception
 MongoDB Ops Manager</title>
 Monitoring JavaMelody on
 Monstra
@@ -5614,6 +5644,7 @@ SABnzbd Quick-Start Wizard
 SAML
 SAP Analytics Cloud
 SAP IGS
+SAP Internet Communication Framework Team
 SAP Management Console
 SAP NetWeaver Application Server
 SAP NetWeaver Developer Studio
@@ -5715,6 +5746,7 @@ Segmentation Fault
 Selea CarPlateServer
 Select items to perform actions on them.
 Self-Service Console
+Self-Service Portal
 Send Access Request URL
 Sentinel License Monitor
 SentinelOne - Management Console
@@ -6000,6 +6032,7 @@ This file controls the configuration of the svnserve daemon
 This file is auto-generated from the current state of the database.
 This files describes API changes in core libraries and APIs,
 This is a SOCKS Proxy
+This is a Windows&#169; Communication Foundation service.
 This is a private repository
 This is simplified WADL with user and core resources only
 This job board website is either expired
@@ -6018,6 +6051,7 @@ Tidio Gallery
 TikTok - Make Your Day
 Tiki Wiki CMS
 Tiki Wiki CMS Groupware
+TileServer
 Time
 Time Spent Online
 Time Zone updated successfully
@@ -6033,6 +6067,7 @@ Too many connections
 TooManyFieldsSent
 ToolJet - Dashboard
 Tools
+TopLevelLookupException
 TorchServe APIs"
 Total Edits
 Total War Forums
@@ -6052,6 +6087,7 @@ Turbo Website Reviewer | Installer panel
 TurboMail管理系统
 TurnKey LAMP</title>
 TurnKey OpenVPN
+Twig Runtime Error – Twig\Error\RuntimeError
 Twitch is an interactive livestreaming service for content spanning gaming, entertainment, sports, music, and more. There’s something for everyone on Twitch.
 Types of profiles available:
 UID=
@@ -6080,6 +6116,7 @@ Unauthorized
 Uncaught Error: Call to a member function fetch_assoc()
 Uncaught TYPO3 Exception
 Undefined index: --><svg onload=alert(document.domain)> in file
+Undefined index: taskID
 Unexpected text in DTD
 Unfortunately the article you are looking for could not be found.
 UniFi Wizard
@@ -6731,6 +6768,7 @@ app_themes/1/style.css
 appex network corporation
 apphub.server.registertohub(qrcodeid)
 appid":"skylar6
+apple-system
 application-id
 application.load_tasks
 application/admin/
@@ -6998,6 +7036,7 @@ class="footerf2">manageengine assetexplorer
 class="form-actions j_add_ip_actions"
 class="geoserver lebeg
 class="headerbar gradientbar
+class="heading1">Service
 class="heading1">policyretriever service</p>
 class="hidden-xs ewheaderrow"><img src="aspximages/htqy.png"
 class="influxdb-version"
@@ -7124,6 +7163,7 @@ config id="config
 config-auth client="vpn"
 config.admin.password
 config.admin.username
+config.hosts
 config.secret_token =
 config/application
 configuration
@@ -8554,6 +8594,7 @@ is running
 isAdmin
 isSavePwd:
 is_active
+is_ad_blocked
 is_dir
 is_followed_by_me
 ispamclient = false
@@ -8784,6 +8825,7 @@ logout
 lookerLocation.title
 lookerVersion
 looking for!
+loxone
 ls 
 lucee-admin-search-input
 lucee-docs-search-input
@@ -8794,6 +8836,7 @@ lui_login_input_password
 lui_login_input_username
 lvm_
 m.str = {"moodle":
+macOS Server
 machine:
 made by <a href="http://www.thinkcmf.com" target="_blank">thinkcmf</a>
 magicId
@@ -10205,7 +10248,6 @@ uid=
 uid=0(root) gid=0(root) groups=0
 uin.plist
 uiwebinsights/webinsights.html
-umbracoInstallPageBody
 unable to logon to the pegarules system
 unauthenticated
 unauthorized activity has been detected.
