@@ -1,10 +1,10 @@
 root::0:0:
-STABLEjTAG:P
+STABLE-TAG:Y
 root:x:0:0
 [extensions]
-root:*:0:0:
-root::0:0
-uid=q
-uid=3(j)
+root:x:0:0:
+root:Y:0:0
+uid=9
+uid=2(V)
 for
-root:c:1::
+root:d::1:

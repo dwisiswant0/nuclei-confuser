@@ -14,8 +14,8 @@ Tags:
 "username":
 Index
 "data":
-"email":
 PHP
+"email":
 username
 "success":true
 "password":
@@ -49,6 +49,7 @@ Joined
 ><script>alert(document.domain)</script>
 #
 "url":
+"results":
 "created_at":
 {{result}}
 {{md5(string)}}
@@ -73,9 +74,9 @@ Exception
 "username"
 "user":
 "url"
+"success":
 "status":
 "sources":
-"results":
 "host":
 "domain"
 url
@@ -95,4 +96,3 @@ Name
 Login=
 Installation
 <svg
-<img/src/onerror=alert(document.domain)>
