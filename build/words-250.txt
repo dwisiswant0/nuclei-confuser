@@ -18,11 +18,11 @@ PHP
 "email":
 username
 "success":true
+for
 "password":
 "name"
 uid=
 login
-for
 "items":
 "id"
 "><script>alert(document.domain)</script>
@@ -47,6 +47,7 @@ Password=
 Login
 Joined
 ><script>alert(document.domain)</script>
+<script>alert(document.domain);</script>
 #
 "url":
 "results":
@@ -62,12 +63,12 @@ Dashboard
 DB_HOST
 <web-app
 <svg/onload=alert(document.domain)>
-<script>alert(document.domain);</script>
 "access_token":
 {{randstr}}
 timestamp
 success
 module.exports
+didn't
 [core]
 Tested
 Exception
@@ -110,6 +111,7 @@ Installation
 "code":200
 "code":
 "archived_snapshots":
+{{string}}
 {{md5("{{randstr}}")}}
 version:
 version
@@ -195,7 +197,6 @@ Action
 로그인
 错误的id
 审计管理员
-{{string}}
 {{randstr}}.tld
 {"result":
 {"message":"
@@ -238,5 +239,3 @@ result
 reloadByURL
 reason
 qdPM
-projects
-pool:

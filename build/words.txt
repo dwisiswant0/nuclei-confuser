@@ -44,6 +44,8 @@
 " style=animation-name:rotation onanimationstart=alert(document.domain) x
 ""></script><script>alert(document.domain)</script>
 "$schema":
+"';alert(document.domain);b='
+"';alert(document.domain)<!--
 "/></script><script>alert(document.domain)</script>
 "/bin"
 "/cnf/r/cms/common.js"
@@ -706,6 +708,7 @@
 "quoteAssetId":
 "quoteQty":
 "quotes"
+"r":0
 "rank"
 "rates"
 "rating"
@@ -1049,6 +1052,7 @@ $webdb
 '';alert('document.domain')//';
 '';alert(document.domain);var ok='
 ',alert(document.domain),'
+'-alert(`XSS`)-'=a
 '-alert(document.domain)-'
 '/admin/launch?script=
 '/auth/sage-id/registerStart'
@@ -1610,6 +1614,8 @@ $webdb
 /visadmin/viscms/index.do
 /vmw_nsx_logo-black-triangle-500w.png
 /vpn/js/gateway_login_view.js?
+/waroot/style.css
+/waroot/system_arrow.gif
 /wcm" target="_blank">管理
 /wcm" target="_blank">网站管理
 /wcm/app/js
@@ -1645,6 +1651,7 @@ $webdb
 /wp-content/plugins/heat-trackr/
 /wp-content/plugins/hostel
 /wp-content/plugins/import-legacy-media/
+/wp-content/plugins/learnpress
 /wp-content/plugins/lifterlms/
 /wp-content/plugins/mstore-api
 /wp-content/plugins/ninja-forms
@@ -1963,6 +1970,7 @@ $webdb
 </script><script>alert(document.domain)</script>',
 </script><script>alert(document.domain)</script>:0
 </script><script>alert(document.domain)</script><"
+</script><script>alert`document.domain`</script>
 </script><svg/onload=alert('{{randstr}}')>
 </script><svg/onload=alert(/XSS/)>
 </span>国迈安全私有云部. <span>all rights reserved
@@ -2057,7 +2065,6 @@ $webdb
 <a href="/*">*/)});function __MobileAppList(){alert(1)}//
 <a href="/?itwed"onmouseover="confirm(document.domain)"style=
 <a href="/\google.com/evil.html">
-<a href="/admin/">Django administration</a>
 <a href="/index.php?s=/Admin/Index/find_password">
 <a href="/index.php?s=/Install/Index/step1" class="btn btn-lg btn-success">
 <a href="/metrics">Metrics</a>
@@ -2450,6 +2457,7 @@ $webdb
 <img src=x onerror=alert(document.domain)>Title???
 <img src=x onerror=alert(domain)>
 <img src=x onerror=confirm(document.domain)>
+<img src=x onerror=prompt(document.domain)>
 <img style='margin-top: 2px' border='0' width='106' height='23' src='include/images/poweredby_sugarcrm.png' alt='powered by sugarcrm'>
 <img title="open manage" alt="open manage
 <img/src/onerror=alert(document.domain)>
@@ -4530,6 +4538,7 @@ FUDforum
 FW_Version=
 Facebook – log in or sign up
 FacturaScripts installer
+Failed to acknowledge
 Failed to add new collection
 Failed to decode session object
 Failed to derive xcontent from
@@ -5371,6 +5380,7 @@ PHP Timeclock Admin Login
 PHP Version
 PHP Warning:
 PHP-Fusion
+PHPJabbers
 PING 1.1.1.1
 PKIException
 PMB Group
@@ -5599,6 +5609,7 @@ Red Lion</a>
 Redash Initial Setup
 Reddit - Dive into anything
 Redmine
+Redpanda Console
 Referral could not be retrieved
 Register -
 Register Admin Account
@@ -5639,6 +5650,7 @@ Results For
 RethinkDB Administration Console
 RetrieveServiceContentResponse
 Return to sign in
+Revive Adserver
 RewriteRule
 Rhadamanthys Admin
 Roadmap
@@ -5701,6 +5713,7 @@ SOMANSA
 SPIDER_FLOW_VERSION
 SPIP
 SPX_ENABLED
+SQL Error
 SQL STATEMENT:
 SQL syntax
 SQLException
@@ -5976,6 +5989,7 @@ TYPO3 Exception
 TYPO3 SVN ID:
 Tags:
 Target : Expect More. Pay Less.
+Task submitted successfully
 Tasmota
 Tasmota Installer
 TastyIgniter - Setup
@@ -7023,6 +7037,7 @@ cisco ucs director
 citrix systems, inc. xenserver
 ckan 2.3
 ckan 2.8.2
+class <strong>pjAdminOrdersaction
 class:
 class="XiboFormButton
 class="_ctxstxt_netscalergateway"
@@ -7759,6 +7774,7 @@ di.php
 diag.htm?src=index
 diancms_sitename
 diancms_用户登陆引用
+didn't exists
 dimensions
 directlink = "eafc.application";
 directlink = "programstartup.application"
@@ -8096,6 +8112,7 @@ grafana-app
 gridsite-admin.cgi?cmd
 group_action.php
 groups
+groups":["user
 groups=
 grunt
 guacamole - clientless remote desktop
@@ -8943,6 +8960,7 @@ moodle-editor
 most recent call last
 movable type version
 moveit.transfer
+msg":"Login success!"
 msg_abortservice
 mshtml 8.00.6001.19298
 mso-comments-rss">RSS</a>
@@ -9626,6 +9644,7 @@ returned_pets":
 rev:
 revision
 richmail
+right syntax to use near
 right">Router\s*Admin\s*Password<
 right">Router\s*Admin\s*Username<
 rjsslvpn_encookie
@@ -9990,6 +10009,7 @@ status": 200
 status":"OK
 status":"good
 status":"success
+status":"successfully
 status_code_1 == 200
 status_main.cgi
 step:
@@ -10112,6 +10132,7 @@ the user does not exist
 the vshield manager requires
 the wasion software foundation
 the-plus-addons-for-elementor
+theme=theme10dnel8"><script>alert(document.domain)</script>ko0
 themes/default/images/ampps/favicon.ico
 themes/resources/segoeui-semibold.ttf
 themes/scripts/functionjs.js

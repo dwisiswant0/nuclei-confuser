@@ -18,11 +18,11 @@ PHP
 "email":
 username
 "success":true
+for
 "password":
 "name"
 uid=
 login
-for
 "items":
 "id"
 "><script>alert(document.domain)</script>
@@ -47,6 +47,7 @@ Password=
 Login
 Joined
 ><script>alert(document.domain)</script>
+<script>alert(document.domain);</script>
 #
 "url":
 "results":
@@ -62,12 +63,12 @@ Dashboard
 DB_HOST
 <web-app
 <svg/onload=alert(document.domain)>
-<script>alert(document.domain);</script>
 "access_token":
 {{randstr}}
 timestamp
 success
 module.exports
+didn't
 [core]
 Tested
 Exception
@@ -110,6 +111,7 @@ Installation
 "code":200
 "code":
 "archived_snapshots":
+{{string}}
 {{md5("{{randstr}}")}}
 version:
 version
@@ -195,7 +197,6 @@ Action
 로그인
 错误的id
 审计管理员
-{{string}}
 {{randstr}}.tld
 {"result":
 {"message":"
@@ -309,6 +310,7 @@ code
 cm9vd
 client_id
 class="oat
+class
 cisco
 c923fa3e71e104d50615978c1ab9fcfccfcbada9e8df638fc27bf4d4eb72d78c
 c91127b2698c0a2ae0103be3accffe01995b8531bf1027ae4f0a8ad099e7a209
@@ -348,6 +350,7 @@ Zabbix
 YzmCMS
 XML-RPC
 WriteCSS
+WordPress</title>
 WooCommerce
 Windows
 Welcome
@@ -483,6 +486,7 @@ ASUS
 <name>faultString</name>
 <html
 <groupId>com.atlassian.jira</groupId>
+<form
 <deviceType>
 <config>
 <authResult>0</authResult>
@@ -529,6 +533,7 @@ ASUS
 02aa9533ec4957bb01d206d6eaa51d762c7b7396362f0f7a3b5fb4dd6088745b
 015d088713b23c749d8be0118caeb21039491d9812c75c913f48d53559ab09df
 003236d7e2c5f1f035dc8b67026d7583ee198b568932acd8faeac18cec673dfa
+/wp-login.php?action=lostpassword">Lost
 /wp-content/themes/jannah/assets/
 /owa/
 /dana-na/
@@ -934,9 +939,3 @@ woot-content-in-popup
 wlcms-login-wrapper
 wizardtitletext
 wixErrorPagesApp
-wishoa_webplugin.js
-winwebmail
-winmail
-winisp.gif
-window.top.location.href
-window.top.location

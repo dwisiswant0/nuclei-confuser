@@ -18,11 +18,11 @@ PHP
 "email":
 username
 "success":true
+for
 "password":
 "name"
 uid=
 login
-for
 "items":
 "id"
 "><script>alert(document.domain)</script>
@@ -47,6 +47,7 @@ Password=
 Login
 Joined
 ><script>alert(document.domain)</script>
+<script>alert(document.domain);</script>
 #
 "url":
 "results":
@@ -62,12 +63,12 @@ Dashboard
 DB_HOST
 <web-app
 <svg/onload=alert(document.domain)>
-<script>alert(document.domain);</script>
 "access_token":
 {{randstr}}
 timestamp
 success
 module.exports
+didn't
 [core]
 Tested
 Exception
@@ -95,4 +96,3 @@ Powered
 Name
 Login=
 Installation
-<svg
