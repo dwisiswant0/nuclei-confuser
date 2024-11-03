@@ -18,10 +18,10 @@ PHP
 "email":
 username
 "success":true
+uid=
 for
 "password":
 "name"
-uid=
 login
 "items":
 "id"
@@ -31,8 +31,8 @@ Interactsh
 password
 name
 gid=
-</web-app>
 error_message
+</web-app>
 Parent
 <h1>
 "token":
@@ -403,6 +403,7 @@ KEY
 Joomla
 Jackett
 JK
+Install</a>
 Infusionsoft
 IceWarp
 INFO
@@ -475,4 +476,3 @@ ASUS
 <title>@
 <title>
 <svg/onload=alert(1337)>
-<svg/onload=alert(1)>
