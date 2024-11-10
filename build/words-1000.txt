@@ -28,13 +28,13 @@ login
 "><script>alert(document.domain)</script>
 Interactsh
 "version":
-password
 name
 gid=
 error_message
-</web-app>
-Parent
 <h1>
+</web-app>
+password
+Parent
 "token":
 <img
 <?php
@@ -857,7 +857,6 @@ ASUS
 zyxel
 zuul_version
 zoneminder
-zone-id
 zoho
 zksoftware
 zknet
@@ -939,3 +938,4 @@ woot-table
 woot-system
 woot-content-in-popup
 wlcms-login-wrapper
+wizardtitletext

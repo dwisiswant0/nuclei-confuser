@@ -28,13 +28,13 @@ login
 "><script>alert(document.domain)</script>
 Interactsh
 "version":
-password
 name
 gid=
 error_message
-</web-app>
-Parent
 <h1>
+</web-app>
+password
+Parent
 "token":
 <img
 <?php

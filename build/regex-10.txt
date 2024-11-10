@@ -1,10 +1,10 @@
 root::0:0:
-STABLE&TAG:u
-root:x:0:0
-[fonts]
-root:x:0:0:
+STABLE?TAG:k
 root:*:0:0
-uid=v
-uid=2(d)
+[files]
+root:*:0:0:
+root::0:0
+uid=8
+uid=7(^)
 for
-root::5:6:
+root:u:9:2:
