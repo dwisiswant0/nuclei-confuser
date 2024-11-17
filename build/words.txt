@@ -2038,6 +2038,7 @@ $webdb
 <TITLE>GeoWebServer</TITLE>
 <TITLE>H-SPHERE</TITLE>
 <TITLE>Log In</TITLE>
+<TITLE>Login</TITLE>
 <TITLE>Network Camera</TITLE>
 <TITLE>Olivetti CRF</TITLE>
 <TITLE>Oracle Application Server
@@ -4336,6 +4337,7 @@ Database details
 DatabaseError at
 DatabaseException
 DatabaseName=
+Databases under monitoring
 DbGate - web based opensource database administration tool for MS SQL, MySQL, Postgre SQL
 Debug Enable!
 Debugging information
@@ -4932,6 +4934,7 @@ Kernel executable memory footprint:
 Kernel usage per processor</b>
 KernelVersion
 Kettle slave server
+KeyDescriptor
 Keybase is for keeping everyone's chats and files safe, from families to communities to companies. MacOS, Windows, Linux, iPhone, and Android.
 Kingdee.BOS.Core.Metadata.BusinessInfo
 Kingdee.EntryRole
@@ -5380,6 +5383,7 @@ Overview
 Overview - Kubernetes Resource Report
 Overview – Hangfire Dashboard
 Oś czasu
+PAN_FORM_CONTENT
 PARSE_DASHBOARD_PATH
 PASS
 PASSWORD
@@ -6434,6 +6438,7 @@ You are viewing page number
 You do not have permission to access /.git/
 You don't have permission to access
 You have an error in your SQL syntax
+You have installed. To reinstall, you need to clear the data/install.lock file
 You have logged in as 'admin'
 You may have followed an invalid link or the job you are looking for has been archived
 You should be redirected automatically to target URL: <a href="/">
@@ -9284,6 +9289,7 @@ personaId":
 pex-app
 pexip infinity
 pgadmin 客户端安装包
+pgwatch2
 phabricator-application-launch-container
 phabricator-standard-page
 photo user-photo
@@ -9314,6 +9320,7 @@ pid:
 pids
 pipelines:
 piwigo.org">Piwigo</a>
+pixmaps/debian-logo.png
 placeholder="Profile Manager">
 placeholder="ad域账号 / 系统账号"
 placeholder="请输入凭据"
@@ -10356,6 +10363,7 @@ urn:schemas-microsoft-com:vml
 urn:schemas-upnp-org:device-1-0
 use Oracle BIEE
 use this if you want to run the seceon module of kibana.
+use="encryption"
 user-hover-details
 user-member-since
 user-picker
