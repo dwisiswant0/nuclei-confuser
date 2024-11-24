@@ -3493,7 +3493,6 @@ $webdb
 <title>Test Page for the Nginx HTTP Server on openEuler</title>
 <title>The install worked successfully! Congratulations!</title>
 <title>Thinfinity VirtualUI</title>
-<title>Thruk Monitoring Webinterface</title>
 <title>Ticket BBCode editor - SCEditor</title>
 <title>Tigase XMPP Server</title>
 <title>TileServer GL - Server for vector and raster maps with GL styles</title>
@@ -3790,6 +3789,7 @@ $webdb
 @rigcz.club
 @soc.citizen4.eu
 @social.bund.de) - social.bund.de</title>
+@start@PHPSESSID=
 @start@Success@end@
 @tfl.net.pl
 @toot.community) - toot.community</title>
@@ -7873,6 +7873,10 @@ eb078ffe61726e3898dc9d01ea7955809778bde5be3677d907cbd3b48854e687
 ec9dfedd7bd44754668b208858a31b83489d5474f7606294f6cc0128bb218c6d
 ecdomain/unieap/ria/unieap/themes/earth/common/unieap.css
 ecdsa-sha2-nistp256
+echo {{sid}}
+echo {{string}}
+echo%20{{string}}
+echo+{{sid}}
 ecology.charset
 ecology.password
 ecwapoa

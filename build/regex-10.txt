@@ -1,10 +1,10 @@
-root:s:0:0:
-STABLE6TAG:0
+root::0:0:
+STABLEpTAG:	e
 root:*:0:0
-[files]
-root:x:0:0:
+[extensions]
+root:*:0:0:
 root::0:0
-uid=w
-uid=1(5)
+uid=o
+uid=5(q)
 for
-root:_:::
+root:::6:
