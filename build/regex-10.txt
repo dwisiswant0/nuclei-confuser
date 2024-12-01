@@ -1,10 +1,11 @@
-root::0:0:
-STABLEpTAG:	e
+root:W:0:0:
+STABLEUTAG:
+B
 root:*:0:0
-[extensions]
-root:*:0:0:
-root::0:0
-uid=o
-uid=5(q)
+[fonts]
+root:x:0:0:
+root:t:0:0
+uid=a
+uid=7(#)
 for
-root:::6:
+root::0::
