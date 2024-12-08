@@ -717,6 +717,7 @@
 "record"
 "records"
 "redirect": "/htdocs/pages/main/main.lsp"
+"redirect_to":"\/wp-admin\/"
 "redirection"]
 "refresh_token":
 "region"
@@ -1664,6 +1665,7 @@ $webdb
 /wp-content/plugins/qards/
 /wp-content/plugins/redirection/
 /wp-content/plugins/shortcode-ninja/
+/wp-content/plugins/swift-performance-lite
 /wp-content/plugins/swipehq-payment-gateway-woocommerce/
 /wp-content/plugins/ultimate-maps-by-supsystic/modules/maps/css/
 /wp-content/plugins/ultimate-member/
@@ -2024,6 +2026,7 @@ $webdb
 <SERIAL>
 <SVG ONLOAD=&#97&#108&#101&#114&#116(&#X64&#X6F&#X63&#X75&#X6D&#X65&#X6E&#X74&#X2E&#X64&#X6F&#X6D&#X61&#X69&#X6E)>
 <ScRiPt>alert('document_domain')</ScRiPt>
+<ScRiPt>alert(document.domain)</ScRiPt>alert
 <ServerName>
 <Servers>
 <Signature
@@ -3128,6 +3131,8 @@ $webdb
 <title>Index of /img/</title>
 <title>Index of /log</title>
 <title>InfluxDB - Admin Interface</title>
+<title>Infoblox Grid
+<title>Infoblox System
 <title>Iniciar sesión - Puerta de enlace de Avigilon Control Center</title>
 <title>Initial server configuration
 <title>Insert Image</title>
@@ -3728,6 +3733,7 @@ $webdb
 ></iframe><script>alert(1)</script>
 ><img src=a onerror=alert("document.domain")>
 ><img src=x onerror=alert(1)>>)1(trela=rorreno
+><sVg/Onload=alert`document.domain`>
 ><script>alert(/XSS/)</script>
 ><script>alert(document.cookie)</script>.js
 ><script>alert(document.cookie)</script>bvu51
@@ -3832,6 +3838,8 @@ AVTECH Software, Inc. - Room Alert
 AWS EC2 Auto Scaling Lab
 AWSEBDockerrunVersion
 AWSTATS CONFIGURE
+AXI-SCRIPT
+AXIWMRememberLogin
 About
 About FreshRSS
 About Repetier-Server
@@ -3981,6 +3989,7 @@ Author at Soup.io
 Authorization Required
 Authorization context is not valid
 Available Streams
+Available services
 Available variants:
 Avanceret kontering
 AvantFAX
@@ -3989,6 +3998,7 @@ Avatier Corporation
 Avaya Aura
 Avaya Aura Device Services
 Avocent Corporation and its affiliates
+Axigen WebMail
 Axis
 Axis Happiness Page
 Axis2 Happiness Page
@@ -4585,6 +4595,7 @@ File System Info
 File is not a JPEG Image
 File not found: {{randstr}}.txt.
 File to import
+File uploaded successfully
 File uploaded successfully.
 FileCatalyst file transfer solution
 FileZilla - The free FTP solution
@@ -4634,6 +4645,7 @@ GET /
 GET based form
 GIMP - GNU Image Manipulation Program
 GIVE_ME_ERROR_TO_GET_DOC_ROOT_2021
+GL.iNet
 GLPI
 GLPI_
 GLPI_DB_OK
@@ -4778,6 +4790,7 @@ IP Surveillance for Your Life
 IPAddress
 IPAddress=
 IPdiva Secure
+Icategorydao.xml
 IceWarp
 Icecast Streaming Media Server
 Id":
@@ -4938,6 +4951,7 @@ Kernel executable memory footprint:
 Kernel usage per processor</b>
 KernelVersion
 Kettle slave server
+Key Characters: "><script>alert("document_domain")</script>
 KeyDescriptor
 Keybase is for keeping everyone's chats and files safe, from families to communities to companies. MacOS, Windows, Linux, iPhone, and Android.
 Kingdee.BOS.Core.Metadata.BusinessInfo
@@ -5260,6 +5274,7 @@ Netsparker Enterprise - Installation Wizard
 Netsparker Ltd
 Network Configuration
 Network Configuration Manager
+Network Element
 Network Map
 Network Status
 Network Utility
@@ -5445,6 +5460,7 @@ People to Follow
 Perl version
 PermissionDenied
 PersistentManagerBase
+Personal Options
 Personal audio streaming service that works.
 Phalcon Framework
 Phonetic
@@ -5607,6 +5623,7 @@ RLM Version
 RSA
 RSVP Status
 RT-N16
+RUN_BUILD_RPM_TASK
 RabbitMQ Management
 Rack Environment
 RadAsyncUpload handler is registered succesfully
@@ -5818,6 +5835,7 @@ Server rejected file due to unsupported file format.
 Server: CUPS
 ServerName
 ServerVersion=11.6.0
+Service Description
 Service/Action name
 ServiceEmanualList
 ServiceNow
@@ -6911,6 +6929,7 @@ avideoAlertSuccess("</script><script>alert(document.cookie);</script>
 avtech
 awnocachebegin__awnocachebegin__awnocachebegin__awnocachebegin__awnocachebegin
 aws.amazon.com/elasticbeanstalk
+axigen-web-fonts
 axiom storage services manager
 axis2-admin
 axis2-web
@@ -7176,6 +7195,7 @@ clusters:
 cm/config/environment
 cm9vd
 cmn/css/common-min.css
+cms_category
 cmstop-list-text.css
 cockpit/static/login.css
 cockpit/static/login.js
@@ -8146,6 +8166,7 @@ groups
 groups":["user
 groups=
 grunt
+gtranslate
 guacamole - clientless remote desktop
 guard :
 guid":{"rendered":
@@ -8682,6 +8703,8 @@ java.lang.IllegalArgumentException
 java.lang.NullPointerException:null
 java.lang.StringIndexOutOfBoundsException
 java.lang.UNIXProcess@
+java.sql.SQLException
+java.sql.SQLSyntaxErrorException
 java.sun.com
 java.untangle.com
 java.util.HashMap
@@ -8971,6 +8994,7 @@ metronic. admin dashboard template.
 mfs.cgi
 mikrotik hotspot > login
 mikrotik routeros > administration
+mingsoft.net
 misc.php?mod=sendmail
 mkdir 
 mm_preloadimages('images/bt/bt_login_b.gif
@@ -9838,6 +9862,7 @@ setupHelp('')" onerror="confirm('document.domain')
 sg-default="SOGo
 sh"/onmouseover="alert(1)">
 shareaholic_server_reachable
+shared:iapp:build-package:buildrpmtaskstate
 sheight*window.screen.deviceydpi
 shop-not-found
 shopbuilder版权所有
@@ -10413,6 +10438,7 @@ username/password are not correct
 username:
 username=
 username="tomcat" password="s3cret"
+users
 userspace
 usingeKey
 usr/themes
