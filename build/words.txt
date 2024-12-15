@@ -354,6 +354,7 @@
 "defects"
 "degree"
 "deleteKey":
+"deleteType":
 "deleteUrl":
 "dependencies"
 "deploymentType"
@@ -1670,9 +1671,13 @@ $webdb
 /wp-content/plugins/ultimate-maps-by-supsystic/modules/maps/css/
 /wp-content/plugins/ultimate-member/
 /wp-content/plugins/userpro/
+/wp-content/plugins/vrview
 /wp-content/plugins/web-directory-free
 /wp-content/plugins/woocommerce/
 /wp-content/plugins/wordpress-popup/views/admin
+/wp-content/plugins/wp-health
+/wp-content/plugins/wp-optimize
+/wp-content/plugins/wp-vr-view
 /wp-content/plugins/yousaytoo-auto-publishing-plugin/
 /wp-content/themes/15zine/assets/
 /wp-content/themes/ambience/
@@ -4445,7 +4450,6 @@ Dzidy użytkownika
 DzzOffice
 E-Mail / Username
 E-Mobile&nbsp;
-E-mail
 EC2 Instance Metadata
 EJBCA Enterprise Cloud Configuration Wizard
 ELF
@@ -5653,7 +5657,6 @@ Redpanda Console
 Referral could not be retrieved
 Register -
 Register Admin Account
-Register For This Site
 Register as individual
 Registered Node Types
 Registered Since
@@ -6210,6 +6213,7 @@ Usage Statistics
 Usage statistics for
 Use this utility to view and manage URLs
 User
+User API Keys are deprecated
 User Control Panel
 User Profile
 User Profile Builder
@@ -6915,7 +6919,6 @@ autofocus onfocus='alert(document.domain)
 autofocus onfocus=alert(/{{randstr}}/);//
 autoindex.sourceforge.net/
 aux-widget
-auxauthmode
 avada-footer-scripts
 availabilityDomain
 avatar
@@ -10376,6 +10379,7 @@ uri-translation
 url
 url = 'wrzcnet_vote.asp?stype=view';
 url = window.location.search.split("?desktop_url=")[1]
+url":"
 url(images/yh.jpg)
 url(resources/images/en/login_swa.jpg)
 url(template/default/images/admin_img/msg.png)
@@ -10600,8 +10604,6 @@ vpn
 vpn/js/lsgateway_login_view.js
 vstor
 vti_extenderversion:
-vtyname
-vtypasswd
 w7.cc
 wafportal/wafportal.nocache.js
 waitedTime
