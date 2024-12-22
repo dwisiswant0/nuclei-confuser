@@ -1675,6 +1675,7 @@ $webdb
 /wp-content/plugins/web-directory-free
 /wp-content/plugins/woocommerce/
 /wp-content/plugins/wordpress-popup/views/admin
+/wp-content/plugins/wp-google-maps
 /wp-content/plugins/wp-health
 /wp-content/plugins/wp-optimize
 /wp-content/plugins/wp-vr-view
@@ -2451,6 +2452,7 @@ $webdb
 <img src="static/images/login/loading.gif" /><span id="message">loading......</span>
 <img src="x" data onerror="alert(domain)"/>
 <img src="x" onerror="alert(document.domain)" />
+<img src="x" onerror="alert(document.domain)">
 <img src=1 onerror=alert(document.domain)>
 <img src=1 onerror=alert(document.domain)>=PQ</p>
 <img src=a onerror=alert('document.domain')>
@@ -3738,6 +3740,7 @@ $webdb
 ></iframe><script>alert(1)</script>
 ><img src=a onerror=alert("document.domain")>
 ><img src=x onerror=alert(1)>>)1(trela=rorreno
+><img src=x onerror=alert(document.domain)>
 ><sVg/Onload=alert`document.domain`>
 ><script>alert(/XSS/)</script>
 ><script>alert(document.cookie)</script>.js
@@ -5160,6 +5163,7 @@ ManageEngine
 ManageEngine - ADManager Plus
 Management Agent
 Management Console
+Map Alignment</legend>
 MapProxy Demo
 Mapper since:
 Mapping
@@ -5737,6 +5741,7 @@ SEEEMS.CMS
 SEEEMS.FRAMEWORK
 SEIKO EPSON
 SEND ME A TIP
+SERVER DETAILS</div>
 SERVER_ADMIN
 SERVER_SOFTWARE =
 SETTINGS</a>
@@ -5854,6 +5859,7 @@ Setup - jfa-go
 Setup AdGuard Home
 Setup GLPI
 Setup GitHub Enterprise
+Setup Information
 Setup Wizard
 Setup | Cal.com
 Setup | Shopware
@@ -6393,6 +6399,7 @@ Welcome to Zenario
 Welcome to Zenphoto! This page will set up Zenphoto
 Welcome to ZyXEL VSG1432-B101::
 Welcome to code-server
+Welcome to hue
 Welcome to iTop
 Welcome to kong
 Welcome to mooSocial Installation
@@ -7250,6 +7257,7 @@ config.admin.username
 config.hosts
 config.secret_token =
 config/application
+configManage.asp
 configuration
 configuration file
 configuration page
@@ -9671,6 +9679,7 @@ regify
 regify_default.css
 regist_at
 registered
+reinitIframe()
 rejetto
 rel="generator">movable type
 rel=\"admin\"

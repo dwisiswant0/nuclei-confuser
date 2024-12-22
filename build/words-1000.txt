@@ -271,6 +271,7 @@ is_dir
 id="vbulletin_css
 id":
 hybris
+hue
 https://about.gitlab.com
 http://wadl.dev.java.net/2009/02
 http://jersey.java.net
@@ -938,4 +939,3 @@ wp-content/plugins/email-subscribers
 wp-content/plugins/easy-media-gallery-pro/
 wp-content/plugins/arforms/
 wp-analytify
-worksites.net
