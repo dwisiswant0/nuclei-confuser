@@ -1,10 +1,10 @@
 root::0:0:
-STABLEuTAG:ſ
-root:x:0:0
+STABLEUTAG:K
+root:*:0:0
 [extensions]
 root:*:0:0:
-uid=t
+uid=f
 root::0:0
-uid=0(a)
+uid=7(m)
 for
-root:]:3::
+root:3:3:3:

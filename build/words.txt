@@ -359,6 +359,8 @@
 "dependencies"
 "deploymentType"
 "dept_name":"
+"desc":"Array of Diagnostic Commands Arguments and Options"
+"desc":"Create a new StandardHost"
 "description"
 "description" :"The Pega API
 "description":
@@ -461,6 +463,7 @@
 "holidays"
 "holidays":
 "host":
+"host=localhost,name=AccessLogValve,type=Valve"
 "hostIp":
 "hostname":
 "hosts"
@@ -525,9 +528,9 @@
 "key":
 "keys"
 "kid"
-"kid":
 "kind":
 "kty"
+"kty":
 "kubeletVersion": "v
 "kv"
 "kyc_status":
@@ -905,7 +908,6 @@
 "type": "success"
 "type":"error","text":"Unknown survey\"><img src=x onerror=alert(document.domain)>"
 "type":"gif"
-"type":"list"
 "type":"search"
 "typeAcquisition": {
 "ua":
@@ -1656,6 +1658,7 @@ $webdb
 /wp-content/plugins/heat-trackr/
 /wp-content/plugins/hostel
 /wp-content/plugins/import-legacy-media/
+/wp-content/plugins/kivicare-clinic-management-system
 /wp-content/plugins/learnpress
 /wp-content/plugins/lifterlms/
 /wp-content/plugins/mstore-api
@@ -2063,6 +2066,7 @@ $webdb
 <TITLE>Webalizer</TITLE>
 <TITLE>master</TITLE>
 <TITLE>上传附件</TITLE>
+<USER_KEY>
 <Users>
 <VERSION>
 <a class="brand" href="/">flower</a>
@@ -2493,6 +2497,7 @@ $webdb
 <item>
 <jira-database-config>
 <jnlp codebase="nonexistent.1337">
+<jobUploadResult>
 <key>
 <key>version</key>
 <label>Followers
@@ -3725,6 +3730,7 @@ $webdb
 <version>
 <web-app
 <web-app id=
+<web_user_login>
 = Amiro.CMS (c) =
 = Indexisto
 = NextGEN Gallery
@@ -4597,6 +4603,7 @@ Field Support
 Figma: The Collaborative Interface Design Tool
 File Browser
 File Browser</title>
+File Galleries
 File Manager - Kae's File Manager
 File System Info
 File is not a JPEG Image
@@ -4756,6 +4763,7 @@ Hikvision Digital Technology
 Historia wpisów
 HiveManager
 Hmmm....something is not right.
+Home
 Home - MEGA
 Home Page - My ASP.NET Application
 Home motion by Somfy
@@ -5876,6 +5884,7 @@ Shopify App — Installation
 Shopware Administration (c) shopware AG
 Shopware.Application.start
 Show followings
+Show on admin log-in
 Showing Objects Of
 Sidekiq
 Sign In
@@ -6004,6 +6013,7 @@ System Description
 System Error
 System Info</a>
 System Manager
+System Menu
 System Name
 System Properties:
 System Requirements
@@ -6131,6 +6141,7 @@ Thruk Monitoring
 Thunderbird — Free Your Inbox. — Thunderbird
 Tidio Gallery
 TikTok - Make Your Day
+Tiki Setup
 Tiki Wiki CMS
 Tiki Wiki CMS Groupware
 TileServer
@@ -6428,6 +6439,7 @@ WhatsApp | Secure and Reliable Free Private Messaging and Callings
 When I'm not reading erotica I like to read
 WiFiBand
 Wiadomość
+Wiki
 Wikidot.com:
 WinSCP :: Official Site :: Free SFTP and FTP client for Windows
 Wind Farm Portal
@@ -7930,6 +7942,7 @@ elasticsearch go Edition head plugin
 elfinder
 email
 email":
+email":"
 email.smtp_host.secured
 email.smtp_password.secured
 email.smtp_port.secured
@@ -9707,6 +9720,7 @@ resource_references
 resourcemanager
 resources/themes/images/logo/favicon.ico
 resources:
+responseCode":200
 responseHeader
 resterrorresponse
 result
@@ -10199,6 +10213,7 @@ test_script:
 text/html
 text/javascript
 text/javascript">alert(/XSS/)</script>
+text/plain
 text: "</script><script>alert(document.cookie);</script>
 textarea class="form-control endpoints
 tgme_page_title
@@ -10379,6 +10394,7 @@ unisphere for sc series
 unknown field "disable_redirects"
 unknown to Read the Docs
 unterminated quoted string
+updated_at":"
 updraftplus
 upgrade/ocx/ccdmsshell.cab#version
 upgradeavailable-already-installed-separator bar-separator

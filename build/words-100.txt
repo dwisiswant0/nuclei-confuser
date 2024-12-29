@@ -4,8 +4,8 @@ extensions
 fonts
 bit
 DB_PASSWORD
-DB_NAME
 {{md5(num)}}
+DB_NAME
 "id":
 display_name
 "name":
@@ -16,8 +16,8 @@ Index
 PHP
 "data":
 "email":
-username
 "success":true
+username
 uid=
 for
 "password":
@@ -92,7 +92,7 @@ com.thoughtworks.xstream
 candidat
 [project-discovery]
 [extensions]
+Search
 Powered
 Name
 Login=
-Installation
