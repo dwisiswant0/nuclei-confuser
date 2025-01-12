@@ -338,6 +338,7 @@
 "data":
 "data":null
 "data":true
+"data":{
 "data":{"url":
 "database":
 "databaseContentVersion":
@@ -1691,6 +1692,7 @@ $webdb
 /wp-content/themes/jannah/assets/
 /wp-content/themes/realestate
 /wp-content/themes/scoreme/style
+/wp-content/themes/xhibiter/
 /wp-includes/ALFA_DATA/
 /wp-login.php?action=lostpassword">Lost your password?</a>
 /ws2004/public/
@@ -3184,6 +3186,7 @@ $webdb
 <title>Kavita
 <title>Kemp Login Screen</title>
 <title>Kerio Connect Client</title>
+<title>Khoj AI
 <title>Kibana Login</title>
 <title>Kibana</title>
 <title>KnowledgeTree Installer
@@ -3469,6 +3472,8 @@ $webdb
 <title>Splash
 <title>Splunk SOAR</title>
 <title>Start Element Manager</title>
+<title>Stirling PDF
+<title>Stirling-PDF
 <title>Storybook</title>
 <title>Structurizr
 <title>Struts Problem Report</title>
@@ -6185,6 +6190,7 @@ TurnKey LAMP</title>
 TurnKey OpenVPN
 Twig Runtime Error – Twig\Error\RuntimeError
 Twitch is an interactive livestreaming service for content spanning gaming, entertainment, sports, music, and more. There’s something for everyone on Twitch.
+Tyk GW
 Types of profiles available:
 UID=
 UIPPortalPath
@@ -7382,6 +7388,7 @@ content="JustSystems Homepage Builder
 content="Kasm Server
 content="Kasm Technologies
 content="Kernel Video Sharing 
+content="Khoj AI
 content="Komodo CMS"
 content="Kryptronic Software"
 content="Lauyan TOWeb 
@@ -7441,6 +7448,7 @@ content="Snapdrop"
 content="SpaceLogic C-Bus Home
 content="Splunk Inc."
 content="Starfield Technologies; Go Daddy Website Builder
+content="Stirling PDF
 content="Struts2 Showcase for Apache Struts Project"
 content="Subrion CMS
 content="TIBCO Spotfire
@@ -8803,6 +8811,7 @@ key
 key":"<img src onerror=alert(document.domain)>"
 key:
 kfm_copyFiles
+khoj.dev
 kibanaWelcomeLogo
 kibanaWelcomeTitle
 kibanaWelcomeView
@@ -10751,6 +10760,7 @@ window.opener.top.location.pathname
 window.sessionstorage.removeitem('serialcheckobj')
 window.snipeit
 window.start_load
+window.stirlingPDF
 window.top.location = "login.aspx?url=" + right"
 window.top.location.href = "dell_login.html
 winisp.gif
