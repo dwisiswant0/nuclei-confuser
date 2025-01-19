@@ -1514,6 +1514,7 @@ $webdb
 /platform/framework/logout/logout.action
 /plugins/jqueryskin/include/login.css
 /plus/laydate/laydate.js
+/pmahomme/
 /portal/about.jsp
 /powered-by-b2evolution-150t.gif
 /preauth/login.cgi
@@ -2606,6 +2607,7 @@ $webdb
 <name>hbase.defaults.for.version</name>
 <name>version</name>
 <ng-app
+<ns:return>true</ns:return>
 <object name="cm_md_db">
 <option value="/en/?{alert(document.domain)}" selected="selected">
 <option value="age_sys">代理商内部员工</option>
@@ -3687,7 +3689,6 @@ $webdb
 <title>pfSense - Login</title>
 <title>pgAdmin
 <title>pgAdmin 4</title>
-<title>phpMyAdmin
 <title>phpMyAdmin setup
 <title>phpMyAdmin setup</title>
 <title>phpMyFAQ
@@ -5133,6 +5134,7 @@ MACAddress=
 MAG Dashboard Login
 MAIL_PASSWORD
 MAIN SETUP SECTION
+MAMP
 MANAGER_IP
 MAX USER :
 MDM
@@ -6819,6 +6821,7 @@ alt="mantis bugtracker
 alt="mission control application shield
 alt="openmanage"
 alt="phpLDAPadmin logo
+alt="phpMyAdmin
 alt="piaware skyview"
 alt="plexpy"
 alt="powered by open edx
@@ -8929,6 +8932,7 @@ login.jsp?jsessionid=
 login.nsf
 loginKDLogo
 loginPasswordHidden
+loginResponse
 loginUsernameHidden
 login_check.js
 login_logo_h3c.png.jsf
@@ -9103,6 +9107,7 @@ name="koha_login_context
 name="num" value="1"><ScRiPt >alert(document.domain)</ScRiPt>
 name="password
 name="plesk-build"
+name="pma_username
 name="promisecactivex"
 name="redirectto" value="/zym/rbkj.nsf"
 name="source" value="clientbin/cisdasystem.xap"
@@ -9419,7 +9424,6 @@ pm2项目管理系统bs版增强工具.zip
 pm_query
 pma_password
 pma_servername
-pmahomme
 pmbDojo
 poc-testing
 poc.txt
@@ -10223,6 +10227,7 @@ templates_internal/assets/pivotx.png" alt="pivotx
 terastyle.css
 term
 terraform
+test" onmouseover="alert(document.domain);" style
 test_path=
 test_script:
 text/html
@@ -10707,6 +10712,7 @@ window.FileBrowser
 window.MetabaseBootstrap
 window.MetabaseRoot
 window.NOW.
+window.__ENV =
 window.__NUXT__
 window.___gcfg
 window._zimbramail

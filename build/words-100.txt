@@ -56,6 +56,7 @@ Joined
 {{md5(string)}}
 success
 onclick='alert(document.domain)
+module.exports
 admin
 Spotweb
 Model=
@@ -67,7 +68,6 @@ DB_HOST
 "access_token":
 {{randstr}}
 timestamp
-module.exports
 didn't
 description
 [core]
@@ -94,5 +94,5 @@ candidat
 [extensions]
 Search
 Powered
+PASSWORD
 Name
-Login=
