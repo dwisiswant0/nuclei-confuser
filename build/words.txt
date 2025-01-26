@@ -565,6 +565,7 @@
 "major":
 "mappings":
 "maxMemory":
+"mbean":"Users:database=UserDatabase,type=UserDatabase"
 "mbean":"java.lang:type=Memory"
 "md5":
 "me"
@@ -961,6 +962,8 @@
 "username":"showdoc"
 "username":"{{user}}"
 "users"
+"users":
+"users":[]
 "uuid"
 "uuid":
 "value"
@@ -2022,6 +2025,7 @@ $webdb
 <H2>404 te<img src=x onerror=alert(42)>st not found</H2>
 <HEAD><TITLE>Display file upload form to the user</TITLE></HEAD>
 <HSI>
+<HashPassword>
 <IMG SRC=/ onerror="alert(document.domain)"></img>
 <IMG SRC=X ONERROR=
 <IWPHEADER>
@@ -2042,6 +2046,7 @@ $webdb
 <ServerName>
 <Servers>
 <Signature
+<SimpleSuite
 <Svg/onload=alert(document.domain)>
 <TD>UPDATE login_authentication SET FAILED_LOGIN=FAILED_LOGIN+1 WHERE UPPER(USERNAME)=UPPER(NULL)or`1`=`1`;-- -')</TD>
 <TITLE>"><script>alert(document.domain)</script>
@@ -3288,6 +3293,7 @@ $webdb
 <title>Netscaler Gateway</title>
 <title>Netsweeper WebAdmin</title>
 <title>Network - Plastic SCM</title>
+<title>NextChat
 <title>Nexus Repository Manager</title>
 <title>NoVus IP camera</title>
 <title>Node-RED</title>
@@ -7410,6 +7416,7 @@ content="Monstra Admin Area
 content="My Private GPT
 content="Navicat On-Prem Server
 content="Netvolution WCM"
+content="NextChat"
 content="NocoDB
 content="Normhost Backup server manager
 content="Nucleus CMS 
@@ -11082,6 +11089,7 @@ zyxel
 易维平台</h1>
 是否域账户登录
 智能网关系统<br>
+暂无信息
 本系统由<a href="http://www.weiphp.cn" target="_blank">weiphp</a>强力驱动
 本页可删除
 杭州海康威视数字技术股份有限公司
