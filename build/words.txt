@@ -4149,6 +4149,8 @@ Camunda Welcome
 Can't retrieve data You have an error in your SQL syntax
 Cannot modify header information
 Canto
+Caobox CMS
+Caobox version
 CaseAware
 Cassia Bluetooth Gateway Management Platform
 Category Grid View Gallery =
@@ -4923,6 +4925,8 @@ It looks like you are trying to access MongoDB over HTTP on the native driver po
 It looks like you may have taken a wrong turn somewhere. Don't worry...it happens to all of us.
 Items
 Ivanti Cloud Services Appliance
+Ivanti Endpoint Manager
+Ivanti(R) Cloud Services
 JBoss EAP 7
 JBoss Enterprise SOA Platform: Embedded ESB Server
 JBoss JMX Management Console
@@ -4997,7 +5001,10 @@ Kwejki użytkownika
 LAGOS PARKER
 LAM configuration
 LANDESK(R)
+LANDesk Management
 LANDesk(R)
+LANDesk(R) Cloud Services Appliance
+LANDesk(R) Management
 LANG
 LANMP
 LDAP Account Manager
@@ -6392,6 +6399,7 @@ Welcome to Abyss Web Server
 Welcome to Adobe Experience Manager
 Welcome to Beego Admin Dashboard
 Welcome to CakePHP
+Welcome to Caobox
 Welcome to Citrix Hypervisor
 Welcome to Docmosis Tornado
 Welcome to ECOM
@@ -7446,6 +7454,7 @@ content="RapidWeaver"
 content="Repetier-Server
 content="RiteCMS
 content="Rvglobalsoft"
+content="SLiMS
 content="SOGo Web Interface"
 content="SUMOshop"
 content="Sana Commerce"
@@ -9513,6 +9522,7 @@ powered by <a href='http://www.zentao.net' target='_blank'>zentaopms
 powered by <b><a href="http://www.woltlab.de
 powered by <b>burning board
 powered by <strong><a href="http://www.discuz.net
+powered by Caobox
 powered by ILIAS
 powered by SpiderControl
 powered by activecollab

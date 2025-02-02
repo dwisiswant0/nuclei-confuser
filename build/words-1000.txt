@@ -393,6 +393,7 @@ SQLite
 SQLServer
 SQLSTATE
 SQLException
+SLiMS
 Repositories
 Remote
 Redmine
@@ -418,6 +419,7 @@ LDAP
 Joomla
 Jackett
 JK
+Ivanti
 Install</a>
 Infusionsoft
 IceWarp
@@ -936,5 +938,3 @@ wsConvertPptResponse
 wrapper
 wrap
 wpmudev
-wpml_lang
-wpdm-cache

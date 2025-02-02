@@ -393,6 +393,7 @@ SQLite
 SQLServer
 SQLSTATE
 SQLException
+SLiMS
 Repositories
 Remote
 Redmine
@@ -418,6 +419,7 @@ LDAP
 Joomla
 Jackett
 JK
+Ivanti
 Install</a>
 Infusionsoft
 IceWarp
@@ -473,5 +475,3 @@ ASUS
 ==
 <url-pattern>/weaver/
 <title>pfSense
-<title>Weave
-<title>User

@@ -1,10 +1,10 @@
-root:r:0:0:
-STABLEpTAG:C
+root:R:0:0:
+STABLEyTAG:H
 root:x:0:0
 [files]
 root:x:0:0:
-uid=g
+uid=3
 root::0:0
-uid=3()
+uid=8(W)
 for
-root:s:0::
+root:::3:
