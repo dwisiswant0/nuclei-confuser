@@ -90,9 +90,9 @@ id
 host
 com.thoughtworks.xstream
 candidat
+access_token
 [project-discovery]
 [extensions]
 Search
 Powered
 PASSWORD
-Name
