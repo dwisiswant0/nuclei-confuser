@@ -81,6 +81,7 @@ Exception
 "sources":
 "host":
 "domain"
+{{marker}}
 version
 url
 s
@@ -117,10 +118,10 @@ Installation
 "archived_snapshots":
 {{string}}
 {{md5("{{randstr}}")}}
-{{marker}}
 version:
 variables:
 uid
+success":true
 self
 profile:username
 paths:
@@ -234,7 +235,6 @@ this
 text:
 text/html
 suites:
-success":true
 subversion
 subscribers
 startAt

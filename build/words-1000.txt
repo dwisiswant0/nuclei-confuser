@@ -81,6 +81,7 @@ Exception
 "sources":
 "host":
 "domain"
+{{marker}}
 version
 url
 s
@@ -117,10 +118,10 @@ Installation
 "archived_snapshots":
 {{string}}
 {{md5("{{randstr}}")}}
-{{marker}}
 version:
 variables:
 uid
+success":true
 self
 profile:username
 paths:
@@ -234,7 +235,6 @@ this
 text:
 text/html
 suites:
-success":true
 subversion
 subscribers
 startAt
@@ -583,8 +583,10 @@ ASUS
 "terms"
 "team_id":
 "success":200
+"status":"ok"
 "sessionId":
 "server":
+"role":
 "result":true
 "result":"ok"
 "result":
@@ -936,5 +938,3 @@ www.wellcare.cn
 www.smartlogic.com
 www.rcdevs.com
 www.oooa.cn
-www.joomla.org
-www.interactsoftware.com
