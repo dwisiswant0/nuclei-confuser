@@ -64,6 +64,7 @@
 "<script>alert(document.domain)</script>",
 "></script><script>alert(document.domain)</script>
 "></script><script>alert(document.domain)</script>.php
+"></script><script>alert(document.domain)</script><script>
 "><h1>Test</h1>26" class="loginUserNameText
 "><img src onerror=alert(document.domain) x
 "><injectable>
@@ -75,8 +76,10 @@
 "><script>alert(document.domain);</script><"
 "><script>alert(document.domain)</script>
 "><script>alert(document.domain)</script>" />
+"><script>alert(document.domain)</script>">
 "><script>alert(document.domain)</script>&really_del=1">YES
 "><script>alert(document.domain)</script></a>
+"><script>alert(document.domain)</script><test test=
 "><script>alert({{randstr}})</script>
 "><script>confirm(document.domain)</script>
 "><script>javascript:alert(document.cookie)</script>
@@ -247,6 +250,7 @@
 "base_code"
 "bases"
 "beans"
+"beat_name":"rcl_chat_beat_core"
 "billing_email":
 "bitbucket-oauth":
 "brand":
@@ -987,6 +991,7 @@
 "website":
 "whois_server"
 "wildcard"
+"wpdm-all-packages"
 "yaml":
 "year"
 "year_founded":
@@ -1027,6 +1032,7 @@ $(this).removeclass('dn'
 $.cookie('sianglng' , null)
 $.hitron.languages.lang_init();
 $.post("/shopfront/shoppingcar/gotoshoppingcartajax.action",function(data){
+$.ret=0;
 $ATTACH_PATH
 $ROOT_PATH
 $_GET[
@@ -2039,6 +2045,7 @@ $webdb
 <ListBucketResult xmlns=
 <META HTTP-EQUIV=REFRESH CONTENT="0;URL=/index.htm">
 <META http-equiv="Refresh" content="0;URL=http://interact.sh">
+<P>error <B><svg/onload=prompt('document.domain')></B></P>
 <PROFILE VERSION=
 <PUSR_LIST>
 <R9PACKET>
@@ -2179,6 +2186,7 @@ $webdb
 <a title="官方网站" href="http://www.thinkcmf.com">ThinkCMF</a>
 <a><b>XXL</b>JOB</a>
 <access-policy>
+<account>
 <acx-root>
 <acx-root></acx-root>
 <add key="SqlConnString"
@@ -2310,6 +2318,7 @@ $webdb
 <div><script>alert(document.domain)</script></div>
 <div>Loading Squidex</div>
 <dwsync>
+<e:BoxInfo
 <em class="wk-fl">在沃系统</em>
 <em id="jserror">please enable javascript for full functionality
 <em style="color: black;"><script>alert(document.domain)</script>
@@ -3943,6 +3952,7 @@ Adminimize ===
 Administration - Installation - MantisBT
 Administration Guide is included
 Administration login
+Administration: Controlled Areas
 Administrative Console Login
 Administrative Information
 Administrators name:
@@ -4855,6 +4865,7 @@ If you need specifics, here's the error
 If you're moving your domain away from Cargo you must make this configuration through your registrar's DNS control panel.
 Illegal character 0x0 in state
 Illuminate
+Illuminate/Database/DatabaseManager.php
 ImageMap
 Images
 ImgZimbraIcon
@@ -5350,6 +5361,7 @@ Nginx Proxy Manager</title>
 Nginx UI
 Nginx Vhost Traffic Status
 Nginx+ Dashboard
+No Packages Found
 No Site For Domain
 No Update Needed
 No administrator account found inside the database
@@ -6908,8 +6920,10 @@ apache2.conf
 apache_modules:
 api
 apiKey
+apiKey":"
 apiKey:
 apiSecret
+apiSecret":
 apiVersion
 apiVersion:
 apikey
@@ -7151,6 +7165,7 @@ changepasswordpolicy
 chanzhi.js
 chat.53kf.com/company.php
 chat.53kf.com/kf.php
+chatFlows
 chaty_page_chaty
 check your user-id and password and try again
 checkcode.aspx
@@ -8194,6 +8209,7 @@ g_i3gState
 g_iUID
 g_rgProfileData =
 g_sysinfo_sim_state
+ganglia
 ganglia_form.submit()
 gateone.css
 gateone.js
@@ -8848,6 +8864,7 @@ joinedClassroomIds
 joinedDateText
 jotform
 journalx/authorlogon.action?mag_id
+journyx
 jqci
 jquery.extend(drupal.settings
 jquerytiki = new object
@@ -9104,6 +9121,7 @@ metronic. admin dashboard template.
 mfs.cgi
 mikrotik hotspot > login
 mikrotik routeros > administration
+mimeType":"text/plain
 mingsoft.net
 misc.php?mod=sendmail
 mkdir 
@@ -9151,6 +9169,7 @@ mysqld
 mysqli_real_connect
 name
 name =
+name":
 name">Followers
 name:
 name=
@@ -9933,6 +9952,7 @@ sellerToken
 senginx-robot-mitigation
 sensei_email_preview_id={{template_id}}
 sensei_message
+seo-automatic-seo-tools
 seopanel
 serendipity_editor.js
 serial
@@ -10323,6 +10343,7 @@ the vshield manager requires
 the wasion software foundation
 the-plus-addons-for-elementor
 theme=theme10dnel8"><script>alert(document.domain)</script>ko0
+themes/cas
 themes/default/images/ampps/favicon.ico
 themes/resources/segoeui-semibold.ttf
 themes/scripts/functionjs.js
@@ -10609,6 +10630,7 @@ value="经理">经理</option>
 value='&#39; and &#39;1&#39;=&#39;0 --
 value=''><sVg/OnLoAD=alert`1337`//'>
 value='test' draggable=true ondrag=alert(document.domain)
+var 
 var Display_FAQ_ID =
 var WscDevPin
 var _adfwindowopenerror
@@ -10870,10 +10892,14 @@ wp-content/themes/bello/fonts
 wp-content/uploads/database-backups
 wp-content/uploads/photo-gallery
 wp-content/uploads/wp-file-manager-pro/fm_backup
+wp-file-upload/
 wp-jobsearch
+wpb-show-core
 wpdevar_gall_img_url_h[<script>alert(document.domain)</script>]
 wpdm-cache
+wpdm-download-link download-on-click
 wpml_lang
+wpmovielibrary
 wpmudev
 wrap tern-wrap
 wrapper for

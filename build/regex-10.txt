@@ -1,11 +1,10 @@
-root:D:0:0:
-STABLE0TAG:
-2
+root::0:0:
+STABLEqTAG:h
 root:*:0:0
 [extensions]
-root:*:0:0:
+root:x:0:0:
 root::0:0
-uid=9
-uid=69gid=1
-uid=3(Y)
+uid=b
+uid=2gid=5
+uid=3(u)
 for

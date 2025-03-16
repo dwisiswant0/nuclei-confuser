@@ -1,10 +1,9 @@
 "id":
-2
 </script><script>alert(document.domain)</script>
 <script>alert(document.domain)</script>
 DB_NAME
 DB_PASSWORD
-STABLE0TAG:
+STABLEqTAG:h
 [extensions]
 bit
 display_name
@@ -12,10 +11,10 @@ extensions
 fonts
 for
 root:*:0:0
-root:*:0:0:
 root::0:0
-root:D:0:0:
-uid=3(Y)
-uid=69gid=1
-uid=9
+root::0:0:
+root:x:0:0:
+uid=2gid=5
+uid=3(u)
+uid=b
 {{md5(num)}}

@@ -55,6 +55,7 @@ Joined
 {{result}}
 {{randstr}}
 {{md5(string)}}
+{{marker}}
 success
 onclick='alert(document.domain)
 module.exports
@@ -81,7 +82,6 @@ Exception
 "sources":
 "host":
 "domain"
-{{marker}}
 version
 url
 s
