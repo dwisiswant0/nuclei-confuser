@@ -4,8 +4,8 @@ extensions
 fonts
 bit
 DB_PASSWORD
-{{md5(num)}}
 DB_NAME
+{{md5(num)}}
 "id":
 display_name
 "name":
@@ -22,10 +22,10 @@ uid=
 for
 "password":
 "name"
+"><script>alert(document.domain)</script>
 login
 "items":
 "id"
-"><script>alert(document.domain)</script>
 Interactsh
 <img
 "version":
@@ -48,6 +48,7 @@ Password=
 Login
 Joined
 ><script>alert(document.domain)</script>
+<svg/onload=alert(document.domain)>
 <script>alert(document.domain);</script>
 #
 "url":
@@ -66,7 +67,6 @@ Member
 Dashboard
 DB_HOST
 <web-app
-<svg/onload=alert(document.domain)>
 "status":
 "access_token":
 timestamp
@@ -571,6 +571,7 @@ ASUS
 /dana-na/
 .:
 %@
+$.ret=0;
 "uuid"
 "username":"{{user}}"
 "user_pass"
@@ -827,6 +828,7 @@ ASUS
 {{revstr}}
 {{reflection}}
 {{redirect_to}}
+{{rand}}
 {{payload}}
 {{nonce}}
 {{md5({{rand2}})}}
@@ -915,6 +917,7 @@ youphptube
 you've
 you
 yimioa.apk
+yikes-inc-easy-mailchimp-extender
 yfcmf
 yeswiki-search
 yeswiki-base
@@ -933,7 +936,3 @@ xheditor_lang/zh-cn.js
 xecure
 xdebug.remote_connect_back</td><td
 x_kfm_changeCaption
-x=\'
-x-strapi-config
-x");alert(9);x=("?login=0");</script>
-wzcon1

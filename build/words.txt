@@ -42,6 +42,7 @@
  | about.me
  | Cafecito</title>
 " style=animation-name:rotation onanimationstart=alert(document.domain) x
+"" autofocus onfocus=alert(document.domain)//"
 ""></script><script>alert(document.domain)</script>
 "$schema":
 "';alert(document.domain);b='
@@ -256,6 +257,7 @@
 "brand":
 "bucket":
 "build"
+"builds": [
 "bulk_
 "calendarId"
 "cancels_on":
@@ -774,6 +776,7 @@
 "root@
 "rootFolder"
 "route":
+"routes": [
 "safety":
 "scan_credits"
 "scan_date":
@@ -933,6 +936,7 @@
 "uri"
 "url"
 "url":
+"use": "@vercel
 "user"
 "user":
 "user-info">anonymous</span>
@@ -1022,6 +1026,7 @@
 #039;"=
 #1 Password Manager &amp; Vault App with Single-Sign On &amp; MFA Solutions - LastPass
 #cloud-config
+#flutterweb-theme
 #login-form
 $(".copyright").text("copyright ? " + server_current_year + " zkteco co., ltd. all rights reserved");
 $('#zentao').addClass('btn-success');
@@ -1628,6 +1633,7 @@ $webdb
 /usr/script
 /utility/corescripts/widget.js
 /valcode.aspx
+/var/run/haproxy.pid
 /var/tmp</td>
 /veracore/img/LoginLogo.png
 /vhost/view/default/style/login.css
@@ -2054,6 +2060,7 @@ $webdb
 <RestResponse><success>
 <SERIAL>
 <SVG ONLOAD=&#97&#108&#101&#114&#116(&#X64&#X6F&#X63&#X75&#X6D&#X65&#X6E&#X74&#X2E&#X64&#X6F&#X6D&#X61&#X69&#X6E)>
+<ScRiPt >alert(document.domain)</ScRiPt>
 <ScRiPt>alert('document_domain')</ScRiPt>
 <ScRiPt>alert(document.domain)</ScRiPt>alert
 <ServerName>
@@ -2460,6 +2467,7 @@ $webdb
 <img src onerror=alert(/XSS/)>
 <img src onerror=alert(`document.domain`) x">
 <img src onerror=alert(`document.domain`)>
+<img src onerror=alert(document.domain)
 <img src onerror=alert(document.domain)>
 <img src onerror=alert(document.domain)>' type='hidden
 <img src onerror=alert(document.domain)><br/>
@@ -3685,6 +3693,7 @@ $webdb
 <title>authentik</title>
 <title>browserless debugger</title>
 <title>cAdvisor - /</title>
+<title>dbt Docs</title>
 <title>dcTrack - Operations</title>
 <title>dolphinscheduler</title>
 <title>dotCMS Content Management Platform</title>
@@ -3770,6 +3779,7 @@ $webdb
 <web-app
 <web-app id=
 <web_user_login>
+<wsa:Action>
 = Amiro.CMS (c) =
 = Indexisto
 = NextGEN Gallery
@@ -4166,6 +4176,7 @@ CTCWebServiceSi
 CVE-2018-7602-POC
 CVE-2021-41773-POC
 CVE-2021-42013
+CVE-2023-22952
 CVMS
 CWP |用户
 CakePHP Issues
@@ -4213,6 +4224,7 @@ Check out {{user}} on HackenProof
 Checking Environment
 Checklist
 Chemtronics
+ChirpStack LoRaWAN
 Choose Installation Language
 Choose Language (选择语言)
 Choose a version of the Ratel interface
@@ -5021,6 +5033,7 @@ Kingdee.BOS.Core.Metadata.BusinessInfo
 Kingdee.EntryRole
 Kiwi TCMS
 Knews Multilingual Newsletters
+KodExplorer
 Kodbox-Installation
 Kraken cluster monitoring
 Kraken dashboard
@@ -5264,6 +5277,7 @@ Miles run overall
 Minimum 15 characters long</li>
 MintoxPlaceHolder
 Mirantis Kubernetes Engine
+Missing X509 certificate token
 Missing an action
 Missing translation key
 MissingIncludeException
@@ -5461,6 +5475,7 @@ Opera Web Browser | Faster, Safer, Smarter | Oper
 Operator Panel
 Optional Parameters
 Options -Indexes
+Oqtane
 Oracle BI Presentation Services
 Oracle Enterprise Manager
 Oracle UIX
@@ -5973,6 +5988,7 @@ Simple Membership
 Simplified Chinese UTF8 version
 Site Offline Or Coming Soon Or Maintenance Mode
 Site Title
+Site not running
 Sitecore Corporation
 Sitecore Login
 Skype
@@ -6022,6 +6038,8 @@ Squid User Access Report
 Squid User's Access Report
 SquirrelMail
 Stable tag:
+Staging does not work with blank password
+Staging service is not enabled on this server
 Star Micronics
 Start Time
 Start Your New Landing Page Now!
@@ -6069,6 +6087,8 @@ Symfony Profiler
 Symfony-Debug-Toolbar
 Symmetricom SyncServer
 Sync | Secure Cloud Storage, File Sharing and Document Collaboration
+SyncServer.ErrorLicense
+SyncServer.ErrorServiceNotEnabled
 SyncThru Web Service
 System Administrator Settings
 System Description
@@ -6159,6 +6179,7 @@ The requested range is not satisfiable
 The requested resource could not be found, or a request was received using an HTTP method that is not supported by the mapped resource
 The requested resource is not authorized to view
 The requested resource isn't a valid image
+The security token could not be authenticated or authorized
 The server sent HTTP status code 200
 The site configured at this address does not contain the requested file.
 The source URL is not valid
@@ -6552,6 +6573,7 @@ You have an error in your SQL syntax
 You have installed. To reinstall, you need to clear the data/install.lock file
 You have logged in as 'admin'
 You may have followed an invalid link or the job you are looking for has been archived
+You must specify a valid username and password
 You should be redirected automatically to target URL: <a href="/">
 You should be redirected automatically to target URL: <a href="/">/</a>
 You want to configure phpMyAdmin using web interface
@@ -6596,6 +6618,7 @@ ZoneMinder Login</h1>
 ZoneMinder</a>
 Zoo Management System
 Zostań Patronem
+["cache\/images\/{{randstr}}.txt"]
 ["loggingConfig"]
 [.ShellClassInfo]
 [0] => Array
@@ -6680,6 +6703,8 @@ _dash-config
 _debug
 _desktopmodules_picturenews
 _fj_sslvpn_login
+_flutter.buildConfig
+_flutter.loader.didCreateEngineInitializer
 _id
 _jcr_content
 _jorani
@@ -7078,6 +7103,7 @@ bin
 bin/
 bin:.*:1:1
 bind
+bind =
 bit app support
 bit-xxzs
 bitbucket.page.login
@@ -7107,6 +7133,7 @@ buckets
 build
 build:
 buildCount
+buildModules: [
 build_name
 buildyourownbotnet/database.db
 bun-lockfile-format-v0
@@ -7765,6 +7792,7 @@ content='easyscp
 content='phpcollab
 content=本网站基于开源版showdoc搭建
 context
+controlType"
 copyright &copy;  dms  all rights reserved （alibaba 数据管理产品）
 copyright &copy; 2003 - 2017 <a href="http://www.elite-is.com/cmhome.asp
 copyright &copy; 2008-2017 <a href="http://www.apachehaus.com">the apache haus</a>
@@ -7875,6 +7903,7 @@ dating Profile,
 dav_url
 dayrui/statics
 dayrui@gmail.com
+dbType"
 db_host
 db_name
 db_pwd
@@ -8099,11 +8128,13 @@ expires_in":
 expiry date
 export default [
 export default defineConfig
+export default {
 exports.config
 expose_php
 expressway-e</legend>
 ext-all.js
 ext.create('pve.stdworkspace')
+ext.flutter.disassemble
 extensions
 externalUserId
 extra_list_connections
@@ -8153,6 +8184,9 @@ fisheye-16.ico
 fixedDelay
 flexbe.com
 fluig://
+flutter-app-cache
+flutter-app-manifest
+flutter-temp-cache
 flywayBeans
 fmt_logoalt: "coremail 电子邮件系统
 follow @opsview
@@ -8999,6 +9033,8 @@ locust.js
 log
 log into my eamic® account
 log messages
+log4j.logger
+log4j.rootLogger=
 logback_events_total
 logged in as: dr.who
 logger
@@ -9117,6 +9153,7 @@ method="post" action="s" onsubmit="return checksearchform();">
 method="post" name="cms4jsearchform" id="cms4jsearchform
 methodName
 methodResponse
+metricActions
 metronic. admin dashboard template.
 mfs.cgi
 mikrotik hotspot > login
@@ -9136,6 +9173,7 @@ modifiedtime":
 modlogan.css
 module
 module.exports
+module.exports =
 module.exports = {
 mongo-express-logo.png
 mongodb
@@ -9233,6 +9271,7 @@ new line detected in
 new my moodle and profiles API
 new squarespace.fixedpositiontip("logout successful", "you have been successfully logged out.", { xmargin: 15, ymargin: 15, icon: "/universal/images/helptip-info.png", orientation: "upper-right", viewportfixed: true, autohide: 1800 }).show();
 nexposeccpassword
+nextConfig
 nextcloud</a> – 给您所有数据一个安全的家
 nfr="true"
 ng-app="
@@ -9485,6 +9524,7 @@ phpyun
 pico 
 pics/blogengine.ico
 pid:
+pidfile
 pids
 pipelines:
 piwigo.org">Piwigo</a>
@@ -9528,6 +9568,7 @@ portal.php?mod=
 portfolio
 positiveMatches
 post("/ssosaml/saml2signonhandler.ashx")
+post-timeline
 poste
 poste<span
 postgres
@@ -9961,7 +10002,9 @@ servProvCode
 server
 server agentAutoRegisterKey
 server-lucee-small.png.cfm
+server.document-root =
 server.port
+server.port =
 server:
 server: cpws
 serverCertificatesGeneral
@@ -10347,6 +10390,7 @@ themes/cas
 themes/default/images/ampps/favicon.ico
 themes/resources/segoeui-semibold.ttf
 themes/scripts/functionjs.js
+themify-builder
 there is no action mapped for namespace
 thinkserver
 this error was generated by mod_security
@@ -10450,6 +10494,7 @@ tpshop.css
 tpshop_config
 tq.cn/floatcard?
 trackingelement="create user"
+tradedoubler-affiliate-tracker
 traffic analy
 translateButtonId = "B2Bbuilder"
 translated
@@ -10875,9 +10920,12 @@ wishoa_webplugin.js
 wixErrorPagesApp
 wizardtitletext
 wlcms-login-wrapper
+woocommerce
+woocommerce-product-addon
 woot-content-in-popup
 woot-system
 woot-table
+workers =
 worksites.net
 wp-analytify
 wp-content/plugins/arforms/
@@ -10940,6 +10988,7 @@ yarn.dt.plugins.js
 yeswiki-base
 yeswiki-search
 yfcmf
+yikes-inc-easy-mailchimp-extender
 yimioa.apk
 you need to enable javascript to access the open-xchange server
 you've come to the right place.
@@ -11040,6 +11089,7 @@ zyxel
 {{payload}}
 {{randstr}}
 {{randstr}}.tld
+{{rand}}
 {{redirect_to}}
 {{reflection}}
 {{result}}

@@ -4,8 +4,8 @@ extensions
 fonts
 bit
 DB_PASSWORD
-{{md5(num)}}
 DB_NAME
+{{md5(num)}}
 "id":
 display_name
 "name":
@@ -22,10 +22,10 @@ uid=
 for
 "password":
 "name"
+"><script>alert(document.domain)</script>
 login
 "items":
 "id"
-"><script>alert(document.domain)</script>
 Interactsh
 <img
 "version":
@@ -48,6 +48,7 @@ Password=
 Login
 Joined
 ><script>alert(document.domain)</script>
+<svg/onload=alert(document.domain)>
 <script>alert(document.domain);</script>
 #
 "url":
@@ -66,7 +67,6 @@ Member
 Dashboard
 DB_HOST
 <web-app
-<svg/onload=alert(document.domain)>
 "status":
 "access_token":
 timestamp

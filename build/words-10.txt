@@ -4,7 +4,7 @@ extensions
 fonts
 bit
 DB_PASSWORD
-{{md5(num)}}
 DB_NAME
+{{md5(num)}}
 "id":
 display_name
