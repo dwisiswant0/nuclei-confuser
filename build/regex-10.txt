@@ -1,11 +1,10 @@
 root::0:0:
-STABLE1TAG:
-d
+STABLE	TAG: Z
 root:*:0:0
-[fonts]
+[files]
 root:*:0:0:
-root:+:0:0
-uid=8gid=9
-uid=9
-uid=8(/)
+root:\:0:0
+uid=5gid=5
+uid=2
+uid=6(})
 for
