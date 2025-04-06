@@ -62,6 +62,7 @@
 "</script><script>alert(document.domain)</script>"><input
 "<div class=
 "<script>alert(document.domain)</script>
+"<script>alert(document.domain)</script>"
 "<script>alert(document.domain)</script>",
 "></script><script>alert(document.domain)</script>
 "></script><script>alert(document.domain)</script>.php
@@ -145,6 +146,7 @@
 "Revision":
 "SUCCESS"
 "SecretList":
+"Server":
 "ServiceList":
 "Success": true
 "Success":false
@@ -323,6 +325,7 @@
 "copyright":
 "cost"
 "couchbase":
+"couchdb":
 "count":
 "country"
 "country_code":
@@ -1814,6 +1817,7 @@ $webdb
 39fdbd63424a09b5b065a6cc60c9267d3f49950bf1f1a7fd276fe1ece4a35c09
 3@1=<script>alert(document.domain)</script>
 3@1=<script>alert(document.domain)</script>@
+3CX
 3CX Phone System Management Console
 3b51a43178df8b4db108a20e93a428a889c20a9ed5f41067d1a2e8224740838e
 3cbf1ae156fa85f16d4ca01321e0965db8cfb9239404aaf52c3cebfc5b4493fb
@@ -2072,6 +2076,7 @@ $webdb
 <ScRiPt>alert(document.domain)</ScRiPt>alert
 <ServerName>
 <Servers>
+<SetupConfig
 <Signature
 <SimpleSuite
 <Svg/onload=alert(document.domain)>
@@ -3041,7 +3046,6 @@ $webdb
 <title>Decision Center Enterprise console</title>
 <title>Decision Center | Business Console</title>
 <title>Decision Runner</title>
-<title>Default Parallels Plesk Panel Page</title>
 <title>Default</title>
 <title>Deimos C2</title>
 <title>Dell OpenManage Switch Administrator</title>
@@ -4927,6 +4931,7 @@ Index of /pme/media
 Index of /uploads</title>
 Index of /wp-content/backups-dup-lite/
 Index of /wp-content/plugins/super-forms/
+Index of /wp-content/uploads/download-
 Index of /wp-content/uploads/pdf-invoices
 Index of /wp-content/uploads/prime-mover-export-files/1
 Index of /wp-content/uploads/wpjobboard
@@ -6606,6 +6611,7 @@ You want to configure phpMyAdmin using web interface
 You're Administrator
 You've tried to access an account/page that does not exist
 Your Activity
+Your IP</strong>
 Your Password has been reset
 Your account has been activated!
 Your browser is sending the following cookies:
@@ -6875,6 +6881,7 @@ alert(/XSS/);
 alert(/{{randstr}}/)
 alert(1337)
 alert(document.cookie)
+alert(document.domain)
 alert(document.domain)//&et=ServerError
 alert(document.domain);
 alexanderzobnin-zabbix-datasource
@@ -7425,6 +7432,7 @@ const audience
 const domain
 const mix
 consul instance
+consul-network-segment
 consul-ui/config/environment
 consulhost
 containerDefinitions
@@ -8330,6 +8338,7 @@ glassfish community
 glide.db.user
 global traffic statistics
 global-protect/login.esp
+global:
 glpi-project.org
 go
 goVersion
@@ -9999,6 +10008,8 @@ schema.org/Person
 schema_name
 scientific_name
 sco corporate web site
+scrape_configs:
+scrape_interval
 screen: 'dashboard'
 screenshot
 script headers
@@ -11114,6 +11125,7 @@ zyxel
 {"type":"success","message":"File removed successfully"}
 {"username":"{{username}}","error":false}
 {"username":"{{user}}"}
+{"users"
 {"users":{"users":
 {"valid": true}
 {"version":"

@@ -428,6 +428,7 @@ Mitel
 Missing
 Logged
 Log
+Last
 Label
 LOG_LEVEL
 LDAP
@@ -580,6 +581,7 @@ ASUS
 .:
 %@
 $.ret=0;
+"vendor":
 "uuid"
 "username":"{{user}}"
 "user_pass"
@@ -847,6 +849,7 @@ $.ret=0;
 {"version":"
 {"valid":
 {"users":{"users":
+{"users"
 {"username":"{{user}}"}
 {"username":"{{username}}","error":false}
 {"type":"success","message":"File
@@ -931,6 +934,3 @@ yfcmf
 yeswiki-search
 yeswiki-base
 yarn.dt.plugins.js
-yabbtime.gettime()
-xss
-xmlrpc
