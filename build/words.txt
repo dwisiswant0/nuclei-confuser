@@ -2714,6 +2714,7 @@ $webdb
 <script>alert('XSS')</script>
 <script>alert('document.domain');</script>
 <script>alert('document.domain')</script>
+<script>alert('document_domain')</script>
 <script>alert('xss')</script>
 <script>alert('{{randstr}}')</script>
 <script>alert(/{{randstr}}/)</script>
@@ -3050,6 +3051,7 @@ $webdb
 <title>Deimos C2</title>
 <title>Dell OpenManage Switch Administrator</title>
 <title>Dell Remote Management Controller</title>
+<title>Dependency-Track</title>
 <title>Deployment Management Interface</title>
 <title>Dericam</title>
 <title>Desktop Portal | VMware&reg; Horizon DaaS&trade; Platform</title>
@@ -3117,6 +3119,7 @@ $webdb
 <title>FortiAP</title>
 <title>FortiDDoS</title>
 <title>FortiMail</title>
+<title>FortiSwitch
 <title>FortiTester</title>
 <title>FortiWLM Login</title>
 <title>Froxlor Server Management Panel - Installation
@@ -3554,6 +3557,7 @@ $webdb
 <title>T-Pot</title>
 <title>T24 Sign in</title>
 <title>TF2 Backpack -
+<title>TIBCO Managed File Transfer</title>
 <title>TIBCO Spotfire Server
 <title>TOS Loading</title>
 <title>Tableau Python Server</title>
@@ -3838,6 +3842,7 @@ $webdb
 >Powered by Plone &amp; Python</a>
 >Profile<
 >Promtail</a>
+>Select {{username}}<
 >Utility-Services
 >WebCalendar Installation Wizard
 >dbabble online help</a>
@@ -4215,6 +4220,7 @@ Caton Network Manager System
 Caused by:
 CentOS WebPanel
 Central Authentication Service
+CentreStack - Login
 CfgServerAppName
 CfgServerPassword
 Chamilo installation
@@ -4371,7 +4377,6 @@ Current Status
 Current action:
 Current configuration
 Custom Uploader URL:
-Custom domain check
 Custom domain has not been configured inside Azure. See how to map an existing domain to resolve this.
 Cvent Inc
 Cvent, Inc.
@@ -4624,6 +4629,7 @@ Exclude:
 ExePath=\Windows
 Execute Commands on Servers
 Execute:
+Expires
 Expires:
 Explore the Uber Platform | Uber
 Explore</a>
@@ -4858,6 +4864,7 @@ HostName
 Hostname
 HotelDruid
 HotelDruid</a>
+Howdy,
 Howdy, {{username}}
 HttpUcmdbServiceProviderFactoryImpl
 Hydra Router Dashboard
@@ -5389,6 +5396,7 @@ Network Utility
 Network setup
 New Item
 New Year Firework =
+New member has been successfully created.
 New password
 NewPP limit report
 NewSoft
@@ -5404,6 +5412,7 @@ No Site For Domain
 No Update Needed
 No administrator account found inside the database
 No changes made
+No downloads found
 No filename supplied
 No handler matched for custom <img src=x onerror=alert(document.domain)>
 No people found for
@@ -6377,6 +6386,7 @@ VPN IP
 Valid Reports Servlet Commands
 ValidCredentials
 Validate
+Value
 Vanderbilt University
 Variables.cs_imagedir
 Veeam Backup Enterprise Manager : Login
@@ -6578,6 +6588,7 @@ WorkDir=\Windows
 WpUserId
 WriteCSS
 Writebook</h1>
+Wrong Password
 Wrong file type
 X-Rate-Limit-Limit:
 X-Rate-Limit-Remaining:
@@ -6978,6 +6989,7 @@ apache
 apache2.conf
 apache_modules:
 api
+api/v2/static
 apiKey
 apiKey":"
 apiKey:
@@ -6987,7 +6999,6 @@ apiVersion
 apiVersion:
 apikey
 app-unifi-wizard
-app.lemlist.com
 app/arguments/admin
 app/tpl/fanwe_1/images/lazy_loading.gif
 app=zcms
@@ -7117,6 +7128,7 @@ bagisto
 banner/tivoli/tv_icbanner.html
 barmemCachedPercent
 barracuda ssl vpn
+base64
 baseVibeUrl
 basercms
 baseurl
@@ -7845,6 +7857,7 @@ copyrightpt12
 copyright© genie networks ltd.
 coredump
 coremail/common
+could not load the shared library
 count
 count/mystat.asp
 country
@@ -7920,6 +7933,7 @@ data-target="#navbar-feifeicms"
 data-tinvwl_product_id="
 data-xwiki
 data:
+data:application/octet-stream
 data:image\/;base64
 dataChangeCreatedBy
 database
@@ -8004,6 +8018,7 @@ diancms_用户登陆引用
 didn't exists
 dimensions
 directive is not allowed here
+directive is specified too late
 directlink = "eafc.application";
 directlink = "programstartup.application"
 directorist-authors__card__details__top
@@ -8798,6 +8813,7 @@ imgresize.riseup.ai
 imgs/fs-black-box.jpg
 imo
 imp: copyright 2001-2009 the horde project
+import init
 import-wbcr_insert_php&a\"><script>alert(1)</script>"
 inc/wqcms.js
 include/xoops.js
@@ -8903,6 +8919,7 @@ java.lang.NullPointerException:null
 java.lang.StringIndexOutOfBoundsException
 java.lang.UNIXProcess@
 java.sql.SQLException
+java.sql.SQLException: XPATH syntax error: '
 java.sql.SQLSyntaxErrorException
 java.sun.com
 java.untangle.com
@@ -9179,6 +9196,7 @@ mem
 mem.free
 member-since
 memberSince
+member_id
 memory
 mempool-space
 mempool-summary
@@ -9433,6 +9451,7 @@ onsubmit="return checksubmit()
 onsubmit="return formcheck();" class="we7-form">
 onsubmit="return sys_submit(this)
 oozie-console
+op":"
 opac_two
 opcache
 open admin for schools
@@ -10036,6 +10055,7 @@ selectcss
 selectjobscategory
 selectpasswordpolicy
 self
+self.addEventListener
 self.location = 'http://oast.me'
 self.location=
 sellerToken
@@ -10348,6 +10368,7 @@ success":
 success":true
 success":{
 success: true
+success_message_positon
 successfulUserRegistrationDestination
 sucuri website firewall - cloudproxy - access denied
 sudo 
