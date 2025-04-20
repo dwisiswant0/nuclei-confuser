@@ -1,10 +1,10 @@
-root:{:0:0:
-STABLEWTAG:0
+root:(:0:0:
+STABLEETAG:T
 root:x:0:0
 [files]
 root:*:0:0:
-uid=5
-root::0:0
-uid=8gid=4	
-uid=6(Q)
+uid=x
+root:k:0:0
+uid=6~gid=4F
+uid=9(=)
 for
