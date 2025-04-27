@@ -75,6 +75,7 @@ description
 [core]
 Tested
 Exception
+AdmissionReview
 "username"
 "user":
 "url"
@@ -102,7 +103,6 @@ PASSWORD
 Name
 Login=
 Installation
-AdmissionReview
 <svg
 <img/src/onerror=alert(document.domain)>
 <?xml
@@ -321,6 +321,7 @@ discuz_uid
 directive
 default:
 def_wirelesspassword
+database_settings
 database:
 data":
 data
@@ -470,4 +471,3 @@ DB
 Current
 Contributions
 ContentPanel
-Company

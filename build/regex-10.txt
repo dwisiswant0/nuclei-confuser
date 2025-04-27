@@ -1,10 +1,10 @@
-root:(:0:0:
-STABLEETAG:T
-root:x:0:0
-[files]
+root:e:0:0:
+STABLERTAG: 6
+root:*:0:0
+[extensions]
 root:*:0:0:
-uid=x
-root:k:0:0
-uid=6~gid=4F
-uid=9(=)
+uid=s
+root::0:0
+uid=9gid=9^
+uid=0(t)
 for

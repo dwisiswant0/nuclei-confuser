@@ -75,6 +75,7 @@ description
 [core]
 Tested
 Exception
+AdmissionReview
 "username"
 "user":
 "url"
@@ -95,4 +96,3 @@ com.thoughtworks.xstream
 candidat
 access_token
 [project-discovery]
-[extensions]
