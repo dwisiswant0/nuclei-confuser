@@ -20,15 +20,15 @@ PHP
 username
 uid=
 for
+"><script>alert(document.domain)</script>
 "password":
 "name"
-"><script>alert(document.domain)</script>
 login
+Interactsh
 <img
+"version":
 "items":
 "id"
-Interactsh
-"version":
 password
 name
 gid=
@@ -125,6 +125,7 @@ uid
 type
 success":true
 self
+result
 profile:username
 paths:
 name:
@@ -251,7 +252,6 @@ server.port
 server
 security:
 secured
-result
 reloadByURL
 reason
 qdPM
@@ -280,6 +280,7 @@ listen
 link
 libvirt_
 kube
+jsonrpc
 java.lang.Exception
 jQuery
 issuer
@@ -471,4 +472,3 @@ Dashboard</a>
 DB
 Current
 Contributions
-ContentPanel

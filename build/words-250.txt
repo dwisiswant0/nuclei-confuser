@@ -20,15 +20,15 @@ PHP
 username
 uid=
 for
+"><script>alert(document.domain)</script>
 "password":
 "name"
-"><script>alert(document.domain)</script>
 login
+Interactsh
 <img
+"version":
 "items":
 "id"
-Interactsh
-"version":
 password
 name
 gid=
@@ -125,6 +125,7 @@ uid
 type
 success":true
 self
+result
 profile:username
 paths:
 name:
@@ -238,4 +239,3 @@ token_endpoint
 token
 title
 this
-text:
