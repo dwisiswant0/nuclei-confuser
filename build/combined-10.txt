@@ -3,8 +3,8 @@
 <script>alert(document.domain)</script>
 DB_NAME
 DB_PASSWORD
-STABLE.TAG: y
-[files]
+STABLEcTAG:Z
+[extensions]
 bit
 display_name
 extensions
@@ -14,7 +14,7 @@ root:*:0:0
 root::0:0
 root::0:0:
 root:x:0:0:
-uid=0gid=7
-uid=6($)
-uid=w
+uid=5(u)
+uid=58gid=9
+uid=r
 {{md5(num)}}

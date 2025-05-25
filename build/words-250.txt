@@ -15,8 +15,8 @@ Tags:
 Index
 PHP
 "data":
-"email":
 "success":true
+"email":
 username
 uid=
 for
@@ -44,6 +44,7 @@ c8c605999f3d8352d7bb792cf3fdb25
 Login
 "created_at":
 "></script><script>alert(document.domain)</script>
+{{marker}}
 success
 password=
 Password=
@@ -59,7 +60,6 @@ Joined
 {{result}}
 {{randstr}}
 {{md5(string)}}
-{{marker}}
 onclick='alert(document.domain)
 module.exports
 admin
@@ -215,6 +215,7 @@ Action
 {{username}}
 {{rand}}
 {{randstr}}.tld
+{{filename}}.php
 {"result":
 {"message":"
 zcms_skin
@@ -238,4 +239,3 @@ topics
 token_endpoint
 token
 title
-this
