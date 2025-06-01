@@ -1,10 +1,10 @@
 root::0:0:
-STABLEcTAG:Z
+STABLE;TAG: S
 root:*:0:0
 [extensions]
-uid=r
-root:x:0:0:
+uid=s
+root:*:0:0:
 root::0:0
-uid=58gid=9
-uid=5(u)
+uid=2gid=2
+uid=0(U)
 for

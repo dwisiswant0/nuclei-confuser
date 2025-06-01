@@ -14,11 +14,11 @@ Tags:
 "username":
 Index
 PHP
-"data":
 "success":true
+"data":
 "email":
-username
 uid=
+username
 for
 "><script>alert(document.domain)</script>
 login
@@ -26,12 +26,12 @@ login
 "version":
 "password":
 "name"
+gid=
 Interactsh
 "items":
 "id"
 password
 name
-gid=
 error_message
 <h1>
 </web-app>
@@ -112,6 +112,7 @@ Installation
 "type"
 "token_type":
 "node":
+"message":
 "mappings":
 "items":[{
 "data"
@@ -197,7 +198,6 @@ Action
 "slug":
 "protocol":
 "password"
-"message":
 "key":
 "ip":
 "hostname":
@@ -843,6 +843,7 @@ $.ret=0;
 ÏµÍ³¹ÜÀíÔ±|
 ÄúºÃ|||
 ~lansweeperdb~
+~]#nohup
 |
 {{username}}',
 {{to_lower(username)}}
@@ -855,6 +856,7 @@ $.ret=0;
 {{payload}}
 {{nonce}}
 {{md5({{rand2}})}}
+{{input}}
 {{echo-cmd-hash}}
 {{base64_decode(cmd)}}
 {{
@@ -932,5 +934,3 @@ zk.wpd
 zitadel
 zipUploadSuccess
 zimbra_server_hostname
-zimbra_ldap_userdn
-zimbra_ldap_password

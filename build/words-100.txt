@@ -14,11 +14,11 @@ Tags:
 "username":
 Index
 PHP
-"data":
 "success":true
+"data":
 "email":
-username
 uid=
+username
 for
 "><script>alert(document.domain)</script>
 login
@@ -26,12 +26,12 @@ login
 "version":
 "password":
 "name"
+gid=
 Interactsh
 "items":
 "id"
 password
 name
-gid=
 error_message
 <h1>
 </web-app>
