@@ -1,10 +1,10 @@
-root::0:0:
-STABLE;TAG: S
-root:*:0:0
+root:r:0:0:
+STABLEOTAG:	h
+root:x:0:0
 [extensions]
-uid=s
+uid=x
 root:*:0:0:
-root::0:0
-uid=2gid=2
-uid=0(U)
+root:O:0:0
+uid=2ygid=7|
+uid=7(4)
 for

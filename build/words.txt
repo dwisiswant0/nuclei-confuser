@@ -2355,7 +2355,6 @@ $webdb
 <div style="font-family: tahoma, verdana, arial, helvetica, sans-serif; font-size:11px;">version
 <div style='display: none;' id="setstatusiconstatediv"></div>
 <div xmlns:css="http://namespaces.plone.org/diazo/css"
-<div> There are no notebooks running. </div>
 <div><h3>dedecms error warning!</h3>
 <div><input type="hidden" name="__formid" id="field-login-__formid" value="login" />
 <div><script>alert(document.domain)</script></div>
@@ -3199,7 +3198,6 @@ $webdb
 <title>HiveQueue Agent</title>
 <title>Home - Mongo Express</title>
 <title>Home Assistant</title>
-<title>Home Page - Select or create a notebook</title>
 <title>HomeMatic WebUI</title>
 <title>Homebridge</title>
 <title>Homer</title>
@@ -5889,7 +5887,6 @@ Roadmap
 Roblox is ushering in the next generation of entertainment. Imagine, create, and play together with millions of people across an infinite variety of immersive, user-generated 3D worlds.
 RoleId
 Room Alert - Account Log In
-Roundcube Webmail
 Roundcube Webmail initial database structure
 Route
 Router Management - Server OpenVPN
@@ -6111,6 +6108,7 @@ Social Warfare
 SolarView
 SolarViewCompact
 SolarWinds Orion
+SolarWinds Security Event Manager
 SolarWinds.Orion.Core.
 SonarQube
 SonicWall Administrator
@@ -6127,6 +6125,7 @@ SoundCloud</title>
 SourceAfrica
 SourceTimeStamp=
 Space :<img src=1 onerror=alert(document.domain)>: does not exist
+Spark Jobs
 Special kernel symbols:
 SphinxOnline</span>
 Splunk Inc.
@@ -7094,6 +7093,7 @@ appex network corporation
 apphub.server.registertohub(qrcodeid)
 appid":"skylar6
 apple-system
+application UI
 application-id
 application.load_tasks
 application/admin/
@@ -10843,6 +10843,7 @@ value="CREATE.SESSION"
 value="EVTRPT"
 value="FB_appId"><script>alert(document.domain)</script>"
 value="SYSLOG"
+value="View Report"
 value="WEBLOG"
 value="\"><script>alert(document.domain)</script>
 value="\"onmouseover=alert(document.domain)/">
@@ -10966,7 +10967,6 @@ version S29_RGOS 11.4
 version.services.core.carbon.wso2.org
 version:
 view config
-view report
 view=activity
 view_update_every
 viewer.min.css
@@ -11138,6 +11138,7 @@ wp-file-upload/
 wp-hotel-booking
 wp-jobsearch
 wp-login-register
+wp-user-avatar
 wpb-show-core
 wpdevar_gall_img_url_h[<script>alert(document.domain)</script>]
 wpdm-cache
