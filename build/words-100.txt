@@ -7,9 +7,9 @@ DB_PASSWORD
 DB_NAME
 {{md5(num)}}
 "id":
+{{md5({{num}})}}
 display_name
 "name":
-{{md5({{num}})}}
 Tags:
 "username":
 Index
@@ -84,6 +84,7 @@ AdmissionReview
 "sources":
 "host":
 "domain"
+{{string}}
 version
 url
 s
@@ -94,5 +95,4 @@ id
 host
 content
 com.thoughtworks.xstream
-candidat
-access_token
+code

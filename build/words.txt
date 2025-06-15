@@ -165,8 +165,10 @@
 "\"https:\\\/\\\/
 "__meta":
 "__typename"
+"_embedded"
 "_id"
 "_id":
+"_links"
 "_links":
 "access":"read"
 "access":"readwrite"
@@ -287,6 +289,7 @@
 "code":
 "code":"success"
 "code":"validation_error"
+"code":1001
 "code":200
 "code":20000
 "coin":
@@ -452,6 +455,7 @@
 "freeMemory":
 "fullName":"System"
 "fullyQualifiedName"
+"functions.php"
 "generator" content="Microweber" />
 "ghost"
 "git_url":
@@ -646,6 +650,7 @@
 "number":
 "number_of_nodes"
 "object":
+"oid":"1"
 "ok":true
 "online_flag":
 "openai_api_key":
@@ -661,6 +666,7 @@
 "owner":
 "ownerId":
 "package":"
+"page"
 "page":
 "pageInfo":
 "page_rank_decimal"
@@ -832,6 +838,7 @@
 "shield_action"
 "sid" :
 "site-name">iClock Automatic Data Master Server
+"size"
 "slok"
 "slug":
 "softAp":
@@ -1290,6 +1297,7 @@ $webdb
 /+CSCOU+/portal.css
 // Karma configuration
 ///sessions
+//DB-MS
 //seal.globalsign.com/siteseal
 //smarticon.geotrust.com/si.js
 //www.jadu.net
@@ -1569,6 +1577,7 @@ $webdb
 /proxy/ssllogin
 /prx/001/http/localh
 /public/base/js/plugins/crypto/rsa.js
+/public/css/
 /public/css/common_uqcms.css
 /public/js/5kcrm.js
 /public/js/knockout-3.4.1.debug.js
@@ -1576,7 +1585,6 @@ $webdb
 /public/others/maxlength.js
 /public/vendor/monaco/vs/loader.js
 /qzmail/index.php
-/remote/fgt_lang
 /remote/login
 /res/images/login-bg-1.png
 /res/vendor/bootstrap-3.3.5/css/bootstrap.min.css
@@ -2773,6 +2781,7 @@ $webdb
 <script>document.title = "";alert(document.domain);" - Jeedom"</script>
 <script>javascript:alert('XSS')</script>
 <script>location.href="ucenter";</script>
+<script>prompt("XSS")</script>
 <script>var module_sugar_grp1 = 'users';</script><script>var action_sugar_grp1 = 'login';</script><script>jscal_today
 <script>window.location.href='home.php'</script>
 <select class="sqlcombo" name="tablecombo
@@ -2997,6 +3006,7 @@ $webdb
 <title>Behance</title>
 <title>BeyondInsight</title>
 <title>BigAnt Admin </title>
+<title>BigAntSetup
 <title>BigBlueButton</title>
 <title>Bitdefender GravityZone</title>
 <title>Blue Iris Login</title>
@@ -3975,6 +3985,7 @@ Accueil WAMPSERVER
 Achievements
 Acrolinx</title>
 Action Controller: Exception caught
+Action=GetLogonInfo
 Actions
 Active connections:
 ActiveCollab Installer
@@ -4168,6 +4179,7 @@ Best Buy | Official Online Store | Shop Now &amp; Save
 Best Note Taking App - Organize Your Notes with Evernote
 Best Password Manager: No more writing down passwords
 Best-in-class Yahoo Mail, breaking local, national and global news, finance, sport, music, films and more. You get more out of the web, you get more out of life.
+BigAnt Database Upgrade Wizard1
 Binary file regexps
 BioStar 2</title>
 BitKeeper configuration
@@ -4194,6 +4206,7 @@ Browse
 BucketName
 Buddy App
 Build Your Own Botnet
+Build-time:
 BuildTime
 BuildVersion
 Building configuration
@@ -4674,6 +4687,7 @@ Exception while fetching data
 Exception: Error while [Loading XML
 Exchange Admin Center
 Exchange MAPI/HTTP Connectivity Endpoint
+Exchange Reporter Plus
 Exclude:
 ExePath=\Windows
 Execute Commands on Servers
@@ -4775,6 +4789,7 @@ FortiClient Endpoint Management Server
 FortiMail Click Protection
 FortiManager
 FortiNAC
+FortiRecorder Admin
 Found Exact Match
 FreePBX Administration
 FreshRSS
@@ -4862,7 +4877,7 @@ HDW WordPress Video Gallery
 HELP
 HELP haproxy_
 HELPPATH
-HFS /
+HFS =
 HMI_Panel
 HOST=
 HP
@@ -5033,6 +5048,7 @@ Internal Server Error
 Introduction
 Invalid API Key
 Invalid GeoJSON file location:
+Invalid JSON
 Invalid Password
 Invalid authorization
 Invalid content type:
@@ -5181,6 +5197,7 @@ Licensed to HSC TREINAMENTO
 Licenses-in-use
 LimeSurvey installer
 Link does not exist
+Link expired
 LinkedIn: Log In or Sign Up
 List all commands
 Lista gier:
@@ -5348,7 +5365,6 @@ Mercurial Repositories
 Message for
 Message":"245
 MessageSolution Enterprise
-Messages
 MetaLinkContainer
 MetaView Explorer
 Metasploit - Setup and Configuration
@@ -5565,6 +5581,7 @@ Openfire, Version:
 Opengear Management Console</title>
 Opera Web Browser | Faster, Safer, Smarter | Oper
 Operator Panel
+OptinMonster
 Optional Parameters
 Options -Indexes
 Oqtane
@@ -5724,6 +5741,7 @@ Powered by phpwind</title>
 Powered by wuzhicms
 Presentations by
 Presentations on authorSTREAM
+PrestaShop
 PrintServer
 PrintServerInfo("SecureTransport
 Privileges
@@ -5887,6 +5905,7 @@ Roadmap
 Roblox is ushering in the next generation of entertainment. Imagine, create, and play together with millions of people across an infinite variety of immersive, user-generated 3D worlds.
 RoleId
 Room Alert - Account Log In
+Roundcube Webmail Installer
 Roundcube Webmail initial database structure
 Route
 Router Management - Server OpenVPN
@@ -5938,6 +5957,8 @@ SMS Gateway | Installation
 SMS_AUTH_TOKEN
 SMTP server
 SOAP-ENV
+SOAP-ENV:Body
+SOAP-ENV:Envelope
 SOAP-ENV:Server
 SOCKSPort
 SOMANSA
@@ -6272,6 +6293,7 @@ The application you're trying to access doesn't seem to exist
 The attribute value
 The base configuration for WordPress
 The base configurations of the WordPress
+The config file was saved successfully
 The following namespaces are registered in the repository:
 The gods are wise, but do not know of the site which you seek.
 The message to ""><h2>TEST</h2>" failed
@@ -6657,6 +6679,7 @@ Woody ad snippets
 WordPress &#8250; ReadMe
 WordPress - Web publishing software
 WordPress Administrator
+WordPress database error
 WordPress</title>
 Wordfence Security - 
 Wordpress Integrator
@@ -7015,6 +7038,7 @@ alt="Qlik Sense
 alt="Qlik.Sense"
 alt="Room Alert"
 alt="Rundeck"
+alt="Simatic S7 CP"
 alt="Sitecore"
 alt="Structurizr
 alt="Superset"
@@ -7147,6 +7171,7 @@ auth_token
 auth_uri
 authenticateId
 authentication
+authentication cookie
 authentication mode = dolibarr
 authentication_type":"local
 authenticity_token
@@ -7421,6 +7446,7 @@ class="row justify-content-center"
 class="s_container_left"
 class="sametimemeetingsbuttontransparent"
 class="scms_container w1200"
+class="show-forgot-password
 class="subnav">飞视美</div>
 class="sys-title-right">智联云服务
 class="tailon-dark
@@ -7637,6 +7663,7 @@ content="Mabisy"
 content="MallBuilder
 content="Mambo -
 content="Matomo
+content="Mattermost"
 content="Melody CMS"
 content="Metro Publisher 
 content="Microweber"
@@ -8380,6 +8407,7 @@ ftp_username
 ftpstat
 full_name":
 fullname
+function SearchLog
 function hiddenpass(e)
 function loadmunchkinkey()
 function omiga_window(url)
@@ -8599,6 +8627,7 @@ href="/static/assets/yottaweb-elements/index.css"
 href="/static/build/animate_nprogress_timepiacker_tooltipster.min.css
 href="/static/images/tongda.ico"
 href="/sys/images/tree.css" title="netpilot
+href="/tas/
 href="/template/home/default_web/css/style.css"
 href="/templates/everythingisok/index.css"
 href="/tmailer/img/logo/favicon.ico
@@ -8894,6 +8923,7 @@ images/lgline.gif
 images/login/btnmobile.gif
 images/login_button.gif" alt="login to rapid browser
 images/login_d.png
+images/logo_trend_20.png
 images/mail/35pushmail.app.png
 images/myjs.js
 images/newlogin_01.jpg
@@ -9085,6 +9115,7 @@ junos pulse secure access service
 jurassic
 justsy/user/searchmenusbyusername/
 jwks_uri
+k-run-report-message
 k.create
 kaspersky secure mail gateway
 kc-form-buttons
@@ -9202,6 +9233,7 @@ log into my eamic® account
 log messages
 log4j.logger
 log4j.rootLogger=
+logTime
 logback_events_total
 logged in as: dr.who
 logger
@@ -9584,6 +9616,7 @@ org.elasticsearch.transport
 org.graylog.plugins.pipelineprocessor.processorplugin
 org.jboss.seam
 org.jivesoftware.database.EmbeddedConnectionProvider
+org.springframework
 org.springframework.boot.actuate
 orgId
 orgName
@@ -10570,6 +10603,7 @@ the wasion software foundation
 the-plus-addons-for-elementor
 theme=theme10dnel8"><script>alert(document.domain)</script>ko0
 themes/cas
+themes/default/css/admin-theme.css
 themes/default/images/ampps/favicon.ico
 themes/resources/segoeui-semibold.ttf
 themes/scripts/functionjs.js
@@ -10660,6 +10694,7 @@ tools:
 top.location.href = 'javascript:alert(document.domain)';
 top.location=window.location;top.location="/remote/login";
 top.postMessage(
+topdeskidploginforwardurl
 topic_id: "</script><script>alert(document.domain)</script>
 topics
 toplevel_page_snippets
@@ -11173,6 +11208,7 @@ xecure vpn manager
 xheditor_lang/zh-cn.js
 xibo-cms
 xiuno/xiunobbs
+xls34403');alert(document.domain)//952');
 xmadmin.exirck.cn
 xml version
 xmlns:wicket=
@@ -11246,6 +11282,7 @@ zyxel
 {"name":"root","path":"/root","folder":true}
 {"name":"{{filename}}.rb","folder_path":"../../../config/initializers"
 {"namedfieldempty":
+{"ok": 1}
 {"ok":true
 {"organization
 {"path":"/etc/designs/xh1x.childrenlist.json
@@ -11255,6 +11292,7 @@ zyxel
 {"result":
 {"result":{"isDisconnected":
 {"ret":"ok","data":"ok"}
+{"ret":"ok","data":true}
 {"returnUrl":"/admin"}
 {"runs":[{"id":
 {"searchers":
@@ -11425,6 +11463,7 @@ zyxel
 开启u8 cloud云端之旅
 当前已登录了一个用户，同一窗口中不能登录多个用户
 志高易联
+您已经安装过，需要重新安装请先删除data/install.lock文件
 您访问的是主机宝服务器默认页
 我爱考勤云平台</span>
 扫描后门
