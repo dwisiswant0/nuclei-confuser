@@ -4,8 +4,8 @@ extensions
 fonts
 bit
 DB_PASSWORD
-DB_NAME
 {{md5(num)}}
+DB_NAME
 "id":
 {{md5({{num}})}}
 display_name
@@ -19,9 +19,9 @@ PHP
 "email":
 uid=
 username
+login
 for
 "><script>alert(document.domain)</script>
-login
 <img
 "version":
 "password":
@@ -41,7 +41,6 @@ Parent
 groups=
 error
 c8c605999f3d8352d7bb792cf3fdb25
-Login
 "created_at":
 "></script><script>alert(document.domain)</script>
 {{marker}}
@@ -49,6 +48,7 @@ success
 password=
 Password=
 Model=
+Login
 Joined
 ><script>alert(document.domain)</script>
 <svg/onload=alert(document.domain)>
@@ -100,13 +100,13 @@ candidat
 access_token
 [project-discovery]
 [extensions]
-You
 Search
 Powered
 PASSWORD
 Name
 Login=
 Installation
+BEGIN
 <title>Login</title>
 <svg
 <img/src/onerror=alert(document.domain)>
@@ -142,6 +142,7 @@ h3c.com
 followers
 f8ba2470fbf1e30f2ce64d34705b8e6615ac964ea84163c8a6adaaf8a91f9eac
 default
+data":
 data
 content="vBulletin
 commandResult
@@ -149,6 +150,7 @@ cfa6748598b5e507db0e53906a7639e2c197a53cb57da58b0a20ed087cc0b9d5
 c8c605999f3d8352d7bb792cf3fdb25b
 blog-title
 access_key
+You
 XPATH
 WebLogic
 ThinkPHP
@@ -169,7 +171,6 @@ Device
 DB_USER
 Connecting
 Configuration
-BEGIN
 AuthMode=
 Adminer
 Action
@@ -238,6 +239,7 @@ userId
 type=dberror
 true
 topics
+topdeskidploginforwardurl
 token_endpoint
 token
 title
@@ -327,7 +329,6 @@ default:
 def_wirelesspassword
 database_settings
 database:
-data":
 d161b6e25db66456f8e0603de5132d1ff90f9388d0a0305d2d073a67fd229ddb
 d0850f616c5b4f09a7ff319701bce0460ffc17ca0349ad2cf7808b868688cf71
 csrfmiddlewaretoken
@@ -481,6 +482,7 @@ ContentPanel
 Company
 Cluster
 Cloud
+Cisco
 Change
 CSS
 CREATE
@@ -512,6 +514,7 @@ ASUS
 <title>Setup
 <title>Saia
 <title>Ruckus
+<title>RouterOS
 <title>Roteador
 <title>Jamf
 <title>Honeywell
@@ -544,6 +547,7 @@ ASUS
 <form
 <deviceType>
 <config>
+<auth_state>1</auth_state>
 <authResult>0</authResult>
 <a
 <VERSION>
@@ -579,7 +583,6 @@ ASUS
 301b60d2c71a595adfb65b22edee9023961c5190e1807f6db7c597675b0a61f0
 2ea7e9be931f24ebc2a67091b0f0ff95ba18e386f3d312545bb5caaac6c1a8be
 27d2c4c4e2fcf6e589e3e1fe85723537333b087003aa4c1d2abcf74d5c899959
-22344
 1d765038b21c5c76ff8492561c29984f3fa5c4b8cfb3a6c7b216ac8ab18b78c7
 1832611738f1e31dd00a8293bbf90fce9811b3eea5b21798a63890dbc51769c8
 0993beabc8d2bb9e3b8d12d24989426b909921e20e9c6a704de7a5f1dfa93c59
@@ -847,6 +850,7 @@ $.ret=0;
 ÄúºÃ|||
 ~lansweeperdb~
 ~]#nohup
+}alert(document.domain);function
 |
 {{username}}',
 {{to_lower(username)}}
@@ -917,18 +921,14 @@ $.ret=0;
 {"data":{
 {"data":
 {"cwd":
+{"credentials"
 {"code":200}
 {"code":0
 {"code":
 {"code"
+{"app":{"version":
 {"api_status":
 {"Uri":"/worker","Method":"GET"}
 {"123":"123"}
 {
 zyxel
-zuul_version
-zoneminder
-zoho
-zksoftware
-zknet
-zkau/zkau
