@@ -22,12 +22,12 @@ username
 login
 for
 "><script>alert(document.domain)</script>
+Interactsh
 <img
 "version":
 "password":
 "name"
 gid=
-Interactsh
 "items":
 "id"
 password
@@ -79,6 +79,7 @@ AdmissionReview
 "username"
 "user":
 "url"
+"type":
 "success":
 "success"
 "sources":
@@ -112,7 +113,6 @@ BEGIN
 <img/src/onerror=alert(document.domain)>
 <?xml
 :"true"
-"type":
 "type"
 "token_type":
 "node":
@@ -198,6 +198,8 @@ Action
 "status"
 "state":
 "slug":
+"result":true
+"result":
 "protocol":
 "password"
 "key":
@@ -237,5 +239,3 @@ user_id
 userInfo
 userId
 type=dberror
-true
-topics

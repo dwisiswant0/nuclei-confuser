@@ -545,6 +545,7 @@
 "jvmConfig"
 "jwt":
 "k3woq"^confirm(document.domain)^"a2pbrnzx5a9"
+"keepAliveInterval":
 "kernels": [
 "key"
 "key":
@@ -827,6 +828,7 @@
 "service_id"
 "sessUser":"admin"
 "session"
+"session":
 "session.id"
 "sessionId":
 "sessionName":"zentaosid"
@@ -1576,6 +1578,7 @@ $webdb
 /powered-by-b2evolution-150t.gif
 /preauth/login.cgi
 /preauth/style.css
+/projectdiscovery/interactsh
 /projects/phpldapadmin
 /proxy/ssllogin
 /prx/001/http/localh
@@ -2649,6 +2652,7 @@ $webdb
 <meta name="author" content="spiceworks, inc." />
 <meta name="colasoft"
 <meta name="description" content="3CX">
+<meta name="description" content="Gogs is a painless self-hosted Git service" />
 <meta name="description" content="VMware vSphere
 <meta name="description" content="the uniform server 8.1.0-coral." />
 <meta name="description" content="twonkymedia digital home">
@@ -2675,8 +2679,8 @@ $webdb
 <meta name=description content="Traefik UI">
 <meta name=generator content="Hugo
 <meta property=
+<meta property="og:description" content="Gogs is a painless self-hosted Git service.">
 <meta property="og:site_name" content="Pillowfort">
-<meta property="og:title" content="Gogs
 <methodResponse>
 <methodResponse><params><param><value><base64>
 <modelName>
@@ -2752,7 +2756,6 @@ $webdb
 <script type="text/javascript">
 <script> alert
 <script>alert("{{randstr}}")</script>
-<script>alert('XSS')</script>
 <script>alert('document.domain');</script>
 <script>alert('document.domain')</script>
 <script>alert('document_domain')</script>
@@ -2981,6 +2984,7 @@ $webdb
 <title>Apache Druid</title>
 <title>Apache Flink Web Dashboard</title>
 <title>Apache HTTP Server Test Page powered by CentOS</title>
+<title>Apache Kyuubi Dashboard
 <title>Apache Pinot</title>
 <title>Apache ShenYu Gateway</title>
 <title>Apache Shiro Quickstart</title>
@@ -3086,6 +3090,7 @@ $webdb
 <title>Database Error</title>
 <title>Datadog: Log In</title>
 <title>Dataiku</title>
+<title>Datax Web
 <title>Davantis</title>
 <title>Daybyday - Login</title>
 <title>DbGate</title>
@@ -3233,6 +3238,7 @@ $webdb
 <title>IBM HTTP Server</title>
 <title>IBM ODM</title>
 <title>IBM Security Access Manager</title>
+<title>IBM Security Verify Access</title>
 <title>IBM iNotes Login</title>
 <title>ICT Protege WX&reg;</title>
 <title>IDP Skills Installer</title>
@@ -3566,6 +3572,7 @@ $webdb
 <title>Shopware 5 - Backend (c) shopware AG</title>
 <title>Sidekiq Enterprise</title>
 <title>Sidekiq</title>
+<title>Sign In - Gogs</title>
 <title>Sign In-SuperVPN</title>
 <title>SiteOmat Login</title>
 <title>Slocum Fleet Mission Control - Login</title>
@@ -4683,6 +4690,7 @@ EntityDescriptor
 Entry Error
 Environment Variables
 Environment Variables:
+Environment</title>
 Epson Connect
 Epson Web Control
 Error 403--
@@ -8111,6 +8119,7 @@ dating Profile,
 dav_url
 dayrui/statics
 dayrui@gmail.com
+db:"information_schema"
 dbType"
 db_host
 db_name
@@ -9086,12 +9095,17 @@ j_setcon j_sub_new j_padt30 j_padb30
 j_username
 jalios-login
 java
+java.io.InvalidClassException
+java.io.StreamCorruptedException
 java.lang
+java.lang.ClassCastException
+java.lang.ClassNotFoundException
 java.lang.Exception
 java.lang.IllegalArgumentException
 java.lang.NullPointerException:null
 java.lang.StringIndexOutOfBoundsException
 java.lang.UNIXProcess@
+java.rmi.RemoteException: Deserialized object needs to be assignable
 java.sql.SQLException
 java.sql.SQLException: XPATH syntax error: '
 java.sql.SQLSyntaxErrorException
@@ -9142,7 +9156,6 @@ jquerytiki = new object
 js.hubspot.com/analytics
 js/ajax_x.js
 js/checkquestion.js.php
-js/gogs.js?v=
 js/ilo.js
 js/pan/
 js/promise/themes/apple/images/logo_promise.png
@@ -9189,6 +9202,7 @@ kube
 kube-state-metrics
 kubernetes.io
 kylin.metadata.url
+kyuubi
 labbuilder 实验室信息管理系统
 label
 label":
@@ -9643,6 +9657,7 @@ openSIS Installer
 open_form/ticket_form_open.php
 openam/ccversion/Masthead.jsp
 openapi
+opendb_url:"db_structure.php"
 openfire
 operalogin/welcome.do
 operationId":
@@ -11088,7 +11103,6 @@ webmaster level 2 username guest password guest
 webmin server on
 webpackJsonpopencti-front
 webpackJsonprap2-dolores
-webpackJsonpray-dashboard-client
 webpackJsonpzipkin-lens
 webscan.360.cn/status/pai/hash
 websense email security gateway

@@ -22,12 +22,12 @@ username
 login
 for
 "><script>alert(document.domain)</script>
+Interactsh
 <img
 "version":
 "password":
 "name"
 gid=
-Interactsh
 "items":
 "id"
 password
@@ -79,6 +79,7 @@ AdmissionReview
 "username"
 "user":
 "url"
+"type":
 "success":
 "success"
 "sources":
@@ -95,4 +96,3 @@ id
 host
 content
 com.thoughtworks.xstream
-code
