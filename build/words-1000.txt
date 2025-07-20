@@ -53,6 +53,7 @@ Joined
 ><script>alert(document.domain)</script>
 <svg/onload=alert(document.domain)>
 <script>alert(document.domain);</script>
+<html
 #
 "url":
 "results":
@@ -68,6 +69,7 @@ Member
 Dashboard
 DB_HOST
 <web-app
+<body
 "status":
 timestamp
 didn't
@@ -76,6 +78,7 @@ description
 Tested
 Exception
 AdmissionReview
+<svg
 "username"
 "user":
 "url"
@@ -110,7 +113,6 @@ Login=
 Installation
 BEGIN
 <title>Login</title>
-<svg
 <img/src/onerror=alert(document.domain)>
 <?xml
 :"true"
@@ -264,6 +266,7 @@ reloadByURL
 reason
 qdPM
 projects
+profile
 pool:
 phpinfo()
 paths
@@ -416,6 +419,7 @@ SetupWizardPage
 Settings
 ServerVersion=11.6.0
 Server
+Search.jsp
 Salted__
 SQLite
 SQLServer
@@ -545,7 +549,6 @@ ASUS
 <password>
 <name>faultString</name>
 <name>
-<html
 <groupId>com.atlassian.jira</groupId>
 <form
 <deviceType>
@@ -929,6 +932,3 @@ $.ret=0;
 {"code"
 {"app":{"version":
 {"api_status":
-{"Uri":"/worker","Method":"GET"}
-{"123":"123"}
-{

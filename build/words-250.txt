@@ -53,6 +53,7 @@ Joined
 ><script>alert(document.domain)</script>
 <svg/onload=alert(document.domain)>
 <script>alert(document.domain);</script>
+<html
 #
 "url":
 "results":
@@ -68,6 +69,7 @@ Member
 Dashboard
 DB_HOST
 <web-app
+<body
 "status":
 timestamp
 didn't
@@ -76,6 +78,7 @@ description
 Tested
 Exception
 AdmissionReview
+<svg
 "username"
 "user":
 "url"
@@ -110,7 +113,6 @@ Login=
 Installation
 BEGIN
 <title>Login</title>
-<svg
 <img/src/onerror=alert(document.domain)>
 <?xml
 :"true"
@@ -237,5 +239,3 @@ value=""><script>alert(document.domain)</script>
 username":"
 user_login
 user_id
-userInfo
-userId
