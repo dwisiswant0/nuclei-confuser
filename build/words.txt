@@ -11,6 +11,7 @@
  <title>3CX Webclient</title>
  = function(str, key)
  @ JustFor.Fans
+ Luma</title>
  Profile - Wowhead
  Solare Datensysteme GmbH
  Vids</h3>
@@ -2074,6 +2075,7 @@ $webdb
 </strong>openfiler nas/san appliance
 </tag><div><script>alert(document.domain)</script>
 </textarea></script><script>alert(document.domain)</script>
+</textarea><img src=x onerror=alert(document.domain)>
 </title><script>alert('{{randstr}}')</script>
 </title><script>alert(31337)</script>
 </usrid>
@@ -2983,6 +2985,7 @@ $webdb
 <title>All Neighborhoods</title>
 <title>Allied Telesis Device GUI</title>
 <title>Altenergy Power Control Software
+<title>Amatera App
 <title>Amazon EC2 Status</title>
 <title>Ambari</title>
 <title>Android Debug Database</title>
@@ -3027,6 +3030,7 @@ $webdb
 <title>BEMS</title>
 <title>BIG-IP Next | Central Manager
 <title>BMC Discovery Outpost: Login</title>
+<title>BOFAMET
 <title>Bazarr</title>
 <title>Behance</title>
 <title>BeyondInsight</title>
@@ -3090,6 +3094,7 @@ $webdb
 <title>Crontab UI</title>
 <title>CrushFTP - Login</title>
 <title>CrushFTP WebInterface</title>
+<title>Cyber Stealer - Secure Access
 <title>CyberChef</title>
 <title>Cyberoam SSL VPN Portal</title>
 <title>D-LINK SYSTEMS, INC. | WIRELESS ACCESS POINT | HOME</title>
@@ -3354,6 +3359,7 @@ $webdb
 <title>Login | FlightPath</title>
 <title>Login | FusionAuth
 <title>Login | Redash</title>
+<title>Login · OXF Panel
 <title>Login – Vercel</title>
 <title>Login</title>
 <title>Logon</title>
@@ -4110,6 +4116,7 @@ Alloc
 Allow:
 Altname
 Alumni List
+Amatera Stealer
 Amazon Sign In
 Amazon Sign-In
 Amazon Web Services Sign-In
@@ -4138,6 +4145,7 @@ Apache JMeter Dashboard
 Apache Karaf Web Console - Bundles
 Apache Ozone</title>
 Apache Server Status
+Apache Superset
 Apache Tomcat
 AppLoginType
 Application Server
@@ -4272,6 +4280,7 @@ CCM - Authentication Failure
 CCMS ADMIN | Admin
 CCMS Admin Dashboard
 CCleaner Makes Your Computer Faster & More Secure | Official Website
+CDGServer
 CData - Connect
 CELL_PHONE_NUMBER
 CISCO
@@ -4319,6 +4328,7 @@ Cassia Bluetooth Gateway Management Platform
 Category Grid View Gallery =
 Caton Network Manager System
 Caused by:
+CentOS
 CentOS WebPanel
 Central Authentication Service
 CentreStack - Login
@@ -4433,7 +4443,6 @@ Contentify - Step 1
 Contexts known to this server are:
 Continue As a Guest
 Contributions
-Control center
 Controller</title>
 Conversion failed when converting the nvarchar value &#39;Microsoft SQL Server
 Cookie
@@ -4448,6 +4457,7 @@ Copyright (c) 2012 Magento Inc.
 Copyright (c) 2013 Magento Inc.
 Copyright (c) 2014 Magento Inc.
 Copyright all rights reserved by Open BMCS
+CouchDB
 Couchbase Sync Gateway
 Could not connect to the CBS
 Could not decrypt key
@@ -4723,6 +4733,7 @@ Error: 1<script>alert(document.domain)</script>
 Error: template file
 ErrorException
 Errors
+Esafenet
 Essential Components
 Ethernet
 Ethernet settings
@@ -4839,7 +4850,6 @@ ForgeRock
 Forget About Shortcode Buttons =
 Forgot password
 Forgot your password
-Format 'Process[pid=
 FortiClient Endpoint Management Server
 FortiMail Click Protection
 FortiManager
@@ -4905,6 +4915,7 @@ Global Traffic Statistics
 Global kernel usage</b>
 GlobalProtect
 Glowroot
+GoAhead
 GoAnywhere
 GoAnywhere Managed File Transfer
 GoAnywhere Web Client
@@ -5007,6 +5018,7 @@ ICEFLOW VPN:
 ICQ chat
 ID
 ID=
+IIS
 IMAP Error:
 INFO
 INTERNAL_PASSWORD_ENABLED
@@ -5128,6 +5140,8 @@ Items
 Ivanti Cloud Services Appliance
 Ivanti Endpoint Manager
 Ivanti(R) Cloud Services
+J2EE
+JBoss
 JBoss EAP 7
 JBoss Enterprise SOA Platform: Embedded ESB Server
 JBoss JMX Management Console
@@ -5153,6 +5167,7 @@ JVM Vendor
 JVM Version
 Jackett
 Jamf Pro Setup Assistant
+Java
 JdbcRowSetImpl
 Jedox Web - Login
 Jeecg-Boot
@@ -5260,6 +5275,7 @@ LimeSurvey installer
 Link does not exist
 Link expired
 LinkedIn: Log In or Sign Up
+Linux
 List all commands
 Lista gier:
 Lista uzytkownikow
@@ -5434,6 +5450,7 @@ MethodNotAllowedHttpException
 Micro Center - Computer & Electronics Retailer - Shop Now
 Micro Focus Filr
 Micro Focus Vibe
+Microsoft
 Microsoft SQL Server
 Microsoft Windows [Version
 Microsoft.Exchange.Clients.Owa2.Server.Core.OwaADUserNotFoundException
@@ -5618,7 +5635,6 @@ One Identity Password Manager
 One platform to connect | Zoom
 OneDev
 OneThink管理平台
-OneinStack
 Oops - We didn't find your site.
 Oops! There isn’t a Wishpond Campaign published to this page.
 Oops.</h2><p class="text-muted text-tight">The page you're looking for doesn't exist.
@@ -5651,6 +5667,7 @@ OptinMonster
 Optional Parameters
 Options -Indexes
 Oqtane
+Oracle
 Oracle BI Presentation Services
 Oracle Enterprise Manager
 Oracle UIX
@@ -5721,6 +5738,7 @@ Pega Infinity
 Pega Platform
 PendingInstallVZW - Web Page Configuration
 People to Follow
+PeopleSoft
 Peplink
 Perl version
 Permission denied
@@ -5744,6 +5762,7 @@ Piwik
 Platform type
 Plausible · Web analytics
 PlayTube
+Please Authenticate
 Please Login to continue
 Please Select Your Account
 Please be patient as you are being re-directed
@@ -5791,6 +5810,7 @@ Powered by <a href="https://www.drupal.org">Drupal</a>
 Powered by <a href='http://zzzcms.com'>ZZZcms</a>
 Powered by <b>Nimsoft WASP 
 Powered by AMPPS
+Powered by BOFAMET.
 Powered by CATALOGcreator
 Powered by Discuz!
 Powered by Forgejo
@@ -6144,6 +6164,7 @@ SetupWizardPage
 SevOne NMS - Network Manager
 Share on GIPHY</title>
 ShareCenter
+ShareFile
 ShareFile Login
 ShareFile Storage Server
 Shop for artwork by
@@ -6496,6 +6517,7 @@ USG
 UVDesk Helpdesk Community Edition
 UVDesk Helpdesk Community Edition - Installation Wizard
 Ubersmith Setup
+Ubuntu
 Ultimate FAQ
 Ultimate Weather
 Umbraco.Sys
@@ -6753,6 +6775,7 @@ Wiki
 Wikidot.com:
 WinSCP :: Official Site :: Free SFTP and FTP client for Windows
 Wind Farm Portal
+Windows
 Windows Admin Center</title>
 Windows IP
 Wiren Board Web UI
@@ -6763,6 +6786,7 @@ WoWonder | Installation
 WooCommerce PDF Invoices
 Woody Code Snippets Import
 Woody ad snippets
+WordPress
 WordPress &#8250; ReadMe
 WordPress - Web publishing software
 WordPress Administrator
@@ -6794,6 +6818,7 @@ XWikiUsers[0].password
 XenCenter
 Xerox Corporation
 XploitSPY
+Yii
 You are logged in
 You are logged in as remote user
 You are viewing page number
@@ -6802,6 +6827,7 @@ You don't have permission to access
 You have an error in your SQL syntax
 You have installed. To reinstall, you need to clear the data/install.lock file
 You have logged in as 'admin'
+You have to start the ENGINE application before using this form.
 You may have followed an invalid link or the job you are looking for has been archived
 You must specify a valid username and password
 You should be redirected automatically
@@ -7245,6 +7271,7 @@ astrocontacts
 at Function.handle
 atfersotg
 ath_upload_calameo_publication(id\"><script>alert(document.domain)</script>&)
+atlassian
 atlassian.bamboo.plugins
 atlassian.com/software/jira
 attachment-jannah-image-
@@ -7345,6 +7372,7 @@ bf1c397958ee5114e8f1dadc98fa9c9d7ddb031a4c3c030fa00c315384456218
 bhclientcer:"/modules/web/common/data/bhclient.cer
 bibleId
 bigdump: staggered mysql dump importer
+billing
 bim 开发配置与运维控制台
 bin
 bin/
@@ -7433,6 +7461,7 @@ cdn.aliyuncs.com
 center"><img src=1 onerror=alert(document.domain)>
 cfa6748598b5e507db0e53906a7639e2c197a53cb57da58b0a20ed087cc0b9d5
 cfg.envRiseUp
+cgi-bin
 cgi-bin/webconf.exe?page=1
 ch.qos.logback.classic.jmx.JMXConfigurator
 change_password_sqls
@@ -7643,6 +7672,7 @@ conn.login
 conn.query
 connect to the database
 connect: connection refused
+console
 console-debug
 console-selfservice
 console.log
@@ -8067,6 +8097,7 @@ copyrightpt12
 copyright© genie networks ltd.
 coredump
 coremail/common
+couchdb
 could not load the shared library
 count
 count/mystat.asp
@@ -8168,7 +8199,6 @@ dating Profile,
 dav_url
 dayrui/statics
 dayrui@gmail.com
-db:"information_schema"
 dbType"
 db_host
 db_name
@@ -8258,6 +8288,7 @@ dlqaweb_deploy/webresource.axd
 dnalims
 dnp_firewall_redirect
 dns
+docs
 document.cookie = "rjsslvpn_encookie=yes;"
 document.cookie = 'sangfor_session_hash=0'
 document.cookie ="session_id
@@ -8278,12 +8309,14 @@ document.write("<title>" + id_eesx_welcome + "</title>");
 document.write(id_esx_viclientdesc);
 document.writeln("（温馨提示：此处为志高美萍分支机构联系方式，志高美萍总部联系方式请点击<a href='javascript:var
 document.writeln(companymail)
+documentum
 does not exist
 does not exist in our system
 does not have valid YAML syntax
 domain
 domain uri=
 domcfg.nsf
+dompdf
 dotnet.wasm
 down.download?FM_SYS_ID
 downLoadFileResult
@@ -8572,6 +8605,7 @@ github-oauth
 github.com
 github.com/mher/flower
 github.com/provectus/kafka-ui
+gitlab
 give-form-hash
 give-form-id-prefix
 gke-remote
@@ -9179,6 +9213,7 @@ javax.naming.NamingException
 javax.servlet.ServletException
 jaxbDirectoryContents
 jboss.css
+jbpm
 jcr:createdBy
 jcr:path
 jcr:uuid
@@ -9199,6 +9234,7 @@ jira.webresources:jira-setup"
 jivesoftware
 jlex-review
 jlwcs
+jmx-console
 job:
 jobs:
 joined <time
@@ -9608,6 +9644,7 @@ ng-controller=
 ng-disabled="!loginform.$valid"
 ng-show="neo4j.enterpriseedition
 ng-version=
+nginx
 ngrok.io not found
 nightStart
 nitc web marketing service
@@ -9720,7 +9757,7 @@ openSIS Installer
 open_form/ticket_form_open.php
 openam/ccversion/Masthead.jsp
 openapi
-opendb_url:"db_structure.php"
+opencms
 openfire
 operalogin/welcome.do
 operationId":
@@ -9809,6 +9846,7 @@ paths
 paths:
 payara.security.openid.default.providerURI=
 payara.security.openid.sessionScopedConfiguration=true
+payment
 paytm-payments.css
 pc4uploader <font color
 pcoip&#174 zero client
@@ -9839,6 +9877,7 @@ phpLDAPadmin (
 phpList Ltd
 phpList</a>
 phpMemcachedAdmin
+phpMyAdmin
 phpMyAdmin SQL Dump
 phpMyFAQ
 phpPgAdmin
@@ -9849,6 +9888,7 @@ phpgedview
 phpinfo()
 phpkniht
 phpmailer.php on line 10
+phpmyadmin
 phpmywind.com all rights reserved
 phpopenchat installation
 phpyun
@@ -10331,6 +10371,7 @@ self.location = 'http://oast.me'
 self.location=
 sellerToken
 senginx-robot-mitigation
+sensei
 sensei_email_preview_id={{template_id}}
 sensei_message
 seo-automatic-seo-tools
@@ -10364,6 +10405,7 @@ service webadmin
 service:
 serviceType
 serviceip
+servlet
 sessid
 session
 session.infocss.infocssurl
@@ -10650,6 +10692,7 @@ sugar.themes.theme_name = 'suitep'
 suites:
 summary
 supercharged by suitecrm
+superset
 support@clever-cloud.com
 support@spiderfoot.net
 supporters
@@ -11046,7 +11089,6 @@ var c_name = 'jsessionid';
 var contextpath = "/datacenter
 var currentmode ='fittowindowonload
 var data = formatparams(params.data)
-var db    = 'information_schema';
 var decode_string = '"';
 var detectedLanguage = ';alert(document.domain)//';
 var downloads
@@ -11081,7 +11123,6 @@ var next=window.confirm("确定删除文件吗？");
 var objheight = document.documentelement.clientheight
 var oemproductname = "mvc_howay6000"
 var oemproductname = "mvc_howay6100")
-var opendb_url = 'db_structure.php';
 var pagefunc968535468893538dasdaweqwertion = "timeout";
 var passphraseKey12="";
 var path = "/cassets";
@@ -11287,9 +11328,11 @@ woocommerce-product-addon
 woot-content-in-popup
 woot-system
 woot-table
+wordpress
 workers =
 worksites.net
 wp-analytify
+wp-content
 wp-content/plugins/arforms/
 wp-content/plugins/easy-media-gallery-pro/
 wp-content/plugins/email-subscribers
@@ -11305,6 +11348,7 @@ wp-content/uploads/wp-file-manager-pro/fm_backup
 wp-file-upload/
 wp-hotel-booking
 wp-jobsearch
+wp-json
 wp-login-register
 wp-user-avatar
 wpb-show-core

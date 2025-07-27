@@ -105,6 +105,7 @@ access_token
 [project-discovery]
 [extensions]
 XPATH
+WebLogic
 Search
 Powered
 PASSWORD
@@ -154,7 +155,7 @@ c8c605999f3d8352d7bb792cf3fdb25b
 blog-title
 access_key
 You
-WebLogic
+WordPress
 ThinkPHP
 The
 Status
@@ -231,6 +232,8 @@ zabbix
 xnstyle.css
 xdebug-error
 writeln('Log
+wp-content
+wordpress
 window.open
 window.FileBrowser
 web-app
@@ -251,6 +254,7 @@ title
 this
 text:
 text/html
+swagger
 suites:
 subversion
 subscribers
@@ -342,6 +346,7 @@ content="Drupal
 content="CMS
 containerDefinitions
 const
+confluence
 configuration
 collectd_
 cm9vd
@@ -364,6 +369,7 @@ attachment-jannah-image-
 applicationConfig
 appId
 apiVersion:
+api
 alert(document.domain);
 ae0edd232df6f579e19ea52115d35977f8bdbfa9958e0aef2221d62f3a39e7d8
 address
@@ -415,6 +421,7 @@ Started
 Staging
 Site
 Sign
+ShareFile
 SetupWizardPage
 Settings
 ServerVersion=11.6.0
@@ -438,6 +445,8 @@ Profile
 Profil
 Post-Exploitation
 Please
+Oracle
+OpenCms
 Netsparker
 NameError
 NODE_ENV
@@ -455,19 +464,10 @@ KodExplorer
 Joomla
 Jackett
 JK
+JBoss
 Ivanti
 Install</a>
 Infusionsoft
 IceWarp
 INFO
 IMAP
-ID
-HttpUcmdbServiceProviderFactoryImpl
-Howdy,
-Host
-HDW
-Grafana
-Foldery
-File
-Fatal
-F5

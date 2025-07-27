@@ -1,10 +1,10 @@
-root::0:0:
-STABLE)TAG:u
+root:I:0:0:
+STABLEwTAG:Q
 root:x:0:0
-[fonts]
-uid=w
-uid=34gid=6
+[extensions]
+uid=2
+uid=9<gid=8|
 root:x:0:0:
 root::0:0
-uid=1(c)
+uid=9(Z)
 for

@@ -105,6 +105,7 @@ access_token
 [project-discovery]
 [extensions]
 XPATH
+WebLogic
 Search
 Powered
 PASSWORD
@@ -154,7 +155,7 @@ c8c605999f3d8352d7bb792cf3fdb25b
 blog-title
 access_key
 You
-WebLogic
+WordPress
 ThinkPHP
 The
 Status
@@ -231,11 +232,10 @@ zabbix
 xnstyle.css
 xdebug-error
 writeln('Log
+wp-content
+wordpress
 window.open
 window.FileBrowser
 web-app
 var
 value=""><script>alert(document.domain)</script>
-username":"
-user_login
-user_id
