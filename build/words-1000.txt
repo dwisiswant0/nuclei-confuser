@@ -130,6 +130,7 @@ BEGIN
 {{md5("{{randstr}}")}}
 version:
 variables:
+userId
 uid
 type
 success":true
@@ -142,6 +143,7 @@ mooSocial
 mingsoft.net
 load_module
 javascript:alert(document.domain)
+java.lang.Exception
 h3c.com
 followers
 f8ba2470fbf1e30f2ce64d34705b8e6615ac964ea84163c8a6adaaf8a91f9eac
@@ -165,6 +167,7 @@ Portfolio
 Password
 ManageEngine
 Logout
+Logged
 LISTSERV
 KEY
 IBM
@@ -215,6 +218,7 @@ Action
 "date":
 "client_id":
 "account_id":
+"accessToken":
 "PodList":
 "><script>alert(document.domain)</script></a>
 로그인
@@ -243,7 +247,6 @@ username":"
 user_login
 user_id
 userInfo
-userId
 type=dberror
 true
 topics
@@ -296,7 +299,6 @@ link
 libvirt_
 kube
 jsonrpc
-java.lang.Exception
 jQuery
 issuer
 is_dir
@@ -445,6 +447,7 @@ Profile
 Profil
 Post-Exploitation
 Please
+Password":
 Oracle
 OpenCms
 Netsparker
@@ -454,7 +457,6 @@ My
 Monstra
 Mitel
 Missing
-Logged
 Log
 Last
 Label
@@ -663,6 +665,7 @@ $.ret=0;
 "description"
 "date"
 "database_name":
+"data":true
 "created":
 "count":
 "content":
@@ -676,7 +679,6 @@ $.ret=0;
 "authenticated":true
 "auth":
 "account":
-"accessToken":
 "ID":
 "><script>alert(1)</script>
 "></script><script>alert(document.domain)</script><script>
@@ -926,7 +928,3 @@ $.ret=0;
 {"name":"Windows","path":"C:\\\\Windows","folder":true}
 {"message":"You
 {"issuer":
-{"id":"
-{"html"
-{"formpost"
-{"facebook_urls":[["<img

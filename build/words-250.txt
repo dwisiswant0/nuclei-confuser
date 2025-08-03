@@ -130,6 +130,7 @@ BEGIN
 {{md5("{{randstr}}")}}
 version:
 variables:
+userId
 uid
 type
 success":true
@@ -142,6 +143,7 @@ mooSocial
 mingsoft.net
 load_module
 javascript:alert(document.domain)
+java.lang.Exception
 h3c.com
 followers
 f8ba2470fbf1e30f2ce64d34705b8e6615ac964ea84163c8a6adaaf8a91f9eac
@@ -165,6 +167,7 @@ Portfolio
 Password
 ManageEngine
 Logout
+Logged
 LISTSERV
 KEY
 IBM
@@ -215,6 +218,7 @@ Action
 "date":
 "client_id":
 "account_id":
+"accessToken":
 "PodList":
 "><script>alert(document.domain)</script></a>
 로그인
@@ -236,6 +240,3 @@ wp-content
 wordpress
 window.open
 window.FileBrowser
-web-app
-var
-value=""><script>alert(document.domain)</script>
