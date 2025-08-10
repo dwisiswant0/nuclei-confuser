@@ -112,6 +112,7 @@ PASSWORD
 Name
 Login=
 Installation
+Configuration
 BEGIN
 <title>Login</title>
 <img/src/onerror=alert(document.domain)>
@@ -176,7 +177,6 @@ Environment
 Device
 DB_USER
 Connecting
-Configuration
 AuthMode=
 Adminer
 Action
