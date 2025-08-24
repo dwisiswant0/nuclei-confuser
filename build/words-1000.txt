@@ -78,6 +78,7 @@ description
 Tested
 Exception
 AdmissionReview
+<title>Login</title>
 <svg
 "username"
 "user":
@@ -113,7 +114,6 @@ Login=
 Installation
 Configuration
 BEGIN
-<title>Login</title>
 <img/src/onerror=alert(document.domain)>
 <?xml
 :"true"
@@ -528,6 +528,7 @@ ASUS
 <title>RouterOS
 <title>Roteador
 <title>Jamf
+<title>Installation</title>
 <title>Honeywell
 <title>Froxlor
 <title>Flowchart
@@ -867,6 +868,7 @@ $.ret=0;
 {{revstr}}
 {{reflection}}
 {{redirect_to}}
+{{random}}
 {{payload}}
 {{nonce}}
 {{md5({{rand2}})}}
@@ -927,6 +929,4 @@ $.ret=0;
 {"errorMessage":"Bad
 {"error":"You
 {"dismissed":"xxx<img
-{"data":{
-{"data":
-{"cwd":
+{"data":{"__schema":{"types":[{"name":"Upload"},

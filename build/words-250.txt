@@ -78,6 +78,7 @@ description
 Tested
 Exception
 AdmissionReview
+<title>Login</title>
 <svg
 "username"
 "user":
@@ -113,7 +114,6 @@ Login=
 Installation
 Configuration
 BEGIN
-<title>Login</title>
 <img/src/onerror=alert(document.domain)>
 <?xml
 :"true"
