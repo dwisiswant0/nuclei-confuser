@@ -133,6 +133,7 @@ variables:
 userId
 uid
 type
+token
 success":true
 self
 result
@@ -239,4 +240,3 @@ xdebug-error
 writeln('Log
 window.open
 window.FileBrowser
-web-app

@@ -133,6 +133,7 @@ variables:
 userId
 uid
 type
+token
 success":true
 self
 result
@@ -251,7 +252,6 @@ true
 topics
 topdeskidploginforwardurl
 token_endpoint
-token
 title
 this
 text:
