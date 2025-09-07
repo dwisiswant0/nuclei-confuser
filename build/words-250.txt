@@ -30,11 +30,11 @@ Interactsh
 "items":
 "id"
 gid=
+<h1>
 password
 name
 error_message
 Parent
-<h1>
 </web-app>
 <?php
 "token":
@@ -102,6 +102,7 @@ content
 com.thoughtworks.xstream
 code
 candidat
+alert(document.domain);
 access_token
 [project-discovery]
 [extensions]
@@ -235,8 +236,6 @@ Action
 {"message":
 zcms_skin
 zabbix
+yunsuologo
 xnstyle.css
 xdebug-error
-writeln('Log
-window.open
-window.FileBrowser

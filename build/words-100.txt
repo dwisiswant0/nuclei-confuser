@@ -30,11 +30,11 @@ Interactsh
 "items":
 "id"
 gid=
+<h1>
 password
 name
 error_message
 Parent
-<h1>
 </web-app>
 <?php
 "token":

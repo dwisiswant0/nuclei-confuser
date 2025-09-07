@@ -3142,6 +3142,7 @@ $webdb
 <title>Dgraph Ratel Dashboard</title>
 <title>DirectAdmin Login</title>
 <title>Disqus Profile
+<title>Dkron</title>
 <title>Docker Registry Browser</title>
 <title>Dockge</title>
 <title>Doctor  | Dashboard</title>
@@ -3267,6 +3268,7 @@ $webdb
 <title>Honeywell XL Web Controller</title>
 <title>Horde :: User Administration</title>
 <title>Hosted Transparent Decision Service</title>
+<title>HugeGraph Studio
 <title>HyperTest | Common Dashboard</title>
 <title>IBM HTTP Server</title>
 <title>IBM ODM</title>
@@ -4681,6 +4683,7 @@ Dozzle
 Dołၜzył
 Dołၜzył:
 Dradis Professional Edition
+Drag and Drop Multiple File Upload
 DriverClasses
 Dropbox is a home for all of your work. You can store and share files, collaborate on projects and bring your best ideas to life, whether you’re working alone or as part of a team.
 Druid Stat Index</title>
@@ -6244,6 +6247,7 @@ Signout
 Simpel Reserveren
 Simple Membership
 Simplified Chinese UTF8 version
+Site Not Found | Framer
 Site Offline Or Coming Soon Or Maintenance Mode
 Site Title
 Site not running
@@ -7021,6 +7025,7 @@ _id
 _jcr_content
 _jorani
 _links
+_next/static
 _password:
 _poc.jar
 _setHordeTitle
@@ -7156,7 +7161,6 @@ alert("菜单层数量和内容层数量不一样!")
 alert("餐厅编号不能为空")
 alert('Administrator
 alert('document.domain')
-alert('document.domain');
 alert(/XSS/);
 alert(/{{randstr}}/)
 alert(1337)
@@ -8235,6 +8239,7 @@ dataChangeCreatedBy
 database
 database:
 databaseName
+databaseType
 databaseURL:
 database_password
 database_settings
@@ -9194,6 +9199,7 @@ installation
 installed packages, channel pear
 instance-id:
 instance.uptime
+instanceId
 instanceName
 instance_host
 instawp-wrap
@@ -9228,6 +9234,7 @@ is on WIMKIN
 is proudly powered by <a href="http://bbpress.org
 is running
 isAdmin
+isDocker
 isSavePwd:
 is_active
 is_ad_blocked
@@ -9713,6 +9720,7 @@ nitc web marketing service
 no endpoints deployed
 no result defined for action and result input
 no_participation
+nodeJsVersion
 node_cooling_device
 node_name
 node_network
@@ -11245,6 +11253,7 @@ version S29_RGOS 11.4
 version.services.core.carbon.wso2.org
 version:
 version: STS
+versionCli
 view config
 view=activity
 view_update_every
@@ -11420,6 +11429,7 @@ wp-jobsearch
 wp-login-register
 wp-user-avatar
 wpb-show-core
+wpcf7-drag-n-drop-file
 wpdevar_gall_img_url_h[<script>alert(document.domain)</script>]
 wpdm-cache
 wpdm-download-link download-on-click
@@ -11582,6 +11592,7 @@ zyxel
 {{md5({{rand2}})}}
 {{nonce}}
 {{payload}}
+{{phar_marker}}
 {{randstr}}
 {{randstr}}.tld
 {{rand}}
