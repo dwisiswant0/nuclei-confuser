@@ -403,7 +403,6 @@ Warning:
 VERSION
 Username
 User-agent:
-User
 USERNAME
 USER
 Toggle
@@ -880,6 +879,7 @@ $.ret=0;
 {{nonce}}
 {{md5({{rand2}})}}
 {{input}}
+{{file_content}}
 {{echo-cmd-hash}}
 {{base64_decode(cmd)}}
 {{

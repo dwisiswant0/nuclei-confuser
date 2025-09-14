@@ -403,7 +403,6 @@ Warning:
 VERSION
 Username
 User-agent:
-User
 USERNAME
 USER
 Toggle
@@ -470,3 +469,4 @@ INFO
 IMAP
 ID
 HttpUcmdbServiceProviderFactoryImpl
+Howdy,
