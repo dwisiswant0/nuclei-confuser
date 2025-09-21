@@ -21,10 +21,10 @@ username
 uid=
 login
 for
+"version":
 "><script>alert(document.domain)</script>
 Interactsh
 <img
-"version":
 "password":
 "name"
 "items":
@@ -36,9 +36,9 @@ name
 error_message
 Parent
 </web-app>
+{{marker}}
 <?php
 "token":
-{{marker}}
 error
 c8c605999f3d8352d7bb792cf3fdb25
 "created_at":
@@ -74,6 +74,7 @@ DB_HOST
 timestamp
 didn't
 description
+alert(document.domain);
 [core]
 Tested
 Exception
@@ -102,7 +103,6 @@ content
 com.thoughtworks.xstream
 code
 candidat
-alert(document.domain);
 access_token
 [project-discovery]
 [extensions]
@@ -115,6 +115,7 @@ Login=
 Installation
 Configuration
 BEGIN
+<methodResponse>
 <img/src/onerror=alert(document.domain)>
 <?xml
 :"true"
@@ -189,7 +190,6 @@ Action
 <title>APP</title>
 <svg/onload=alert(/xss/)>
 <script>alert(1)</script>
-<methodResponse>
 <configuration>
 </script><img
 </password>
@@ -204,7 +204,6 @@ Action
 "uuid":
 "updated_at":
 "time":
-"status"
 "state":
 "slug":
 "sessionId":
@@ -470,3 +469,4 @@ IMAP
 ID
 HttpUcmdbServiceProviderFactoryImpl
 Howdy,
+Host

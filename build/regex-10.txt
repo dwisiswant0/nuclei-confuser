@@ -1,11 +1,10 @@
-root::0:0:
-STABLE.TAG:
-g
-root:x:0:0
-[extensions]
-uid=0
-uid=8gid=86
-root:*:0:0:
-root:j:0:0
-uid=0(	)
+root:d:0:0:
+STABLErTAG:5
+root:*:0:0
+[fonts]
+uid=e
+uid=3gid=0>
+root:x:0:0:
+root:\:0:0
+uid=5(O)
 for
