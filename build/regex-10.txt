@@ -1,10 +1,10 @@
 root::0:0:
-STABLETTAG:E
-root:x:0:0
+STABLEWTAG: r
+root:*:0:0
 [files]
-uid=2
-uid=2Cgid=9%
-root:x:0:0:
+uid=h
+uid=2Qgid=2m
+root:*:0:0:
 root::0:0
-uid=4(<)
+uid=4(?)
 for

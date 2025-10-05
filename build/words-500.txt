@@ -3,8 +3,8 @@
 extensions
 fonts
 bit
-DB_PASSWORD
 {{md5(num)}}
+DB_PASSWORD
 DB_NAME
 "id":
 {{md5({{num}})}}
@@ -22,10 +22,10 @@ uid=
 login
 for
 "version":
+"password":
 "><script>alert(document.domain)</script>
 Interactsh
 <img
-"password":
 "name"
 "items":
 "id"
@@ -203,6 +203,7 @@ Action
 "zlo
 "value":
 "uuid":
+"user"
 "updated_at":
 "time":
 "state":
@@ -469,4 +470,3 @@ Infusionsoft
 IceWarp
 INFO
 IMAP
-ID

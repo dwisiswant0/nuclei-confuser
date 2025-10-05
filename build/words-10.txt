@@ -3,8 +3,8 @@
 extensions
 fonts
 bit
-DB_PASSWORD
 {{md5(num)}}
+DB_PASSWORD
 DB_NAME
 "id":
 {{md5({{num}})}}
