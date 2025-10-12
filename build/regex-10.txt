@@ -1,10 +1,10 @@
 root::0:0:
-STABLEWTAG: r
+STABLE\TAG:4
 root:*:0:0
-[files]
-uid=h
-uid=2Qgid=2m
-root:*:0:0:
+[extensions]
+uid=r
+uid=8Ugid=0
+root:x:0:0:
 root::0:0
-uid=4(?)
+uid=7(#)
 for
