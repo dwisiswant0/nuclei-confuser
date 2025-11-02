@@ -12,9 +12,9 @@ display_name
 "name":
 Tags:
 "username":
+"success":true
 PHP
 Index
-"success":true
 "data":
 "email":
 for
@@ -39,6 +39,7 @@ Parent
 {{marker}}
 <?php
 "token":
+"results":
 error
 c8c605999f3d8352d7bb792cf3fdb25
 "created_at":
@@ -57,12 +58,12 @@ Joined
 <html
 #
 "url":
-"results":
 "access_token":
 {{result}}
 {{md5(string)}}
 onclick='alert(document.domain)
 module.exports
+alert(document.domain);
 admin
 [extensions]
 Spotweb
@@ -78,7 +79,6 @@ timestamp
 didn't
 description
 c8c605999f3d8352d7bb792cf3fdb25b
-alert(document.domain);
 [core]
 Tested
 Exception
@@ -193,6 +193,7 @@ Action
 <title>APP</title>
 <svg/onload=alert(/xss/)>
 <script>alert(1)</script>
+<script
 <configuration>
 </script><img
 </password>
@@ -219,6 +220,7 @@ Action
 "key":
 "ip":
 "hostname":
+"hits":
 "field"
 "entity"
 "email"
@@ -407,6 +409,7 @@ Windows
 Welcome
 Webmin
 Warning:
+VMware
 VERSION
 Username
 User-agent:
@@ -563,7 +566,7 @@ ASUS
 <script>alert(document.domain)</script><"">
 <script>alert(document.domain)</script>/graphics/common/screen/dotclear.gif
 <script>alert(1337)</script>
-<script
+<script>alert('{{randstr}}')</script>
 <password>
 <name>faultString</name>
 <name>
@@ -926,6 +929,3 @@ $.ret=0;
 {"searchers":
 {"runs":[{"id":
 {"returnUrl":"/admin"}
-{"ret":"ok","data":true}
-{"ret":"ok","data":"ok"}
-{"result":{"isDisconnected":
