@@ -125,6 +125,7 @@
 "IP Address"
 "ITEMS"
 "Id":
+"Invalid size:
 "Labels":
 "LastLoginDate":
 "LocalizedName"
@@ -1208,6 +1209,7 @@ $webdb
 '>"<svg/onload=confirm('xss-
 '>"<svg/onload=confirm('year')>
 '></script><script>alert(document.domain)</script>
+'><injectable>
 '><script>alert(document.cookie)</script>
 '><script>alert(document.domain)</script>
 '@skip' can't be applied to queries (allowed: fields, fragment spreads, inline fragments)
@@ -1350,6 +1352,8 @@ $webdb
 // Karma configuration
 ///sessions
 //DB-MS
+//EX
+//OK
 //seal.globalsign.com/siteseal
 //smarticon.geotrust.com/si.js
 //www.jadu.net
@@ -3500,7 +3504,6 @@ $webdb
 <title>NetSUS Server Login</title>
 <title>NetScaler Console</title>
 <title>NetSurveillance WEB</title>
-<title>Netgear</title>
 <title>Netscaler Gateway</title>
 <title>Netsweeper WebAdmin</title>
 <title>Network - Plastic SCM</title>
@@ -3765,6 +3768,7 @@ $webdb
 <title>UI for Apache Kafka</title>
 <title>Ulanzi Clock</title>
 <title>UniFi Network</title>
+<title>UniFi OS</title>
 <title>Unibox Administration</title>
 <title>Unleash
 <title>Unleashed Login</title>
@@ -4946,6 +4950,7 @@ File to import
 File uploaded successfully
 File uploaded successfully.
 FileCatalyst file transfer solution
+FileData
 FilePath
 FileZilla - The free FTP solution
 Filr Appliance
@@ -6671,6 +6676,7 @@ Types of profiles available:
 UID=
 UIPPortalPath
 UNID
+UNIFI_OS_MANIFEST
 UNION SELECT 1,CONCAT('~','9999999999','~')--
 URL=/cgi-bin/monitor.cgi
 URLToken(cgi_path)
@@ -8350,6 +8356,7 @@ data
 data":
 data":"
 data":"{{md5({{num}})}}
+data":[{
 data":{"token"
 data-controller-namespace="linkerd
 data-coral-columnview-id
@@ -8432,6 +8439,7 @@ define( 'DB_NAME',
 define( 'DB_PASSWORD',
 define('DB
 defineConfig
+delete_type
 deletespace.Sandbox
 delivered by mailman
 deluser.conf
@@ -10054,6 +10062,7 @@ passwordExpiration
 password_value
 password_verify() expects parameter
 path
+path":"
 paths
 paths:
 payara.security.openid.default.providerURI=
@@ -11096,6 +11105,7 @@ token_uri
 tomato.core.widget.loader.baseurl = 'http://
 tomcat monitor uses wadl to describe services it can offer
 tongda2000
+tool_return":
 tools:
 top.location.href = 'javascript:alert(document.domain)';
 top.location=window.location;top.location="/remote/login";
@@ -11193,6 +11203,7 @@ uri-translation
 url
 url = 'wrzcnet_vote.asp?stype=view';
 url = window.location.search.split("?desktop_url=")[1]
+url":
 url":"
 url(images/yh.jpg)
 url(resources/images/en/login_swa.jpg)
@@ -11696,8 +11707,10 @@ zyxel
 {"events":
 {"expire":
 {"facebook_urls":[["<img src=x onerror=alert(document.domain)>"]]
+{"fifu-dimensions":
 {"formpost"
 {"gc":
+{"group"
 {"heap":
 {"html"
 {"id":"

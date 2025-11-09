@@ -1,7 +1,7 @@
 </script><script>alert(document.domain)</script>
 <script>alert(document.domain)</script>
-extensions
 {{md5(num)}}
+extensions
 fonts
 bit
 DB_PASSWORD
@@ -20,9 +20,9 @@ Index
 for
 username
 uid=
+"password":
 login
 "version":
-"password":
 "name"
 "><script>alert(document.domain)</script>
 Interactsh
