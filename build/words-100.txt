@@ -18,12 +18,12 @@ Index
 "data":
 "email":
 for
+"name"
 username
 uid=
 "password":
 login
 "version":
-"name"
 "><script>alert(document.domain)</script>
 <img
 Interactsh
@@ -58,6 +58,7 @@ Joined
 <html
 #
 "url":
+"success"
 "access_token":
 {{result}}
 onclick='alert(document.domain)
@@ -89,10 +90,9 @@ AdmissionReview
 "url"
 "type":
 "success":
-"success"
 "sources":
 "host":
 "domain"
+"data"
 url
 success":true
-s

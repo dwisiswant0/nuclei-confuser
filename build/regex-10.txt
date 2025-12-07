@@ -1,10 +1,10 @@
-root:1:0:0:
-STABLEzTAG:5
+root::0:0:
+STABLEsTAG:Z
 root:x:0:0
 [extensions]
-uid=1
-uid=9tgid=5
-root:x:0:0:
+uid=w
+uid=2Kgid=2
+root:*:0:0:
 root::0:0
-uid=7(N)
+uid=6(#)
 for

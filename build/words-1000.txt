@@ -18,12 +18,12 @@ Index
 "data":
 "email":
 for
+"name"
 username
 uid=
 "password":
 login
 "version":
-"name"
 "><script>alert(document.domain)</script>
 <img
 Interactsh
@@ -58,6 +58,7 @@ Joined
 <html
 #
 "url":
+"success"
 "access_token":
 {{result}}
 onclick='alert(document.domain)
@@ -89,10 +90,10 @@ AdmissionReview
 "url"
 "type":
 "success":
-"success"
 "sources":
 "host":
 "domain"
+"data"
 url
 success":true
 s
@@ -106,6 +107,7 @@ host
 content
 com.thoughtworks.xstream
 code
+class="show-forgot-password
 candidat
 access_token
 [project-discovery]
@@ -124,6 +126,7 @@ BEGIN
 <title>Access
 <methodResponse>
 <img/src/onerror=alert(document.domain)>
+<configuration>
 <?xml
 :"true"
 "type"
@@ -133,7 +136,6 @@ BEGIN
 "message":
 "mappings":
 "items":[{
-"data"
 "code":200
 "code":
 "archived_snapshots":
@@ -174,6 +176,7 @@ The
 Status
 Setup
 SLiMS
+PrestaShop
 Portfolio
 Password
 ManageEngine
@@ -195,7 +198,6 @@ Action
 <svg/onload=alert(/xss/)>
 <script>alert(1)</script>
 <script
-<configuration>
 </script><img
 </password>
 :"finished"
@@ -207,6 +209,7 @@ Action
 "zlo
 "value":
 "uuid":
+"user_login"
 "user"
 "updated_at":
 "time":
@@ -217,8 +220,10 @@ Action
 "result":true
 "protocol":
 "password"
+"nbProducts"
 "key":
 "ip":
+"id_wishlist"
 "hostname":
 "hits":
 "field"
@@ -264,6 +269,7 @@ token_type":
 token_endpoint
 title
 this
+themes/default/css/admin-theme.css
 text:
 text/html
 suites:
@@ -366,7 +372,6 @@ configuration
 collectd_
 cm9vd
 client_id
-class="show-forgot-password
 class="oat
 class
 cisco
@@ -639,7 +644,6 @@ $.ret=0;
 "users":
 "username":"{{user}}"
 "user_pass"
-"user_login"
 "user_id":
 "userName":
 "totalCount":
@@ -667,6 +671,7 @@ $.ret=0;
 "path":
 "paging":
 "pagination":
+"ok":true
 "name":"admin"
 "msg":
 "model":
@@ -896,6 +901,7 @@ $.ret=0;
 {{str}}16384
 {{sid}}
 {{secret}}
+{{rstr}}
 {{revstr}}
 {{reflection}}
 {{redirect_to}}
@@ -903,6 +909,7 @@ $.ret=0;
 {{payload}}
 {{nonce}}
 {{md5({{rand2}})}}
+{{md5(payload_str)}}
 {{input}}
 {{filename}}.asp
 {{file_content}}
@@ -918,11 +925,3 @@ $.ret=0;
 {"username":"{{username}}","error":false}
 {"type":"success","message":"File
 {"type":"event"
-{"token":".*"}
-{"token":
-{"title":"FastAPI"
-{"threads":
-{"text":"Page
-{"success":true,"data":{"index":0,"pageSize":10,
-{"success":true,"data":
-{"success":true

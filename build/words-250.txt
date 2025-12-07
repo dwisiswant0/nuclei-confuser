@@ -18,12 +18,12 @@ Index
 "data":
 "email":
 for
+"name"
 username
 uid=
 "password":
 login
 "version":
-"name"
 "><script>alert(document.domain)</script>
 <img
 Interactsh
@@ -58,6 +58,7 @@ Joined
 <html
 #
 "url":
+"success"
 "access_token":
 {{result}}
 onclick='alert(document.domain)
@@ -89,10 +90,10 @@ AdmissionReview
 "url"
 "type":
 "success":
-"success"
 "sources":
 "host":
 "domain"
+"data"
 url
 success":true
 s
@@ -106,6 +107,7 @@ host
 content
 com.thoughtworks.xstream
 code
+class="show-forgot-password
 candidat
 access_token
 [project-discovery]
@@ -124,6 +126,7 @@ BEGIN
 <title>Access
 <methodResponse>
 <img/src/onerror=alert(document.domain)>
+<configuration>
 <?xml
 :"true"
 "type"
@@ -133,7 +136,6 @@ BEGIN
 "message":
 "mappings":
 "items":[{
-"data"
 "code":200
 "code":
 "archived_snapshots":
@@ -174,6 +176,7 @@ The
 Status
 Setup
 SLiMS
+PrestaShop
 Portfolio
 Password
 ManageEngine
@@ -195,7 +198,6 @@ Action
 <svg/onload=alert(/xss/)>
 <script>alert(1)</script>
 <script
-<configuration>
 </script><img
 </password>
 :"finished"
@@ -207,6 +209,7 @@ Action
 "zlo
 "value":
 "uuid":
+"user_login"
 "user"
 "updated_at":
 "time":
@@ -217,8 +220,10 @@ Action
 "result":true
 "protocol":
 "password"
+"nbProducts"
 "key":
 "ip":
+"id_wishlist"
 "hostname":
 "hits":
 "field"
@@ -234,8 +239,3 @@ Action
 "><script>alert(document.domain)</script></a>
 로그인
 错误的id
-审计管理员
-{{username}}
-{{rand}}
-{{randstr}}.tld
-{{filename}}.php
