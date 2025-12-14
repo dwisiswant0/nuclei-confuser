@@ -45,6 +45,7 @@ c8c605999f3d8352d7bb792cf3fdb25
 "created_at":
 "></script><script>alert(document.domain)</script>
 {{randstr}}
+{{md5(string)}}
 success
 password=
 groups=
@@ -74,7 +75,6 @@ DB_HOST
 <body
 "status":
 {{string}}
-{{md5(string)}}
 version
 timestamp
 didn't
@@ -85,6 +85,7 @@ Tested
 AdmissionReview
 <title>Login</title>
 <svg
+<?xml
 "username"
 "user":
 "url"
@@ -127,7 +128,6 @@ BEGIN
 <methodResponse>
 <img/src/onerror=alert(document.domain)>
 <configuration>
-<?xml
 :"true"
 "type"
 "token_type":

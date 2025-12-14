@@ -42,6 +42,7 @@
  | XING</title>
  | about.me
  | Cafecito</title>
+" onmouseover=alert(1)
 " style=animation-name:rotation onanimationstart=alert(document.domain) x
 "" autofocus onfocus=alert(document.domain)//"
 ""></script><script>alert(document.domain)</script>
@@ -269,6 +270,7 @@
 "baseUrl"
 "baseUrl":
 "base_code"
+"base_country":
 "bases"
 "beans"
 "bearerToken":
@@ -503,6 +505,7 @@
 "handle"
 "harbor_version"
 "hasAdmin"
+"has_more_rows"
 "hash":"<img src=x onerror=alert(document.domain)>"
 "hava"
 "headers"
@@ -581,6 +584,7 @@
 "keepAliveInterval":
 "kernels": [
 "key"
+"key" :
 "key":
 "key":"base64{{
 "keys"
@@ -709,6 +713,7 @@
 "owner":
 "ownerId":
 "package":"
+"packageType" :
 "page"
 "page":
 "pageInfo":
@@ -907,6 +912,7 @@
 "ssdp_udn":
 "ssid":
 "start_date":
+"start_index"
 "stat":
 "state":
 "state":"SUCCESS"
@@ -936,8 +942,11 @@
 "status_code"
 "status_code":
 "status_code":200,"status_txt":"OK"
+"status_code":2000
 "storage_left"
 "stormVersion":
+"stripe_account_id":"{{stripe_user_id}}"
+"stripe_card_update":
 "subdomain":
 "subdomains":
 "subscription"
@@ -1003,6 +1012,7 @@
 "traces"
 "traces":[
 "type"
+"type" :
 "type":
 "type": "login"
 "type": "success"
@@ -1026,6 +1036,7 @@
 "uploadedTo"
 "uri"
 "url"
+"url" :
 "url":
 "use": "@vercel
 "user"
@@ -1791,6 +1802,7 @@ $webdb
 /wp-content/plugins/eventON/
 /wp-content/plugins/finder/
 /wp-content/plugins/formcraft3/
+/wp-content/plugins/give/
 /wp-content/plugins/gtranslate/
 /wp-content/plugins/heat-trackr/
 /wp-content/plugins/hostel
@@ -2110,6 +2122,7 @@ $webdb
 </IfModule>
 </OAI-PMH
 </a>登录cbss系统</p>
+</buildpath>
 </clipPath>
 </div> <!--close login-container--></body>
 </dwsync>
@@ -2122,6 +2135,7 @@ $webdb
 </metafile>
 </methodResponse>
 </module>
+</msapplication>
 </packages>
 </password>
 </phpunit>
@@ -2378,6 +2392,7 @@ $webdb
 <br/>Flushing output<br/>
 <br>WAN connection type
 <br>欢迎使用e-cash系统
+<browserconfig>
 <button
 <center><a href=/virtualmin-password-recovery/>forgot your virtualmin password?</a></center>
 <center><h1>301 Moved Permanently</h1></center>
@@ -4434,6 +4449,7 @@ CREDENTIAL_CHALLENGE
 CSR
 CSS TRANSITION SUPPORT
 CTCWebServiceSi
+CUpdateClient
 CVE-2018-7602-POC
 CVE-2021-41773-POC
 CVE-2021-42013
@@ -5387,6 +5403,7 @@ LDAP STATUS
 LDAP server
 LDAPUser
 LGD_OID = <script>alert(document.domain)</script>
+LICENSE_KEY
 LINE 1: SELECT DATE_TRUNC
 LISTSERV
 LMSZAI - Learning Management System
@@ -6180,6 +6197,7 @@ Roundcube Webmail initial database structure
 Route
 Router Management - Server OpenVPN
 Roxy file manager
+RoxyFileman
 Royal Event Management Software
 RubyGems
 Rule Execution Server console
@@ -6214,6 +6232,7 @@ SEIKO EPSON
 SEND ME A TIP
 SERVER DETAILS</div>
 SERVER_ADMIN
+SERVER_SIDE_FIDES_API_URL
 SERVER_SOFTWARE =
 SETTINGS</a>
 SFTPGo - Setup
@@ -6256,6 +6275,7 @@ SSLVPN Service
 START of Content area
 STAT TEST
 STATUS_OK</statusOfOperation
+SUPD_VER
 SW Configuration
 SYSTEMSTATUS
 Sabre
@@ -6707,6 +6727,8 @@ UIPPortalPath
 UNID
 UNIFI_OS_MANIFEST
 UNION SELECT 1,CONCAT('~','9999999999','~')--
+UPD_ERROR
+UPD_SUCCESS
 URL=/cgi-bin/monitor.cgi
 URLToken(cgi_path)
 URLconf defined
@@ -6835,7 +6857,6 @@ Vodafone Vox UI
 Voip System
 Voyager helps represent any GraphQL API
 W serwisie od
-WARNING: Form
 WBCECMS
 WCROOT
 WD Privacy Statement
@@ -7607,6 +7628,7 @@ bit-xxzs
 bitbucket
 bitbucket-oauth
 bitbucket.page.login
+bitm_
 bitrix_sm_time_zone
 blackbox_
 blackbox_exporter_build_info
@@ -8551,7 +8573,7 @@ document.writeln(companymail)
 documentum
 does not exist
 does not exist in our system
-does not have valid YAML syntax
+does not have valid YAML syntax!
 domain
 domain uri=
 domcfg.nsf
@@ -11685,6 +11707,7 @@ x");alert(9);x=("?login=0");</script>
 x-strapi-config
 x=\' onanimationstart=alert(document.domain) style=animation-name:rotation x'
 x_kfm_changeCaption
+xampp
 xdebug-error xe-warning
 xdebug.remote_connect_back</td><td class="v">On</td><td class="v">On</td>
 xecure vpn manager
@@ -11702,6 +11725,7 @@ xmlpzs/webissue.asp
 xmlrpc
 xnstyle.css
 xss onfocus=alert(document.domain) autofocus= xss
+xtscancodes.js
 yabbtime.gettime()
 yarn.dt.plugins.js
 yeswiki-base
