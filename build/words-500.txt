@@ -38,10 +38,12 @@ Parent
 </web-app>
 "results":
 {{marker}}
+Fatal
 <?php
 "token":
 error
 c8c605999f3d8352d7bb792cf3fdb25
+<html
 "created_at":
 "></script><script>alert(document.domain)</script>
 {{randstr}}
@@ -56,10 +58,10 @@ Joined
 ><script>alert(document.domain)</script>
 <svg/onload=alert(document.domain)>
 <script>alert(document.domain);</script>
-<html
 #
 "url":
 "success"
+"status":
 "access_token":
 {{result}}
 onclick='alert(document.domain)
@@ -67,13 +69,13 @@ module.exports
 alert(document.domain);
 admin
 [extensions]
+Uncaught
 Spotweb
 Member
 Dashboard
 DB_HOST
 <web-app
 <body
-"status":
 {{string}}
 version
 timestamp
@@ -388,6 +390,7 @@ attachment-jannah-image-
 applicationConfig
 appId
 apiVersion:
+alert(document.domain)
 ae0edd232df6f579e19ea52115d35977f8bdbfa9958e0aef2221d62f3a39e7d8
 address
 added
@@ -471,6 +474,3 @@ Path
 Password":
 Page
 Netsparker
-NameError
-NODE_ENV
-My
