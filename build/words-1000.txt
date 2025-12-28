@@ -25,20 +25,21 @@ uid=
 login
 "version":
 "><script>alert(document.domain)</script>
+Fatal
 <img
 Interactsh
 <h1>
 "items":
 "id"
-gid=
 password
+gid=
 name
 error_message
+Uncaught
 Parent
 </web-app>
 "results":
 {{marker}}
-Fatal
 <?php
 "token":
 error
@@ -69,7 +70,6 @@ module.exports
 alert(document.domain);
 admin
 [extensions]
-Uncaught
 Spotweb
 Member
 Dashboard
@@ -295,6 +295,7 @@ qdPM
 projects
 profile
 pool:
+plugins/wordfence
 phpinfo()
 paths
 pass:
@@ -359,6 +360,7 @@ displayName
 display-name
 discuz_uid
 directive
+desc
 default:
 def_wirelesspassword
 database_settings
@@ -375,6 +377,7 @@ collectd_
 cm9vd
 client_id
 class="oat
+class="ncentral"
 class
 cisco
 c923fa3e71e104d50615978c1ab9fcfccfcbada9e8df638fc27bf4d4eb72d78c
@@ -513,6 +516,7 @@ END:VCALENDAR
 EMS
 Doris</title>
 Domain
+Diagnostics
 Description
 Database
 Dashboard</a>
@@ -708,6 +712,7 @@ $.ret=0;
 "authenticated":true
 "auth":
 "account":
+"Name":
 "ID":
 "><script>alert(1)</script>
 "></script><script>alert(document.domain)</script><script>
@@ -919,8 +924,3 @@ $.ret=0;
 {{file_content}}
 {{echo-cmd-hash}}
 {{base64_decode(cmd)}}
-{{
-{'api':
-{"version":"
-{"valid":
-{"users":{"users":

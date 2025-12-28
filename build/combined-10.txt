@@ -3,7 +3,7 @@
 <script>alert(document.domain)</script>
 DB_NAME
 DB_PASSWORD
-STABLE?TAG:z
+STABLENTAG:v
 [files]
 bit
 extensions
@@ -11,10 +11,10 @@ fonts
 for
 root:*:0:0
 root::0:0
-root:W:0:0:
+root:B:0:0:
 root:x:0:0:
-uid=5gid=7c
-uid=8(b)
-uid=c
+uid=6(d)
+uid=8
+uid=9gid=5!
 {{md5(num)}}
 {{md5({{num}})}}

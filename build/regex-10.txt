@@ -1,10 +1,10 @@
-root:W:0:0:
-STABLE?TAG:z
+root:B:0:0:
+STABLENTAG:v
 root:*:0:0
 [files]
-uid=c
-uid=5gid=7c
+uid=8
+uid=9gid=5!
 root:x:0:0:
 root::0:0
-uid=8(b)
+uid=6(d)
 for
