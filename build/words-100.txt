@@ -40,11 +40,11 @@ Parent
 </web-app>
 "results":
 {{marker}}
+<html
 <?php
 "token":
 error
 c8c605999f3d8352d7bb792cf3fdb25
-<html
 "created_at":
 "></script><script>alert(document.domain)</script>
 {{randstr}}
@@ -95,4 +95,3 @@ AdmissionReview
 "success":
 "sources":
 "host":
-"domain"
