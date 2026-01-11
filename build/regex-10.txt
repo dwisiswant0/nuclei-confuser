@@ -1,10 +1,10 @@
-root:M:0:0:
-STABLEVTAG: b
+root::0:0:
+STABLErTAG:L
 root:x:0:0
-[extensions]
-uid=i
-uid=3gid=7
-root:x:0:0:
-root:S:0:0
-uid=0(x)
+[fonts]
+uid=3
+uid=1"gid=6c
+root:*:0:0:
+root::0:0
+uid=8(1)
 for

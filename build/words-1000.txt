@@ -33,17 +33,17 @@ Interactsh
 "id"
 password
 gid=
+Parent
 name
 error_message
 Uncaught
-Parent
+<html
+<?php
 </web-app>
 "results":
 {{marker}}
-<html
-<?php
-"token":
 error
+"token":
 c8c605999f3d8352d7bb792cf3fdb25
 "created_at":
 "></script><script>alert(document.domain)</script>
@@ -59,6 +59,7 @@ Joined
 ><script>alert(document.domain)</script>
 <svg/onload=alert(document.domain)>
 <script>alert(document.domain);</script>
+<body
 #
 "url":
 "success"
@@ -75,7 +76,6 @@ Member
 Dashboard
 DB_HOST
 <web-app
-<body
 {{string}}
 version
 timestamp
@@ -114,6 +114,7 @@ class="show-forgot-password
 candidat
 access_token
 [project-discovery]
+Zimbra
 You
 XPATH
 Search
@@ -171,7 +172,6 @@ cfa6748598b5e507db0e53906a7639e2c197a53cb57da58b0a20ed087cc0b9d5
 blog-title
 authorization_endpoint
 access_key
-Zimbra
 WebLogic
 ThinkPHP
 The
@@ -184,6 +184,7 @@ Password
 ManageEngine
 Logout
 Logged
+Last
 LISTSERV
 KEY
 IBM
@@ -202,6 +203,7 @@ Action
 <script
 </script><img
 </password>
+<!DOCTYPE
 :"finished"
 6fa9fec63ba24ec06fcae0ec30d1369619c2c3323fe9ddc4849af86457d59eef
 1d840f0c4634c8813d3056f26cbab7a685d544050360a611a9df0b42371f4d98
@@ -430,6 +432,7 @@ VERSION
 Username
 User-agent:
 USERNAME
+USER=
 USER
 Toggle
 Tiny
@@ -485,7 +488,6 @@ Monstra
 Mitel
 Missing
 Log
-Last
 Label
 LOG_LEVEL
 LDAP
@@ -521,6 +523,7 @@ Diagnostics
 Description
 Database
 Dashboard</a>
+DESCRIPTION=
 DB
 Current
 Contributions
@@ -599,7 +602,6 @@ ASUS
 <ProcessMessageASync_v2Result>true</ProcessMessageASync_v2Result>
 <CmdResult>
 </usrid>
-<!DOCTYPE
 ;alert(document.domain);
 969119f639d0837f445a10ced20d3a82d2ea69d682a4e74f39a48a4e7b443d5e
 90abf7746df5cb82bca9949de6f512de7cb10bec97d3f5103299a9ce38d5b159
@@ -922,5 +924,3 @@ $.ret=0;
 {{nonce}}
 {{md5({{rand2}})}}
 {{md5(payload_str)}}
-{{input}}
-{{filename}}.asp

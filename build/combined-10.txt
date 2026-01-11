@@ -3,18 +3,18 @@
 <script>alert(document.domain)</script>
 DB_NAME
 DB_PASSWORD
-STABLEVTAG: b
-[extensions]
+STABLErTAG:L
+[fonts]
 bit
 extensions
 fonts
 for
-root:M:0:0:
-root:S:0:0
+root:*:0:0:
+root::0:0
+root::0:0:
 root:x:0:0
-root:x:0:0:
-uid=0(x)
-uid=3gid=7
-uid=i
+uid=1"gid=6c
+uid=3
+uid=8(1)
 {{md5(num)}}
 {{md5({{num}})}}
