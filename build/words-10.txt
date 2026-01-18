@@ -7,4 +7,4 @@ bit
 DB_PASSWORD
 DB_NAME
 "id":
-{{md5({{num}})}}
+"name":

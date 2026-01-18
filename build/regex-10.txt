@@ -1,10 +1,11 @@
 root::0:0:
-STABLErTAG:L
+STABLEKTAG:
+u
 root:x:0:0
 [fonts]
-uid=3
-uid=1"gid=6c
-root:*:0:0:
+uid=a
+uid=5gid=4
+root:x:0:0:
 root::0:0
-uid=8(1)
+uid=3(-)
 for
