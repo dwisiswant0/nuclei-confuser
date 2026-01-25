@@ -1,11 +1,10 @@
 root::0:0:
-STABLEKTAG:
-u
+STABLEdTAG:m
 root:x:0:0
-[fonts]
-uid=a
-uid=5gid=4
+[extensions]
+uid=r
+uid=63gid=2
 root:x:0:0:
 root::0:0
-uid=3(-)
+uid=0(])
 for

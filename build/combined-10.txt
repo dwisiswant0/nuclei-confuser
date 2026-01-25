@@ -4,8 +4,8 @@
 <script>alert(document.domain)</script>
 DB_NAME
 DB_PASSWORD
-STABLEKTAG:
-[fonts]
+STABLEdTAG:m
+[extensions]
 bit
 extensions
 fonts
@@ -14,8 +14,7 @@ root::0:0
 root::0:0:
 root:x:0:0
 root:x:0:0:
-u
-uid=3(-)
-uid=5gid=4
-uid=a
+uid=0(])
+uid=63gid=2
+uid=r
 {{md5(num)}}
