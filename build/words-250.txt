@@ -181,6 +181,7 @@ blog-title
 authorization_endpoint
 access_key
 WebLogic
+VERSION
 ThinkPHP
 The
 Setup
@@ -236,5 +237,3 @@ Action
 "password"
 "nbProducts"
 "key":
-"ip":
-"id_wishlist"
