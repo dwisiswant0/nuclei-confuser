@@ -450,6 +450,7 @@ Windows
 Welcome
 Webmin
 Weblate
+Web
 Warning:
 Username
 User-agent:
@@ -468,9 +469,8 @@ Stats
 Started
 Staging
 Stable
+SolarWinds
 Site
 ShareFile
 SetupWizardPage
 SessionID
-ServerVersion=11.6.0
-Server

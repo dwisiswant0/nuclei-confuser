@@ -1,10 +1,10 @@
-root:%:0:0:
-STABLEtTAG:C
+root::0:0:
+STABLEvTAG:	S
 root:*:0:0
 [fonts]
-uid=x
-uid=8Kgid=3
-root:*:0:0:
-root::0:0
-uid=1(@)
+uid=w
+uid=9zgid=2[
+root:x:0:0:
+root:i:0:0
+uid=7(j)
 for

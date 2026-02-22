@@ -935,6 +935,7 @@
 "sessionId":
 "sessionName":"zentaosid"
 "sessionid":
+"sessionid": null
 "sessionkey":
 "settings"
 "setupWizardComplete":false
@@ -1719,6 +1720,7 @@ $webdb
 /org.geoserver.web.geoserverbasepage/
 /output/
 /owa/
+/owa/auth/errorFE.aspx
 /panel
 /persis/
 /platform/framework/logout/logout.action
@@ -6148,6 +6150,7 @@ NOW.user.userID
 NP Data Cache
 NPort Web Console
 NSC_AAAC=
+NT+AUTHORITY
 Na filmwebie od
 Nagios Log Server
 Nagios XI Installation
