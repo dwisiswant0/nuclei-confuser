@@ -887,6 +887,7 @@
 "rest_url":
 "result":
 "result":"ok"
+"result":"success"
 "result":true
 "result":true,"session"
 "result\":false
@@ -2450,6 +2451,8 @@ $webdb
 <add key="SqlConnString"
 <address>Apache Server at
 <afData>ABC<afBoundData/>
+<ajax-response><redirect><![CDATA[../]]></redirect></ajax-response>
+<ajax-response><redirect><![CDATA[.]]></redirect></ajax-response>
 <allow-access-from domain="*"/>
 <appSettings>
 <applet code=vncviewer.class archive=vncviewer.jar
@@ -3233,6 +3236,7 @@ $webdb
 <title>Apache ShenYu Gateway</title>
 <title>Apache Shiro Quickstart</title>
 <title>Apache StreamPark</title>
+<title>Apache Syncope
 <title>Apache2 Debian Default Page: It works</title>
 <title>Apache2 Ubuntu Default Page: It works</title>
 <title>Apache2::Status
@@ -4735,6 +4739,7 @@ CVE-2021-41773-POC
 CVE-2021-42013
 CVE-2023-22952
 CVE-2024-13979
+CVE-2026-1357-nuclei-verification-test
 CVE{{marker}}
 CVMS
 CVS
@@ -5381,6 +5386,7 @@ FortiNAC
 FortiRecorder Admin
 Fortnite
 Found Exact Match
+FreePBX Administration
 FreePBX</title>
 FreshRSS
 FreshRSS API endpoints
@@ -5521,6 +5527,7 @@ HardwareVersion
 HashiCorp Boundary
 Health Checks UI
 Heap Profile</a>
+Hello, {{username}}
 Help Centre Closed
 Hero Maps Pro =
 Heroku is an AI platform as a service (AI PaaS) that enables developers to build, run, and scale applications entirely in the cloud.
@@ -7017,6 +7024,7 @@ SourceTimeStamp=
 Space :<img src=1 onerror=alert(document.domain)>: does not exist
 Spark Jobs
 Special kernel symbols:
+SpeedTest by OpenSpeedTest
 SphinxOnline</span>
 Splunk Inc.
 SpotWeb - overview
@@ -7387,6 +7395,7 @@ User API Keys are deprecated
 User Control Panel
 User Profile
 User Profile Builder
+User Registration
 User details are Showing
 User information is error
 User is succesfully logged.
@@ -7963,6 +7972,7 @@ addcc9f9f2f40e2e6aca3079b73d9d17
 added
 added successfully
 address
+addtocart
 adduser.conf
 adiscon gmbh
 admin
@@ -8307,6 +8317,7 @@ bold-themes.com/bello
 bomgar
 bonitasoft.ui.services
 bookId
+booking_process_nonce
 border="0" alt="pro chat rooms
 bottom.php
 box">New Password</div>
@@ -10821,6 +10832,7 @@ oracle jsp documentation
 order by begintime
 order_<script>alert(document.domain)</script>
 org.apache.solr
+org.apache.syncope
 org.apache.tika.parser.DefaultParser
 org.apache.tika.parser.gdal.GDALParse
 org.couchdb.user:poc
@@ -12033,6 +12045,7 @@ trapperkeeper
 travel
 trigger:
 trim() expects parameter
+tripID
 tripadvisor.com
 true
 truncated

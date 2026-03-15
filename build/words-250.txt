@@ -6,12 +6,12 @@ fonts
 bit
 DB_PASSWORD
 DB_NAME
+"success":true
 "id":
 "name":
 {{md5({{num}})}}
 display_name
 "username":
-"success":true
 Tags:
 Index
 PHP
