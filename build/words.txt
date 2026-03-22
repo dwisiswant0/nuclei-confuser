@@ -162,6 +162,7 @@
 "Policy"
 "PrimaryDatacenter"
 "Provided url is not accessible"
+"QdrantApiKey":
 "Question"
 "Result":true
 "Results":[
@@ -1412,6 +1413,7 @@ $webdb
 .asmx?op=
 .astro
 .git
+.leantimeLogo {
 .less-history-file:
 .log
 .logo-autoset
@@ -1596,6 +1598,7 @@ $webdb
 /gifts/user_id/
 /gitweb.css
 /gitweb.js
+/graphiql.css
 /h-ui.admin/
 /hdr_logo.gif
 /header.php?tab=status
@@ -2359,7 +2362,6 @@ $webdb
 <a href="+8"onmouseover="alert(document.domain)">click here to go to
 <a href="/" class="navbar-brand">fastadmin</a>
 <a href="/"><script>alert(document.domain)</script>
-<a href="/*">*/)});function __MobileAppList(){alert(1)}//
 <a href="/?itwed"onmouseover="confirm(document.domain)"style=
 <a href="/\google.com/evil.html">
 <a href="/index.php?s=/Admin/Index/find_password">
@@ -4674,6 +4676,7 @@ Bootstrap
 Bootstrap Admin Template
 Bootstrap Responsive Admin Template
 Brave Browser Download | Brave
+Brickcom Corporation
 Bricks - Visual Website Builder
 Broken pipe
 Brother Industries
@@ -4841,6 +4844,7 @@ CodiMD
 Codis • Dashboard
 Cofense Inc.
 Coinbase - Buy and Sell Bitcoin, Ethereum, and more with trust
+ColdFusion
 ColdFusion Administrator Login
 ColdFusion documentation
 Collection Usage
@@ -8155,6 +8159,7 @@ application/json
 application/pdf
 application/views/img/logo_wavetop.png
 application/xml
+application="Polaris"
 applicationConfig
 applicationName
 applicationTitle":"Jellyseerr
@@ -8466,6 +8471,7 @@ class="jive-body-formpage
 class="jp-searchtabs
 class="kd-div-loading-ct"
 class="kenna sessions new"
+class="leantimeLogo
 class="legend">rds管理系统</div>
 class="log_rbox"
 class="login">wsncm动态仓单系统
@@ -8726,6 +8732,7 @@ content="Khoj AI
 content="Komodo CMS"
 content="Kryptronic Software"
 content="Lauyan TOWeb 
+content="Leantime
 content="LimeSurvey
 content="LogiCommerce"
 content="Loja Integrada"
@@ -9551,7 +9558,6 @@ function squirrelmail_loginpage_onload()
 function toggle(targetid)
 function updatapipeline(pipelinename)
 function www_zzjs_net_change
-function(handler){};function __MobileAppList(test){alert(document.domain);};//</div>
 function.array
 fw_error_www
 g_i3gState
@@ -9635,6 +9641,7 @@ gp_portal
 gps-web"></iframe>
 grafana-app
 grafana_build_info
+graphiql.createFetcher
 gridsite-admin.cgi?cmd
 group
 group_action.php
@@ -9712,6 +9719,7 @@ hostRules":
 hostname
 hostname" : "synologyrouter"
 hosts</a>
+hoteldruid
 hp
 href:'/billtool/querysum'
 href=
@@ -10016,6 +10024,7 @@ id="files"
 id="foot_version">厦门容能科技有限公司
 id="footer-openedx
 id="ginapageexpiration
+id="graphiql"
 id="hwebsystemtitle"
 id="ino-body"
 id="install
@@ -10052,6 +10061,7 @@ id="www_zzjs_net_loding"
 id="yunjiasu_link
 id='cgit'
 id='cgm' style='background-image
+id='graphiql'
 id='psssdiv'
 id=mtokenplugin width=0 height=0 style="position: absolute;left: 0px; top: 0px"
 id=subnet
@@ -10524,6 +10534,7 @@ maximum-resource-capability
 mdaemon 
 mdash; gpodder.net
 mdmserver
+mec_fes_speakers
 media?parent={{template_id}}
 media_directory
 meetingplaza http tunneling
@@ -10557,6 +10568,7 @@ mfs.cgi
 mikrotik hotspot > login
 mikrotik routeros > administration
 mimeType":"text/plain
+mindsdb_version
 mingsoft.net
 minor ver=
 minus
@@ -10642,6 +10654,7 @@ name="hidden_isbiaozhun"
 name="hstapp/config/environment"
 name="keywords" content="电影,视频大全,在线高清电影,付费电影,免费电影,剧集,电影,在线观看,vip高清电影直播"
 name="koha_login_context
+name="leantime-version
 name="num" value="1"><ScRiPt >alert(document.domain)</ScRiPt>
 name="password
 name="plesk-build"
@@ -10831,6 +10844,7 @@ oracle http server</font></font></b></h1>
 oracle jsp documentation
 order by begintime
 order_<script>alert(document.domain)</script>
+org.apache.polaris
 org.apache.solr
 org.apache.syncope
 org.apache.tika.parser.DefaultParser
@@ -12319,6 +12333,7 @@ var unitid = getpagerequestvalue("unitid")
 var url = getcontextname() + "?service=ajaxdirect/1/
 var userInfo=
 var valueUser = "j";-alert(1)-"x";
+var viewer='admin'
 var vver = $('#hidverify').val();
 var wah_target_src = '';alert(document.domain);//';
 var wantproceed = 'do you really want to proceed?';
@@ -12456,6 +12471,7 @@ window.erxesEnv
 window.eset
 window.external.addfavorite(location.href,document.title);
 window.grafanabootdata = 
+window.leantime.currentProject
 window.livewire_app_url
 window.livewire_token
 window.location = "/swp/group/admin";
@@ -12514,6 +12530,7 @@ wishoa_webplugin.js
 wixErrorPagesApp
 wizardtitletext
 wlcms-login-wrapper
+wledctl.cgi
 woocommerce
 woocommerce-product-addon
 woot-content-in-popup
@@ -12551,6 +12568,7 @@ wpcf7-drag-n-drop-file
 wpdevar_gall_img_url_h[<script>alert(document.domain)</script>]
 wpdm-cache
 wpdm-download-link download-on-click
+wpforo
 wpml_lang
 wpmovielibrary
 wpmudev

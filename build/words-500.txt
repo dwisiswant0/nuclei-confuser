@@ -136,6 +136,7 @@ Configuration
 BEGIN
 <title>Access
 <methodResponse>
+<item>
 <img/src/onerror=alert(document.domain)>
 <configuration>
 :"true"
@@ -214,7 +215,6 @@ Action
 <svg/onload=alert(/xss/)>
 <script>alert(1)</script>
 <name>faultString</name>
-<item>
 <head
 </script><img
 </password>
