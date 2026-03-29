@@ -323,6 +323,7 @@ paths
 pass:
 parameters:
 p-nickname
+ownCloud
 orgpassword=''
 ok
 og:title
@@ -473,4 +474,3 @@ Staging
 Stable
 SolarWinds
 Site
-ShareFile

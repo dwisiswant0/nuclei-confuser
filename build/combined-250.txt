@@ -1,5 +1,5 @@
 
-!73598!nunexpected
+!83569!Aerror
 "></script><script>alert(document.domain)</script>
 "><script>alert(document.domain)</script>
 "access_token":
@@ -12,6 +12,7 @@
 "domain"
 "email"
 "email":
+"eyJwL66wQ-ckDV97Vo_kV1tRfee8IHaEpI3dKgGuysqFfTeewZtimX97bB-jlzMFNc5zWvZRVAt0ft60TuV9GyyDAHw_bOa8-sAUtTK'
 "host":
 "id"
 "id":
@@ -26,7 +27,6 @@
 "result":
 "result":true
 "results":
-"rp-1"
 "sessionId":
 "slug":
 "sort_orders"
@@ -59,18 +59,18 @@
 '></script><script>alert(document.domain)</script>
 '><script>alert(document.domain)</script>
 'DB_PASSWORD'
-+ "matomo.php'
 ,
 -----BEGIN
 -10048:
 /vertica/Parser/scan
-/wp-content/uploads/
+/wp-content/uploads/~
 1d840f0c4634c8813d3056f26cbab7a685d544050360a611a9df0b42371f4d98
+6F80f88215Cc47856edaA0F13791fC60,C4C57180CF0DbD7eFC589feb38F31Aed,Cf0AE2870A09D6ff7CD7d4f270F3dc73
 6fa9fec63ba24ec06fcae0ec30d1369619c2c3323fe9ddc4849af86457d59eef
 :"finished"
 :"true"
 <!--
-<!--[WP-Super-Cache
+<!--3WP-Super-Cache
 <!DOCTYPE
 </password>
 </script><img
@@ -78,7 +78,7 @@
 </web-app>
 <?php
 <?xml
-<METANAME='GENERATOR"CONTENT=" JOOMLAQ
+<META NAME='GENERATOR" CONTENT='JOOMLA
 <body
 <configuration>
 <generator>http://wordpress.org</generator>
@@ -88,8 +88,8 @@
 <img
 <img/src/onerror=alert(document.domain)>
 <item>
-<linkSs2.wp.com
-<linknfeed/com_
+<linkPcomponents/com_
+<linkhs1.wp.com
 <methodResponse>
 <name>faultString</name>
 <script
@@ -109,7 +109,6 @@
 <version>
 <web-app
 =
-=[
 ><script>alert(document.domain)</script>
 A
 Access
@@ -118,7 +117,6 @@ Adminer
 AdmissionReview
 Altibase.jdbc.driver
 AuthMode=
-B367d5d49B5c1bA63F039Eab71e4da14,a63DAa8CbfF81c307BF9D2A89F7c4F09,3dDD39F388aA0fAcB4EA80BA753F0131
 BEGIN
 Configuration
 Connecting
@@ -134,7 +132,7 @@ DriverSapDB
 Dynamic
 ERROR
 ERROR:
-ERROR:syntax
+ERROR:	syntax
 Environment
 Exception
 FILES_JOOMLA_XML_DESCRIPTION
@@ -150,7 +148,7 @@ Ingres
 Installation
 Interactsh
 JET
-JOOMLA_1_VERSION_HISTORY
+JOOMLA_8_VERSION_HISTORY
 Joined
 KEY
 LISTSERV
@@ -165,6 +163,7 @@ ManageEngine
 MemSQL
 Member
 Microsoft
+Microsoft.Data.SQLite.SQLiteException
 Model=
 MySQLSyntaxErrorException
 MySqlClient.
@@ -173,7 +172,7 @@ NETMAKE
 Name
 Npgsql.
 ODBC
-ORA-11928
+ORA-87523
 Oracle
 OracleException
 PASSWORD
@@ -183,14 +182,14 @@ PSQLException
 Parent
 Password
 Password=
-Pdo.Ibm
-Pdo/Firebird
-Pdo/Informix
-Pdo/Oracle
-Pdo\Mssql
-Pdo\Mysql
+Pdo.OCI
+Pdo/Ibm
+Pdo\Informix
 Pdo\Pgsql
+Pdo\SqlSrv
 Pdo\Sqlite
+Pdo_Firebird
+Pdo_Mysql
 Portfolio
 PostgreSQL
 Powered
@@ -203,7 +202,7 @@ SOURCEMAPPINGURL=EYJ2ZXJZAW9UIJO
 SQ074:
 SQ200:
 SQL
-SQLSTATE[9]:
+SQLSTATE[5]:
 SQLServer
 SQLServerException
 SQLite
@@ -212,9 +211,8 @@ SQLite/JDBCDriver
 SQLite3::SQLException
 SQLiteException
 SR185:
-STABLEoTAG:	q
+STABLE*TAG:g
 Search
-Semantic
 Settings
 Setup
 Sign
@@ -224,7 +222,6 @@ SybSQLException
 Sybase
 Sybase.Data.AseClient
 Syntax
-System.Data.SQLite.SQLiteException
 System.Data.SqlClient.SqlException.SqlException
 Tags:
 Tested
@@ -244,8 +241,8 @@ XPATH
 You
 Zend_Db_Adapter_Db2_Exception
 Zend_Db_Adapter_Mysqli_Exception
-Zend_Db_Adapter_Sqlsrv_Exception
 Zend_Db_Statement_Oracle_Exception
+Zend_Db_Statement_Sqlsrv_Exception
 Zimbra
 [42000-192]
 [MonetDB][ODBC
@@ -257,10 +254,10 @@ Zimbra
 access_key
 access_token
 admin
-admin::0:0:
+admin:M:0:0:
 alert(document.domain);
 authorization_endpoint
-aws_access_key_id=
+aws_access_key_id =	
 bin::1:1
 bit
 blog-title
@@ -294,7 +291,7 @@ content
 content="vBulletin
 data
 data":
-db2_o(
+db2_0(
 default
 description
 didn't
@@ -308,8 +305,8 @@ followers
 fonts
 for
 gid=
+gid=9(h)
 groups=
-groups=3(u)
 h3c.com
 host
 ibm_db_dbi.ProgrammingError
@@ -349,44 +346,46 @@ password=
 paths:
 prestashop
 profile:username
-psw_fail_num_str":"1
+psw_fail_num_str":"5
+qi==</string></value>
 quoted
-rdmStmtPrepare(K)
+rdmStmtPrepare(@)
 region
 requestStatus":
-require_once'/var/www/scripts/help_php'
+require_once'/var/www/scripts/helpbphp'
 response_code":200
 rest_post_invalid_id
 result
 root:
 root:$
 root:*:0:0
-root:5:0
-root:8:3:8:
+root:*:0:0:
+root:7:0:0:
+root::0
 root::0:
-root::0:0:
-root::::
-root:>:0:0:
-root:\:0:9:
-root:a:0:0
+root::0:0
+root:::0:
+root:Q:0:0:
+root:S:0:0:
+root:h:0:9:
+root:n:0:7:
 root:x:0:0
 root:x:0:0:
-root:|:0:0:
 rtsp_transport
 s
 secret_key_base:
 self
-siteinfo_5.htm
-sk.eyJ1Ijoiw.F
-sk_live_UaDVVnF6r8eKo5ZbxtYJh0b6
-sk_test_DYvkjL1c1cbe0ouymODTgPp9rNj4zPxRNmFkTxnVVVCfX2HjP5
-sqlite3%OperationalError:
-src=	'!matomo.js'
+siteinfo_3.htm
+sk.eyJ1IjoiR.p
+sk_live_ZIr270gy1iZ750wyFOzNr3yw
+sk_test_5Vs2BAedlTxlF8NYmQtvhGn40TepMHabUNifoGfDxqFFsYRzOg
+sqlite3xOperationalError:
+src= "5piwik.js"
 src_fld":null
 src_obj_type":"businesInfo","src_fld
-sshd:x
+sshd:*
 static.openreplay.com/latest/openreplay.js
-string(7)
+string(1)"rp-6"
 success
 success":true
 supportsLogin
@@ -395,40 +394,39 @@ thinfinity
 timestamp
 title='mojoPortal
 token
-token='eyJhxct2mX5dxFf3dhN7D04t7Seg4dZhHGxJ0DfwVeWUp3_Jj3KTH1EjFKjJezshL8tOdox20ufkbGwoGR1W3frFNauC34Kt-bPmceD
+token	=
 toor:*:0:0
 type
 type="application/opensearchdescription+xml"
-type="file'
-u
+type="file"
+u+"piwik.php'
 uid
 uid=
-uid=0(B)
-uid=3(
-uid=5
-uid=7()
-uid=7(G)
-uid=7Zgid=7c
-uid=9(Q)
-uid=d
-uid=g
-uid=j
-uid=w
-uni-1.1.6.1/
-uniVarsI_extVer="0.6.0"
+uid=-
+uid=1(
+uid=1(G)
+uid=2
+uid=3(Q)
+uid=5gid=1m
+uid=6
+uid=7(y)
+uid=8
+uid=9(A)
+uid=t
+uni-4.9.7.8/
+uniVarsD_extVer="6.2.7"
 unsupported
 url
-user":"admin"
+user"	:"admin"
 userId
 user_id
 username
-usernamel
-usr/local/
-utilityRfunctions\php
-v=>
+usr/bin/
+utility,functions\php
+v=m
 valid
 var
-var _paq=	window._paq
+var	_paq=
 variables:
 version
 version:
@@ -438,20 +436,20 @@ webgrind
 weblogic.jdbc.informix
 wiki
 window.MatomoTagManager
-window.OpenReplay=	[
+window.OpenReplay=[
 window._paq
-window.asayer
+window.asayer=	[
 window.cookieconsent.initialise({
-window.hj =window.hj||
+window.hj=window.hj||
 window.posthog
-wp-login&php
+wp-login#php
 xml
-xoxb-bs7dS7bk\FYtbd0OnfsxIA58CHXKKHsyZRcStHi-9gU1uqD1bCkc
-xoxp-cZyldi\X1dfMVre9CauU6QzNvPG2w0Momml1NbxC\662JxrzBYFq1ULBLH\fs-ITHyE6v-41TK
-zkau/web/js/zk/zk.js?v=2
-zkau/web/js/zk/zk.wpd?v=0
+xoxb-0OvT9pm2lLRjwErW5ENCFw\1Elo3RWzVdxBlWHRBi\i0LMQOwCqy
+xoxp-QdVXhZuDZt\XBbjVXuemVJprSOZ0zAIk\ZjhpnSfvl8HYYc\-\IVfaoOHJ3GUqswy6rPfxsh7f
+zkau/web/js/zk/zk.js?v=9
+zkau/web/js/zk/zk.wpd?v=8
 zzcms
-{"id":4,"name":"d","url"
+{"id":9,"name":"","url"
 {{marker}}
 {{md5("{{randstr}}")}}
 {{md5(num)}}
@@ -459,10 +457,9 @@ zzcms
 {{md5({{num}})}}
 {{randstr}}
 {{randstr}}.tld
-{{randstr}}CVE24010.6-7e
+{{randstr}}CVE24010.2-4w
 {{result}}
 {{string}}
-~/App_Data/files/d./Ct/5/p
-~34==</string></value>
-~USER:d~
+~/App_Data/files/SN/BF/5/a
+~USER:`~
 ©

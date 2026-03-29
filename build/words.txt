@@ -43,6 +43,7 @@
  | about.me
  | Cafecito</title>
 " onmouseover=alert(1)
+" onmouseover=alert(document.domain)
 " style=animation-name:rotation onanimationstart=alert(document.domain) x
 "" autofocus onfocus=alert(document.domain)//"
 ""></script><script>alert(document.domain)</script>
@@ -267,6 +268,7 @@
 "auth_token":
 "authenticated":true
 "authentication":
+"authenticationCode":
 "authorizationNeeded": "false"
 "authorized":true
 "authorizedApps"
@@ -473,6 +475,7 @@
 "error"
 "error" : 0
 "error": ""
+"errorCode":"0"
 "errorMessage":"Internal error
 "error_code":""
 "error_data"
@@ -580,6 +583,7 @@
 "ip":
 "ip_address"
 "ipfs_pin_hash"
+"isActive":true
 "isAdmin":
 "isAdmin":true
 "isDefaultPW":"1"
@@ -887,6 +891,7 @@
 "response_type":
 "rest_url":
 "result":
+"result":"0"
 "result":"ok"
 "result":"success"
 "result":true
@@ -1036,6 +1041,7 @@
 "terminal":
 "terms"
 "text"
+"text":
 "text":"<img src=x onerror=alert(document.domain)>
 "theme":"group-office",
 "themes"
@@ -1161,6 +1167,7 @@
 "wp_user_id"
 "wpdm-all-packages"
 "wpf_site_id":"
+"wyseIdentifier"
 "yaml":
 "year"
 "year_founded":
@@ -1478,6 +1485,7 @@ $webdb
 /V1.0<sVg/onload=alert.bind()(1)>/Alarm/Exceptions/LinkageActions?=
 /WEB_VMS/LEVEL15/
 /WebObjects/Helpdesk.woa
+/XUX-nwave/
 /_common/scripts/global.js
 /_debug_toolbar/
 /_emeetingglobals.js
@@ -1763,6 +1771,7 @@ $webdb
 /responsiveUI/javax.faces.resource/css/custom.css.xhtml?con=totemo
 /responsiveUI/javax.faces.resource/images/totemomail_logo.svg.xhtml
 /ruckus
+/rustfs/console/_nuxt
 /ry-ui.css
 /ry-ui.js
 /sap/hana/xs/formLogin/images/sap.png
@@ -3283,6 +3292,7 @@ $webdb
 <title>Blue Iris Login</title>
 <title>BookStack</title>
 <title>Brevo | All-in-one Marketing &amp; Sales Platform
+<title>Budibase</title>
 <title>Bugzilla Main
 <title>Bullwark Momentum Series</title>
 <title>Burp API</title>
@@ -3629,6 +3639,7 @@ $webdb
 <title>Linear – Plan and build products
 <title>Linkerd</title>
 <title>Linksys Smart Wi-Fi</title>
+<title>LiteLLM API - Swagger UI
 <title>Lloyds Bank - Personal Banking, Personal Finances &amp; Bank Accounts
 <title>Loading
 <title>Log in - Plastic SCM</title>
@@ -3869,6 +3880,7 @@ $webdb
 <title>Ruckus Wireless Admin</title>
 <title>Rule Execution Server</title>
 <title>Runtime Error</title>
+<title>RustFS</title>
 <title>Rustici Content Controller</title>
 <title>S-Filer Portal - Login</title>
 <title>SAP Management Console</title>
@@ -4408,6 +4420,7 @@ Access Token Invalid
 Access denied
 AccessKeyId
 AccessToken":
+Account not found
 Account not found.
 Account was updated successfully
 Account.LocalPassword=
@@ -4943,6 +4956,7 @@ Create an administrator account
 Create dashboard
 Create database
 Create new Virtual Hub
+Create new account
 Create photo books, personalize photo cards & stationery, and share photos with family and friends at Shutterfly.com.
 Created On
 Creatio Debug mode
@@ -4961,6 +4975,7 @@ CudaTel Communications Server
 Current
 Current Network Status
 Current Status
+Current Working Directory:
 Current action:
 Current configuration
 CurrentUser
@@ -5708,6 +5723,7 @@ Invalid length for a Base-64 char array
 Invalid nodeId
 Invalid source image
 Invalid token
+Invalid username or email
 Invalid value
 Invalid webcall ID:
 InvalidArgumentException
@@ -6045,6 +6061,7 @@ ManageEngine
 ManageEngine - ADManager Plus
 Management Agent
 Management Console
+Management Interface
 Map Alignment</legend>
 MapProxy Demo
 Mapper since:
@@ -6103,6 +6120,7 @@ Missing X509 certificate token
 Missing an action
 Missing translation key
 MissingIncludeException
+MistServer
 Mitel Networks Corporation
 Mix Asset Management
 Mobile Security Framework - MobSF
@@ -6218,6 +6236,7 @@ Nike
 No Packages Found
 No Site For Domain
 No Update Needed
+No account has been created yet
 No administrator account found inside the database
 No changes made
 No downloads found
@@ -6231,6 +6250,7 @@ No settings were found for this company:
 No snippets found
 No such entry
 No such file or directory
+No such guest user
 No such handler: {{randstr}}
 No such service [ProjectDiscovery]
 No such service [{{randstr}}]
@@ -6271,6 +6291,7 @@ ORACLE_QUERY
 OS
 OS Architecture
 OS Name
+OS User:
 OS Version
 OSExecuteResponse
 OSTYPE
@@ -6727,6 +6748,7 @@ Roblox is ushering in the next generation of entertainment. Imagine, create, and
 RoleId
 RoleName":
 Room Alert - Account Log In
+RosarioSIS
 Roundcube
 Roundcube Webmail Installer
 Roundcube Webmail initial database structure
@@ -6873,6 +6895,7 @@ Security setup
 Segmentation Fault
 Selea CarPlateServer
 Select items to perform actions on them.
+Select other host
 Self-Service Console
 Self-Service Portal
 Sell anywhere. Diversify revenue streams. Streamline operations. Manage your staff. Get paid faster. Sign up for Square today.
@@ -7130,6 +7153,7 @@ System Administrator Settings
 System Description
 System Error
 System Info</a>
+System Information
 System Manager
 System Menu
 System Name
@@ -7425,6 +7449,7 @@ Username":
 VALVE_PUBLIC_PATH = "https:\/\/www.counter-strike.net\/\/public\/"
 VERSA DIRECTOR
 VERSION
+VITE_APP_SECRET
 VLC: Official site - Free multimedia solutions for all OS! - VideoLAN
 VMG1312-B10D
 VMWARE FTP SERVER
@@ -10208,6 +10233,7 @@ isDocker
 isSavePwd:
 is_active
 is_ad_blocked
+is_block_logged_in
 is_dir
 is_followed_by_me
 ispamclient = false
@@ -10363,6 +10389,7 @@ learn more about flex at http://flex.org
 learn-press-courses
 lemis.web_app_name
 let node_env = 'true'
+let rf = '//oast.pro
 let tokens = "
 letodms free document management system
 lgdynacodebtn
@@ -11694,6 +11721,7 @@ src="http://mimg.qiye.163.com/
 src="http://so.kaipuyun.cn?sitecode=
 src="http://www.phpfreechat.net/pub/
 src="https://dl.episerver.net/
+src="https://js.stripe.com/v3/"
 src="image/loginauthorize.png"
 src="images/acchtext.png"
 src="images/avantfax-big.png" border="0" alt="avantfax
@@ -11958,6 +11986,7 @@ titan.css
 title
 title":
 title":"My Private GPT
+title":"RustFS
 title">Glances</title>
 title="Bugzilla
 title="CAE Home Page"
@@ -12488,6 +12517,7 @@ window.location.href = "/wcm";
 window.location.href = '/monitor';
 window.location.href = '/syncmodule/synchome/index';
 window.location.href = '/ui/html/login.html';
+window.location.href = rf;
 window.location.href.indexOf
 window.location.href.indexof("/index/carfile/"
 window.location.href="/源头数据资源管理/default/default.aspx"
@@ -12616,6 +12646,7 @@ xmlrpc
 xnstyle.css
 xss onfocus=alert(document.domain) autofocus= xss
 xtscancodes.js
+xuxInitialize
 xwiki.extension.job
 xymon-cgi
 xymon-se
