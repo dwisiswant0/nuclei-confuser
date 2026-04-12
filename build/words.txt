@@ -386,6 +386,7 @@
 "count":
 "country"
 "country_code":
+"cpu_info":
 "createAt":
 "created"
 "created":
@@ -467,6 +468,7 @@
 "email":
 "email":"
 "email_address":"test@test.com"
+"enableUserRegistration": true
 "enabled":[
 "encryption":
 "end_date":
@@ -581,6 +583,7 @@
 "info"
 "input":
 "installed":
+"installed_apps":
 "instance_metadata":
 "instrumented":
 "ip"
@@ -605,6 +608,7 @@
 "is_valid_number":
 "is_vat_valid":
 "issues":
+"items"
 "items":
 "items":[{
 "jcr:createdBy"
@@ -616,6 +620,7 @@
 "jms"
 "job_name":
 "jsapi_ticket":
+"jsonrpc"
 "jsonrpc":
 "jsonrpc":"2.0"
 "jvm"
@@ -628,6 +633,7 @@
 "key"
 "key" :
 "key":
+"key":"
 "key":"base64{{
 "keys"
 "kid"
@@ -671,6 +677,7 @@
 "macaddr"
 "mainSubDomain":
 "major":
+"mappings"
 "mappings":
 "maxMemory":
 "mbean":"Users:database=UserDatabase,type=UserDatabase"
@@ -694,6 +701,7 @@
 "messages":
 "meta":
 "metaData":
+"metadata"
 "metadata": {
 "method"
 "method":
@@ -760,6 +768,7 @@
 "original_size":
 "original_width":
 "os"
+"os_version":
 "output is a required argument"
 "owner":
 "ownerId":
@@ -787,6 +796,7 @@
 "path":
 "payment_confirmation_message":
 "pbx"
+"pending"
 "pending_received_balance"
 "permalink":
 "permissions"
@@ -815,6 +825,7 @@
 "price":
 "principal"
 "principalDomain"
+"principals":[
 "priority"
 "privacy"
 "private_key":
@@ -847,6 +858,7 @@
 "query_status": "inserted"
 "question_type":
 "queue":
+"queued"
 "quiz_materials":
 "quota_limit":
 "quota_remaining":
@@ -898,6 +910,7 @@
 "response_count"
 "response_type":
 "rest_url":
+"result"
 "result":
 "result":"0"
 "result":"ok"
@@ -950,6 +963,7 @@
 "session.id"
 "sessionId":
 "sessionName":"zentaosid"
+"session_id"
 "sessionid":
 "sessionid": null
 "sessionkey":
@@ -1151,6 +1165,7 @@
 "users":[]
 "uuid"
 "uuid":
+"valid_until"
 "value"
 "value":
 "value":"group"
@@ -1164,6 +1179,7 @@
 "verse"
 "version"
 "version":
+"version":3
 "versionstring":
 "view":
 "visibility":"public"
@@ -1173,6 +1189,7 @@
 "website":
 "whois_server"
 "wildcard"
+"wires"
 "wp_user_id"
 "wpdm-all-packages"
 "wpf_site_id":"
@@ -2038,6 +2055,8 @@ $webdb
 3@1=<script>alert(document.domain)</script>
 3@1=<script>alert(document.domain)</script>@
 3CX
+3CX Configuration Tool
+3CX Initial Setup
 3CX Phone System Management Console
 3D Model Designer | CGTrader
 3b51a43178df8b4db108a20e93a428a889c20a9ed5f41067d1a2e8224740838e
@@ -2441,6 +2460,7 @@ $webdb
 <a href="https://www.ioa.cn/official/download.html" target="_blank">爱办公app</a>
 <a href="https://www.ovirt.org" class="obrand_loginpagelogolink">
 <a href="info_deviceStatus.html?
+<a href="java&#9;script:alert(document.domain)">
 <a href="javascript:alert(document.domain)//
 <a href="javascript:alert(document.domain);">here</a>
 <a href="licence.asp"><b style='color:#ff9900'>
@@ -2637,6 +2657,7 @@ $webdb
 <form id="jvform" action="admin/business/login
 <form id="protected-forms-table"
 <form id="system-form-registration" enctype="application/x-www-form-urlencoded" class="system-form-registration" accept-charset="utf-8
+<form method="post"
 <form method="post" id="system_form_2" class="uniForm focusFirstField">
 <form name="ImportTechnicians"
 <form name="fLogin" id="fLogin" method="post"  onsubmit="return false;" action="">
@@ -2937,6 +2958,7 @@ $webdb
 <ng-app
 <ns:return>true</ns:return>
 <object name="cm_md_db">
+<openclaw-app>
 <option value="/en/?{alert(document.domain)}" selected="selected">
 <option value="age_sys">代理商内部员工</option>
 <option value="merge pacs">merge pacs</option>
@@ -2979,6 +3001,7 @@ $webdb
 <rdf:RDF
 <received>
 <response>
+<result>{{md5(num)}}
 <retcode>
 <roleList>
 <roles>Anonymous</roles>
@@ -3404,6 +3427,7 @@ $webdb
 <title>Deployment Management Interface</title>
 <title>Dericam</title>
 <title>Desktop Portal | VMware&reg; Horizon DaaS&trade; Platform</title>
+<title>Devtron</title>
 <title>Dgraph Ratel Dashboard</title>
 <title>DirectAdmin Login</title>
 <title>Discover - Personal Banking, Credit Cards &amp; Loans
@@ -3780,6 +3804,7 @@ $webdb
 <title>Open Game Panel</title>
 <title>OpenBullet2</title>
 <title>OpenCATS - Home</title>
+<title>OpenClaw Control
 <title>OpenEMR Setup Tool</title>
 <title>OpenMetadata
 <title>OpenNebula
@@ -4474,6 +4499,7 @@ Admin Profile
 Admin User
 Admin of this Helprace account needs to set up domain alias
 Admin password restored
+Admin required
 Admin user
 Admin user found
 Admin-Login: MPFTVC
@@ -4561,6 +4587,7 @@ Apache JMeter Dashboard
 Apache Karaf Web Console - Bundles
 Apache Ozone</title>
 Apache Server Status
+Apache Sling
 Apache Tika
 Apache Tomcat
 AppLoginType
@@ -4643,6 +4670,7 @@ BNP Paribas
 BPS DB BACKUP LOG
 BRAVIA Signage
 BUILD
+BaGet.Web
 Backdrop CMS
 Backpack Admin
 Backup Configuration Files
@@ -4918,6 +4946,7 @@ Connecting to database specified by database.yml
 Connection Pooling
 Connection Status
 Connection String
+Connection refused"}
 ConnectionStrings
 Consoles, Collectibles, Video Games, and More &ndash; Buy, Sell or Trade | GameStop
 Contact Form 7
@@ -5622,6 +5651,7 @@ ID
 ID=
 IMAP Error:
 INFO
+INSERT INTO
 INTERNAL_PASSWORD_ENABLED
 IP Address
 IP Surveillance for Your Life
@@ -5996,6 +6026,7 @@ Login | Microsoft 365
 Login • Instagram
 Login=
 LoginMethod=
+LoginName
 LoginPage
 LoginPage":false
 Logitech Harmony Pro Installer Portal
@@ -6093,6 +6124,7 @@ MaxFolderTotal=1
 MaxSite CMS
 Measuring for
 Mecze wyjazdowe:
+Media Library Assistant
 Medium
 Medium: Read and write stories.
 Meet your business challenges head on with cloud computing services from Google, including data management, hybrid & multi-cloud, and AI & ML.
@@ -6147,6 +6179,7 @@ MobileIron Registration
 MobileIron System Manager
 MobileIron User Portal
 Mobilizing enterprise applications
+ModX Revolution
 Model=
 Modem setup
 Module A
@@ -6946,6 +6979,7 @@ Servlets Examples
 SessionID
 Sessions
 Set Password
+Set Up AzuraCast
 Setting
 Settings
 Settings - JSFiddle - Code Playground
@@ -6957,12 +6991,14 @@ Setup AdGuard Home
 Setup GLPI
 Setup GitHub Enterprise
 Setup Information
+Setup Token
 Setup Wizard
 Setup Zipline
 Setup the server
 Setup | Cal.com
 Setup | Shopware
 Setup</title>
+SetupRegister
 SetupWizardPage
 SevOne NMS - Network Manager
 Share on GIPHY</title>
@@ -7413,6 +7449,7 @@ Unknow Directive < @a >.
 Unknown command: <script>alert(document.cookie)</script>
 Unknown directive '@abc'.
 Unknown error occurred while processing your request
+Unmarshalling Error
 Unrecognized domain <strong>
 Unrecognized field "Test<img src=x onerror=alert(document.domain)>
 Unsupported response types: [978015547]
@@ -7450,6 +7487,7 @@ User-agent:
 User:
 User: Administrator
 User=
+UserAvatar
 UserLoginid
 UserName
 UserName=
@@ -7666,6 +7704,7 @@ Welcome to the OGNL console!
 Welcome to the Ruckus
 Welcome to the WMW dashboard
 Welcome to the Web-Based Configurator
+Welcome to the configuration of Icinga Web 2
 Welcome to the official website for Ubisoft, creator of Assassin's Creed, Just Dance, Tom Clancy's video game series, Rayman, Far Cry, Watch Dogs and many others. Learn more about our breathtaking games here!
 Welcome to your EasyBox
 Welcome to your Strapi app
@@ -7867,6 +7906,7 @@ Zostań Patronem
 [wan1]
 [{"<img src=x onerror=alert(document.domain)>":""}]
 [{"p":"
+[{"request":{
 \" onfocus=alert(document.domain); autofocus
 \\'-alert(document.domain),//
 \u003d\u0022confirm(document.domain)\u0022\u003e</B> you cannot access your
@@ -7919,6 +7959,7 @@ _password:
 _poc.jar
 _setHordeTitle
 _skinpath
+_srfm_email_notification
 _static/image/favicon.ico
 _themepath
 _trackermain_gtvtseries
@@ -8311,6 +8352,7 @@ background_image_url
 backpack_alerts
 backup_
 badarg
+badassfish
 bagisto
 banner/tivoli/tv_icbanner.html
 barmemCachedPercent
@@ -8696,6 +8738,7 @@ content="Apache Tapestry Framework
 content="Attu
 content="Audiobookshelf
 content="B2Bbuilder"
+content="BaGet"
 content="Backdrop CMS
 content="Bamboo
 content="BaseKit"
@@ -9158,6 +9201,7 @@ data":
 data":"
 data":"{{md5({{num}})}}
 data":[{
+data":[{"id":
 data":{"token"
 data-controller-namespace="linkerd
 data-coral-columnview-id
@@ -9258,6 +9302,7 @@ description
 description":
 deserialization
 destoon_moduleid
+detail":
 developed by <a href="http://www.zkdigital.com
 developer.apple.com
 development:
@@ -9391,7 +9436,10 @@ email.smtp_username.secured
 email:support@powercreator.com.cn<br />
 email</span> :
 emailSent
+email_bcc
+email_cc
 email_checked</span>
+email_to
 embedpano({
 ember-basic-dropdown-wormhole
 emby-elements
@@ -9400,6 +9448,7 @@ emc-favicon.ico
 emeeting dating software
 emlog
 emlsoft
+enableSocialAppsUserRegistration
 enabled
 encrypted=
 encrypted=true
@@ -9605,7 +9654,6 @@ g_i3gState
 g_iUID
 g_rgProfileData =
 g_sysinfo_sim_state
-ganglia
 ganglia_form.submit()
 gateone.css
 gateone.js
@@ -10212,6 +10260,7 @@ install:
 installation
 installed packages, channel pear
 installer
+installer-steps
 instance of Odoo, the <a target="_blank" href="https://www.odoo.com">Open Source ERP</a>
 instance-id:
 instanceId
@@ -10625,6 +10674,7 @@ mingsoft.net
 minor ver=
 minus
 misc.php?mod=sendmail
+missing value for required argument
 missing/invalid WXR version number
 mixpanel-2-latest.min.js
 mkdir 
@@ -10789,6 +10839,9 @@ nomad-ui
 noo-resume
 nopCommerce installation
 noresize src="/\interact.sh?configName=
+not available
+not found
+not supported
 notifyemail
 nova-lite
 novnc example: simple
@@ -10899,6 +10952,7 @@ oracle http server</font></font></b></h1>
 oracle jsp documentation
 order by begintime
 order_<script>alert(document.domain)</script>
+org.apache.activemq
 org.apache.logging.log4j2
 org.apache.polaris
 org.apache.solr
@@ -11008,6 +11062,7 @@ pgwatch2
 phabricator-application-launch-container
 phabricator-standard-page
 phases:
+phone":"
 photo user-photo
 photo_new/syno_photo_main.js
 php
@@ -11026,6 +11081,7 @@ phpbb
 phpbb group" />
 phpgedview
 phpinfo()
+phpinfo()</title>
 phpkniht
 phpmailer.php on line 10
 phpmywind.com all rights reserved
@@ -11450,6 +11506,7 @@ root:.*:0:0:
 root:/root:/bin/bash
 root:x:
 root:x:0
+root:x:0:0
 root</br>
 root_cause
 root_url
@@ -11637,6 +11694,7 @@ size="1">mysqlman
 sk_live
 sk_test
 skysz.fw.index.validatecodenew = "/loginaction/validatecodenew.html
+sling.apache
 slug":"assignment
 small_status_box
 smartertrack
@@ -11893,6 +11951,7 @@ supercharged by suitecrm
 support@clever-cloud.com
 support@spiderfoot.net
 supporters
+sureforms_form
 suremdm
 surf the web invisibly using asproxy power
 surgemail welcome page
@@ -12013,6 +12072,7 @@ thumbprint
 tidal.com
 timestamp
 timing
+tina-tailwind
 tiny_token_
 tip_browsertoolow:"您当前使用的浏览器版本或模式太低，鹏为e5为了您更好的体验，请升级您的ie版本至8.0或以上。"
 titan.css
@@ -12250,6 +12310,7 @@ user_id
 user_login
 user_name
 user_name":
+user_pass
 user_pass</th>
 user_uid":
 userid
@@ -12627,6 +12688,8 @@ wp-mail-smtp
 wp-maintenance-mode
 wp-user-avatar
 wp_attempt_focus
+wp_options
+wp_users
 wpb-show-core
 wpcf7-drag-n-drop-file
 wpdevar_gall_img_url_h[<script>alert(document.domain)</script>]
@@ -12735,6 +12798,7 @@ zyxel
 {"credentials"
 {"cwd":
 {"data":
+{"data": [
 {"data":{
 {"data":{"__schema":{"types":[{"name":"Upload"},
 {"dismissed":"xxx<img src=x onerror=alert(document.domain)>"}
@@ -12839,6 +12903,7 @@ zyxel
 {{string}}
 {{str}}16384
 {{to_lower(username)}}
+{{to_number(randA)*to_number(randB)}}
 {{username}}
 {{username}}', '/logout')
 {}
