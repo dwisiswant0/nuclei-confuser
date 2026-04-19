@@ -6,8 +6,8 @@ fonts
 bit
 DB_PASSWORD
 DB_NAME
-"success":true
 "id":
+"success":true
 "name":
 {{md5({{num}})}}
 display_name
@@ -18,8 +18,8 @@ PHP
 "data":
 "email":
 username
-for
 <html
+for
 "name"
 uid=
 login
@@ -80,6 +80,7 @@ Member
 DB_HOST
 <web-app
 "sources":
+"data"
 {{string}}
 version
 timestamp
@@ -94,4 +95,3 @@ AdmissionReview
 <svg
 <?xml
 "username"
-"user":
