@@ -6,8 +6,8 @@ fonts
 bit
 DB_PASSWORD
 DB_NAME
-"id":
 "success":true
+"id":
 "name":
 {{md5({{num}})}}
 display_name
@@ -37,13 +37,13 @@ Interactsh
 <?php
 "items":
 gid=
+success
 name
 error_message
 Uncaught
 </web-app>
 "results":
 {{marker}}
-success
 error
 "token":
 "success"
@@ -52,6 +52,7 @@ c8c605999f3d8352d7bb792cf3fdb25
 "url":
 "created_at":
 "></script><script>alert(document.domain)</script>
+{{result}}
 {{randstr}}
 password=
 groups=
@@ -69,7 +70,6 @@ Dashboard
 #
 "status":
 "access_token":
-{{result}}
 onclick='alert(document.domain)
 module.exports
 alert(document.domain);
