@@ -248,6 +248,7 @@
 "apps"
 "archived_snapshots": {"closest"
 "args":
+"asn"
 "asn":
 "attribute":"ImplementationName"
 "attribute":"ImplementationVendor"
@@ -342,6 +343,7 @@
 "collectionMeta"
 "colorid"
 "comName":
+"command":"version"
 "comment_list":null
 "companyAddress"
 "companyName"
@@ -411,6 +413,7 @@
 "data":true
 "data":{
 "data":{"url":
+"data":{"version":"
 "database":
 "databaseContentVersion":
 "databaseVendor":
@@ -882,6 +885,7 @@
 "readinessState"
 "realm":
 "reason":
+"reason":"OK"
 "record"
 "records"
 "redirect": "/htdocs/pages/main/main.lsp"
@@ -924,6 +928,7 @@
 "result":"0"
 "result":"ok"
 "result":"success"
+"result":1
 "result":true
 "result":true,"session"
 "result\":false
@@ -3384,6 +3389,7 @@ $webdb
 <title>Cisco vManage</title>
 <title>Citrix Gateway</title>
 <title>Citrix Login</title>
+<title>Claris FileMaker Server Admin Console</title>
 <title>Claris FileMaker WebDirect</title>
 <title>ClearPass Policy Manager - Aruba Networks</title>
 <title>Client Libraries Test Output</title>
@@ -4748,6 +4754,7 @@ Bitwarden Web Vault</title>
 Blackbox exporter
 Blazor
 Blesta Installer
+Blinko
 Blizzard
 Blogger Template Style
 Bolt requires JavaScript to function properly and continuing without it might corrupt or erase data.
@@ -6111,6 +6118,7 @@ MSPControl - Sign In
 MW Font Changer
 MXPERSONSet
 MYSQL_HOME
+MaNGOS Web Enhanced V4 Installer
 MachineAmount
 Made with Writebook
 Magento
@@ -11527,7 +11535,6 @@ resource_references
 resourcemanager
 resources/themes/images/logo/favicon.ico
 resources:
-response
 responseCode":200
 responseHeader
 rest_no_route
@@ -12078,7 +12085,6 @@ term
 terminal.endpoint
 terraform
 test" onmouseover="alert(document.domain);" style
-test-{{string}}
 test_path=
 test_script:
 text/html

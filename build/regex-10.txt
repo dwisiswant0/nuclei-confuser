@@ -1,10 +1,10 @@
 root::0:0:
-STABLEXTAG:A
+STABLEQTAG:q
 root:*:0:0
 [files]
-uid=g
-uid=8gid=4
-root:x:0:0:
-root:/:0:0
-uid=5(e)
+uid=7
+uid=6gid=2
+root:*:0:0:
+root::0:0
+uid=1(8)
 for
