@@ -43,9 +43,9 @@ name
 error_message
 Uncaught
 </web-app>
+"token":
 "results":
 error
-"token":
 "success"
 {{md5(string)}}
 c8c605999f3d8352d7bb792cf3fdb25
@@ -79,6 +79,7 @@ Spotweb
 Member
 DB_HOST
 <web-app
+"user":
 "sources":
 "data"
 {{string}}
@@ -94,4 +95,3 @@ Sign
 <svg
 <?xml
 "username"
-"user":

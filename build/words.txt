@@ -248,7 +248,6 @@
 "apps"
 "archived_snapshots": {"closest"
 "args":
-"asn"
 "asn":
 "attribute":"ImplementationName"
 "attribute":"ImplementationVendor"
@@ -807,6 +806,7 @@
 "pbx"
 "pending"
 "pending_received_balance"
+"people"
 "permalink":
 "permissions"
 "permissions":
@@ -908,6 +908,7 @@
 "repolink":"
 "repositories":
 "req_limit":
+"request"
 "request":{
 "requestLimit"
 "request_id":
@@ -918,6 +919,7 @@
 "resets_at":
 "resource":
 "resourceName":
+"response"
 "response": "ok",
 "responseHeader":
 "response_count"
@@ -969,6 +971,7 @@
 "serial_number":
 "server":
 "serverTime":
+"service": "mcp-gateway"
 "service":"hugegraph"
 "service_id"
 "sessUser":"admin"
@@ -1247,6 +1250,7 @@ $(document).attr("title","我被修改啦.哈哈"
 $(this).removeclass('dn'
 $.cookie('sianglng' , null)
 $.hitron.languages.lang_init();
+$.post( '/?session_expired=true&amp;redirect=http://evil.com
 $.post("/shopfront/shoppingcar/gotoshoppingcartajax.action",function(data){
 $.ret=0;
 $ATTACH_PATH
@@ -2709,6 +2713,7 @@ $webdb
 <h1> Welcome to the LabTech Web Portal</h1>
 <h1>500 Server Internal Error
 <h1><img alt="spiceworks" src="/images/logos/large.png
+<h1>Changes for page
 <h1>Compalex
 <h1>Dashboard</h1>
 <h1>EFAK</h1>
@@ -3539,7 +3544,6 @@ $webdb
 <title>FortiAP</title>
 <title>FortiDDoS</title>
 <title>FortiMail</title>
-<title>FortiSandbox
 <title>FortiSandbox</title>
 <title>FortiSwitch
 <title>FortiTester</title>
@@ -3833,6 +3837,7 @@ $webdb
 <title>OneView
 <title>OnlyFans
 <title>Open Game Panel</title>
+<title>OpenBao
 <title>OpenBullet2</title>
 <title>OpenCATS - Home</title>
 <title>OpenClaw Control
@@ -4626,7 +4631,6 @@ Apache Ozone</title>
 Apache Server Status
 Apache Sling
 Apache Tika
-Apache Tomcat
 AppLoginType
 Apple Community
 Apple Developer Forums
@@ -4947,6 +4951,7 @@ Coming Soon
 CommBank offers personal banking, business solutions, institutional banking, company information, and more
 Command Line History
 Command completed successfully.
+Command:
 Command: ls<BR>
 Commands
 Commission-free investing for everyone | Trading 212
@@ -5479,6 +5484,7 @@ ForgeRock
 Forget About Shortcode Buttons =
 Forgot password
 Forgot your password
+FormattedName
 FortiClient Endpoint Management Server
 FortiMail Click Protection
 FortiManager
@@ -5497,6 +5503,7 @@ Friendly path
 From
 From RFC 2068
 From to-do to done, it takes a little Westpac. Westpac offers a range of smart solutions to support your personal, business and corporate banking needs.
+From version
 From your account dashboard you can view your
 Froxlor
 Fuji Xerox Co., Ltd
@@ -5663,7 +5670,6 @@ Hospital Management System
 Host
 Host name</label>
 HostName
-Hostname
 Hosts:
 HotelDruid
 HotelDruid</a>
@@ -5695,7 +5701,6 @@ IMAP Error:
 INFO
 INSERT INTO
 INTERNAL_PASSWORD_ENABLED
-IP Address
 IP Surveillance for Your Life
 IPAddress
 IPAddress=
@@ -5856,8 +5861,6 @@ JSP Request Method
 JSP Samples
 JSmol2WP
 JVM
-JVM Vendor
-JVM Version
 Jackett
 Jamf Pro Setup Assistant
 JdbcRowSetImpl
@@ -5957,6 +5960,7 @@ Langflow
 Language ID
 Lansweeper - Login
 Laravel FileManager
+Laravel Login
 Laravel Terminal
 Last 1000 since startup
 Last Online
@@ -6382,10 +6386,7 @@ ORA-06512:
 ORA-29257:
 ORACLE_QUERY
 OS
-OS Architecture
-OS Name
 OS User:
-OS Version
 OSExecuteResponse
 OSTYPE
 OVPN Config Download
@@ -6544,6 +6545,7 @@ Perl version
 Permission denied
 PermissionDenied
 PersistentManagerBase
+PersonId
 Personal Options
 Personal audio streaming service that works.
 Phalcon Framework
@@ -7408,7 +7410,6 @@ TmVzc3VzQ29kZUV4ZWNUZXN0
 To access the settings of your Airtame
 Toggle navigation
 Tolgee
-Tomcat Version
 Too many connections
 TooManyFieldsSent
 ToolJet - Dashboard
@@ -7716,6 +7717,7 @@ Welcome to Mezzanine
 Welcome to Modoboa
 Welcome to NatWest. Our extensive personal banking products include bank accounts, mortgages, credit cards, loans and more. Visit today to see how we can serve you.
 Welcome to Open Virtualization Manager
+Welcome to OpenBao
 Welcome to Openfire Setup
 Welcome to Oracle Containers for J2EE 10g
 Welcome to Password Management
@@ -8561,6 +8563,7 @@ cisco ucs director
 citrix systems, inc. xenserver
 ckan 2.3
 ckan 2.8.2
+ckan_version
 class <strong>pjAdminOrdersaction
 class:
 class="XiboFormButton
@@ -8866,6 +8869,7 @@ content="Kernel Video Sharing
 content="Khoj AI
 content="Komodo CMS"
 content="Kryptronic Software"
+content="Laravel"
 content="Lauyan TOWeb 
 content="Leantime
 content="LimeSurvey
@@ -9699,6 +9703,7 @@ function loadmunchkinkey()
 function mOnLoad()
 function omiga_window(url)
 function onInit()
+function setLang
 function signOut() {
 function squirrelmail_loginpage_onload()
 function toggle(targetid)
@@ -10677,6 +10682,7 @@ malwaredllc/byob
 manage this jboss as instance
 manage&a\"><script>alert(1)</script>">
 manageengine
+management-apis
 management-major-version
 managementzonename
 manager-gui
@@ -11396,6 +11402,7 @@ product-version
 productName = "Prime Infrastructure"
 productNameSrc
 productType
+productVersion
 production:
 productname="network registrar
 profil
@@ -11483,6 +11490,7 @@ receiver/images/common/icon_vpn.ico
 recentJobs
 recommended
 recordTypeInfo
+records
 recordsFiltered
 redash
 redhat
@@ -11516,6 +11524,7 @@ remita
 remobjects software, llc.
 remote manage your intelligent systems
 rep:password
+repo_token
 reportico_
 repos:
 repository list
@@ -11698,6 +11707,7 @@ service provided by <a href="https://www.osirix-viewer.com"
 service webadmin
 service:
 serviceType
+service_name
 serviceip
 sessid
 session
@@ -12025,6 +12035,7 @@ swagger:
 swapPercent
 swf
 switchingserverpopup
+synchronizationStatus
 syntax error
 syntax error at or near &quot;{{rand_string}}&quot
 sysconfig
@@ -12248,6 +12259,7 @@ tripadvisor.com
 true
 truncated
 trusguard ssl vpn client
+ts_rewrite
 tsd.connectionmgr.connections
 tsd.http
 tsml
@@ -12904,6 +12916,7 @@ zyxel
 {"rec":
 {"redirect_uri":"refresh"}
 {"reference":
+{"request":{
 {"result":
 {"result":{"isDisconnected":
 {"ret":"ok","data":"ok"}
