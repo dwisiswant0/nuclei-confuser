@@ -1,10 +1,10 @@
-root:8:0:0:
-STABLE{TAG:G
-root:x:0:0
-[files]
-uid=g
-uid=7Ogid=5
+root::0:0:
+STABLEwTAG:c
+root:*:0:0
+[extensions]
+uid=s
+uid=1gid=0
 root:*:0:0:
-root:]:0:0
-uid=8(3)
+root::0:0
+uid=2(	)
 for
