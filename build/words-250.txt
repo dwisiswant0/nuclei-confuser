@@ -17,8 +17,8 @@ Index
 PHP
 "data":
 "email":
-username
 <html
+username
 for
 "name"
 uid=
@@ -36,8 +36,8 @@ Interactsh
 <body
 <?php
 "items":
-gid=
 {{marker}}
+gid=
 success
 name
 error_message
@@ -49,6 +49,7 @@ error
 "success"
 {{md5(string)}}
 c8c605999f3d8352d7bb792cf3fdb25
+<!DOCTYPE
 "url":
 "created_at":
 "></script><script>alert(document.domain)</script>
@@ -66,7 +67,6 @@ Dashboard
 <svg/onload=alert(document.domain)>
 <script>alert(document.domain);</script>
 <script
-<!DOCTYPE
 #
 "status":
 "access_token":
@@ -186,6 +186,7 @@ cfa6748598b5e507db0e53906a7639e2c197a53cb57da58b0a20ed087cc0b9d5
 blog-title
 authorization_endpoint
 access_key
+__meteor_runtime_config__
 [fonts]
 WebLogic
 VERSION
@@ -236,4 +237,3 @@ Action
 "zlo
 "value":
 "uuid":
-"user_login"

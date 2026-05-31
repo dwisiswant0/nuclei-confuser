@@ -1,10 +1,10 @@
 root::0:0:
-STABLEwTAG:c
-root:*:0:0
-[extensions]
-uid=s
-uid=1gid=0
+STABLE|TAG:P
+root:x:0:0
+[fonts]
+uid=(
+uid=2gid=14
 root:*:0:0:
-root::0:0
-uid=2(	)
+root:}:0:0
+uid=9(8)
 for
