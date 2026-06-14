@@ -26,10 +26,10 @@ login
 "version":
 "password":
 Parent
+<img
 "><script>alert(document.domain)</script>
 password
 Fatal
-<img
 "id"
 Interactsh
 <h1>
@@ -70,6 +70,7 @@ Dashboard
 #
 "status":
 "access_token":
+version
 onclick='alert(document.domain)
 module.exports
 alert(document.domain);
@@ -83,7 +84,6 @@ DB_HOST
 "sources":
 "data"
 {{string}}
-version
 timestamp
 didn't
 description
@@ -749,11 +749,13 @@ $.ret=0;
 "team_id":
 "success":200
 "success":"true"
+"statusCode":200
 "status":true
 "status":"success"
 "sessionid":
 "server":
 "role":
+"role"
 "result":"ok"
 "response_type":
 "repositories":
@@ -949,6 +951,3 @@ $.ret=0;
 北京心海导航教育科技股份有限公司-中国心理网版权所有<br>
 北京市时林电脑公司
 北京天源迪科信息技术有限公司
-北京华夏创新科技有限公司
-北京勤云
-北京创信达科技有限公司

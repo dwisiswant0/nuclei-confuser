@@ -26,10 +26,10 @@ login
 "version":
 "password":
 Parent
+<img
 "><script>alert(document.domain)</script>
 password
 Fatal
-<img
 "id"
 Interactsh
 <h1>
@@ -70,6 +70,7 @@ Dashboard
 #
 "status":
 "access_token":
+version
 onclick='alert(document.domain)
 module.exports
 alert(document.domain);
@@ -83,7 +84,6 @@ DB_HOST
 "sources":
 "data"
 {{string}}
-version
 timestamp
 didn't
 description

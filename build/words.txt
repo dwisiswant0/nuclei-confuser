@@ -228,6 +228,7 @@
 "agent":
 "agentId":"
 "agentServer":
+"agents"
 "alarm_model"
 "antiadwa":
 "apiDescription"
@@ -591,6 +592,7 @@
 "installed":
 "installed_apps":
 "instance_metadata":
+"instructions"
 "instructions_markdown"
 "instrumented":
 "ip"
@@ -636,6 +638,7 @@
 "jwt":
 "k3woq"^confirm(document.domain)^"a2pbrnzx5a9"
 "keepAliveInterval":
+"kernelVersion"
 "kernels": [
 "key"
 "key" :
@@ -670,6 +673,7 @@
 "local_format":
 "localized":
 "location":
+"logLevel"
 "log_position"
 "loggedIn":true
 "logging"
@@ -778,6 +782,7 @@
 "os"
 "os_version":
 "output is a required argument"
+"output":"{{result}}"
 "owner":
 "ownerId":
 "package":"
@@ -2075,6 +2080,7 @@ $webdb
 3.8.2.67295
 301b60d2c71a595adfb65b22edee9023961c5190e1807f6db7c597675b0a61f0
 30a9dffe86b597151eff49443097496f0d1014bb6695a2f69a7c97dc1c27828f
+3105
 31333333337
 318ee33e5d14035b04832fa07c492cdf57788adda50bb5219ef75b735cbf00e2
 33313f1ff2602ef43d945e57e694e747eb00344455ddb9b2544491a3af2696a1
@@ -4531,6 +4537,7 @@ APP_KEY
 APP_NAME=
 AR9344_GATEWAY
 ARCHIBUS
+ARMember
 ASP.NET is a free web framework for building great Web sites and Web applications
 ASPNETCORE_ENVIRONMENT
 ASUS
@@ -4905,6 +4912,7 @@ CVE-2021-41773-POC
 CVE-2021-42013
 CVE-2023-22952
 CVE-2024-13979
+CVE-2026-10520
 CVE-2026-1357-nuclei-verification-test
 CVE{{marker}}
 CVMS
@@ -5729,6 +5737,7 @@ Heroku is an AI platform as a service (AI PaaS) that enables developers to build
 Hestia Control Panel
 Hetzner Cloud
 Hetzner Logo
+HexStrike
 HeyLink.me |
 HighMail
 Hikvision Digital Technology
@@ -5921,6 +5930,7 @@ Items
 Ivanti
 Ivanti Cloud Services Appliance
 Ivanti Endpoint Manager
+Ivanti System Manager
 Ivanti(R) Cloud Services
 JBoss EAP 7
 JBoss Enterprise SOA Platform: Embedded ESB Server
@@ -5948,7 +5958,6 @@ JSmol2WP
 JVM
 Jackett
 Jamf Pro Setup Assistant
-Janitza electronics
 JdbcRowSetImpl
 Jedox Web - Login
 Jeecg-Boot
@@ -6289,6 +6298,7 @@ Mercari
 Mercurial Repositories
 Message
 Message for
+Message handled successfully
 Message":"245
 MessageSolution Enterprise
 Meta information about this instance/cluster
@@ -7454,6 +7464,7 @@ The attribute value
 The base configuration for WordPress
 The base configurations of the WordPress
 The config file was saved successfully
+The current trace settings prevent trace.axd from being viewed
 The database manager has been disabled by the administrator
 The following namespaces are registered in the repository:
 The gods are wise, but do not know of the site which you seek.
@@ -7575,7 +7586,6 @@ Types of profiles available:
 UBS is a global firm providing financial services in over 50 countries. Visit our site to find out what we offer.
 UID=
 UIPPortalPath
-UMG
 UNID
 UNIFI_OS_MANIFEST
 UNION SELECT 1,CONCAT('~','9999999999','~')--
@@ -8440,7 +8450,9 @@ argilla.io
 argosoft mail server plus for
 aria-label="Lucy
 aria-label="Planet eStream Website
+arm_directory_paging_container
 arm_success_msg
+arm_wp_nonce
 arn:aws:ecs
 array(2)
 artica-applianc
@@ -8824,6 +8836,7 @@ cm/config/environment
 cm9vd
 cm9vdDp4OjA6MDpy
 cmd":"connectStatus
+cmdline
 cmn/css/common-min.css
 cms_category
 cmsimpleLocatorElement
@@ -10547,7 +10560,6 @@ j_security_check
 j_setcon j_sub_new j_padt30 j_padb30
 j_username
 jalios-login
-janitza.de
 java
 java.io.FileNotFoundException
 java.io.InvalidClassException
@@ -11857,6 +11869,7 @@ sellerToken
 senginx-robot-mitigation
 sensei_email_preview_id={{template_id}}
 sensei_message
+sentry
 seo-automatic-seo-tools
 seopanel
 serendipity_editor.js
@@ -12270,6 +12283,7 @@ tdw-css-placeholder"></style><script>console.log({{string}})</script>
 team collaboration software like Jira, Confluence and Trello help teams organize, discuss, and complete shared work.
 team5.cn by daymoon
 teamviewer
+telemetry
 telerik.web.ui.webresource.axd
 template/
 template/default/images/slides.min.jquery.js
@@ -12296,6 +12310,7 @@ tgme_page_title
 thank you for using livezilla!
 thank you for using the blueonyx
 the complete network monitoring software from manageengine
+the expr auth is invalid
 the isa server denied the specified uniform resource locator
 the server denied the specified uniform resource locator (url). contact the server administrator
 the user does not exist
@@ -12404,6 +12419,7 @@ todaynic.com,inc.
 token
 token | mintMe
 token":
+token=
 tokenGenerationKey
 tokenId
 token_endpoint
@@ -12415,6 +12431,7 @@ tomcat monitor uses wadl to describe services it can offer
 tongda2000
 tool_return":
 tools:
+tools_status
 top.location.href = 'javascript:alert(document.domain)';
 top.location=window.location;top.location="/remote/login";
 top.postMessage(
@@ -12519,6 +12536,7 @@ upload/moban/images/style.css
 upload_infobar
 upload_password
 uploads
+uptime
 uri-translation
 url
 url = 'wrzcnet_vote.asp?stype=view';
@@ -12962,6 +12980,8 @@ wp-hotel-booking
 wp-includes
 wp-jobsearch
 wp-login
+wp-login-logo
+wp-login-lost-password
 wp-login-register
 wp-mail-smtp
 wp-maintenance-mode
@@ -13190,6 +13210,7 @@ zyxel
 {{string}}
 {{str}}16384
 {{to_lower(username)}}
+{{to_number(a)+to_number(b)}}
 {{to_number(randA)*to_number(randB)}}
 {{username}}
 {{username}}', '/logout')

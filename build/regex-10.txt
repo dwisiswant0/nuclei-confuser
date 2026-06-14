@@ -1,10 +1,10 @@
 root::0:0:
-STABLERTAG:e
+STABLEhTAG:J
 root:*:0:0
-[extensions]
-uid=j
-uid=4gid=9
+[files]
+uid=x
+uid=3ngid=5
 root:*:0:0:
-root::0:0
-uid=0(S)
+root:W:0:0
+uid=1(()
 for
