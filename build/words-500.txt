@@ -19,15 +19,15 @@ PHP
 "email":
 <html
 username
+uid=
 for
 "name"
-uid=
 login
 "version":
 "password":
+"><script>alert(document.domain)</script>
 Parent
 <img
-"><script>alert(document.domain)</script>
 password
 Fatal
 "id"
@@ -360,6 +360,8 @@ link
 libvirt_
 kube
 jsonrpc
+j_username
+j_password
 jQuery
 is_dir
 is_ad_blocked
@@ -475,5 +477,3 @@ Welcome
 Webmin
 Weblate
 Web
-Warning:
-VITE_APP_SECRET

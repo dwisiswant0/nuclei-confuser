@@ -3716,6 +3716,7 @@ $webdb
 <title>Kafka Cruise Control UI</title>
 <title>Kafka Manager</title>
 <title>Kafka Topics UI - Browse Kafka Data</title>
+<title>Kargo</title>
 <title>Kasm</title>
 <title>Kavita
 <title>Kemp Login Screen</title>
@@ -3944,6 +3945,7 @@ $webdb
 <title>Portkey AI
 <title>Poshmark: Buy and sell fashion, home decor, beauty &amp; more
 <title>PostHog</title>
+<title>Postiz Register</title>
 <title>PowerChute Network Shutdown</title>
 <title>PowerJob</title>
 <title>Powered by lighttpd</title>
@@ -5112,6 +5114,7 @@ Cox Business Dominion Gateway - Login
 Cracked.io - Profile of
 CraftCMS
 Create Account
+Create Account</div></button>
 Create Admin User
 Create System Administrator
 Create a new account.
@@ -5498,6 +5501,7 @@ Failed to acknowledge
 Failed to add new collection
 Failed to change password: The current password is incorrect
 Failed to connect to MCP server
+Failed to decode
 Failed to decode session object
 Failed to derive xcontent from
 Failed to install the generic artifact type
@@ -7200,6 +7204,7 @@ Sign In to Control Panel
 Sign In with Tautulli
 Sign On
 Sign Out
+Sign Up</h1>
 Sign in
 Sign in - Google Accounts
 Sign in - Matomo
@@ -8825,6 +8830,7 @@ client_check/js/global.js
 client_id
 client_secret
 clientscript/vbulletin
+clienttype=html
 clientutil.isff=!clientutil.isie
 close_session
 cloud.ottoworkfroce.eu/vpn/index.html
@@ -8982,6 +8988,7 @@ content="Dashy
 content="Discourse 
 content="Discuz
 content="Discuz!
+content="DokuWiki
 content="Doteasy Website Creator"
 content="Drupal
 content="Dynamicweb 
@@ -9390,6 +9397,7 @@ ctl00_contentplaceholder1_dlttopvideos
 ctpDataSource.password
 cui-login-screen
 curl cheat.sh
+current changed">@<svg/onload=alert
 currently locked
 custom tables
 customLoginUrlTemplate
@@ -13181,6 +13189,7 @@ zyxel
 {s
 {{ neo4j.version | neo4jdeveloperdoc }}/
 {{base64_decode(cmd)}}
+{{canary}}
 {{echo-cmd-hash}}
 {{file_content}}
 {{filename}}.asp
