@@ -52,6 +52,7 @@ error
 c8c605999f3d8352d7bb792cf3fdb25
 "url":
 "created_at":
+"access_token":
 "></script><script>alert(document.domain)</script>
 {{result}}
 {{randstr}}
@@ -69,7 +70,6 @@ Dashboard
 <script
 #
 "status":
-"access_token":
 version
 onclick='alert(document.domain)
 module.exports
@@ -81,6 +81,8 @@ Member
 DB_HOST
 <web-app
 "user":
+"token_type":
+"success":
 "sources":
 "data"
 {{string}}
@@ -94,4 +96,3 @@ Sign
 <title>Login</title>
 <svg
 <?xml
-"username"

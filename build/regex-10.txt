@@ -1,10 +1,10 @@
-root:>:0:0:
-STABLEkTAG: N
-root:x:0:0
+root::0:0:
+STABLE\TAG:V
+root:*:0:0
 [fonts]
-uid=h
-uid=4gid=7O
+uid=d
+uid=4gid=3
 root:*:0:0:
 root::0:0
-uid=4([)
+uid=7(O)
 for
