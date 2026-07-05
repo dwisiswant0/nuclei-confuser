@@ -3455,6 +3455,8 @@ $webdb
 <title>Crontab UI</title>
 <title>CrushFTP - Login</title>
 <title>CrushFTP WebInterface</title>
+<title>CtrlPanel.gg installer Script
+<title>CtrlPanel</title>
 <title>Custom T-shirts - Design T-shirts, Apparel & Promo Products Online
 <title>Cyber Stealer - Secure Access
 <title>CyberChef</title>
@@ -5147,6 +5149,7 @@ Crunchyroll
 Cryptobox</title>
 Crédit Agricole
 Crédit Agricole 1re banque de l&#039;habitat, de l&#039;agriculture, des entreprises, des pros, des collectivites territoriales
+CtrlPanel | installer
 Cube-105 Setup Wizard
 CubeBackup setup
 CudaTel Communications Server
@@ -6237,6 +6240,7 @@ MAX USER :
 MDM
 META-INF
 MF Gig Calendar =
+MISP
 MLflow
 MMORPG.com Forums
 MOBOTIX
@@ -8947,7 +8951,6 @@ config/application
 configManage.asp
 configuration
 configuration file
-configuration page
 configure
 conflict
 confluence
@@ -10958,7 +10961,6 @@ metricActions
 metronic. admin dashboard template.
 mfs.cgi
 mikrotik hotspot > login
-mikrotik routeros > administration
 mimeType":"text/plain
 mindsdb_version
 mingsoft.net
@@ -11313,6 +11315,7 @@ parent.location.replace
 parent.location.replace("http://")
 parent.main.location = urlnonst + "?nst=" + top.menu.securitytoken
 parent_location
+parking-lander
 parseHadoopProgress
 pass:
 pass=
@@ -12921,6 +12924,7 @@ window.Bazarr
 window.ERROR_VIEW = null
 window.FileBrowser
 window.KFP_FLAGS
+window.LANDER_SYSTEM
 window.MetabaseBootstrap
 window.MetabaseRoot
 window.NOW.

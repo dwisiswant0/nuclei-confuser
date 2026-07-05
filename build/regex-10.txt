@@ -1,10 +1,10 @@
 root::0:0:
-STABLE\TAG:V
+STABLEZTAG:	.
 root:*:0:0
-[fonts]
-uid=d
-uid=4gid=3
-root:*:0:0:
+[files]
+uid=p
+uid=1_gid=3q
+root:x:0:0:
 root::0:0
-uid=7(O)
+uid=5(")
 for
