@@ -122,6 +122,7 @@ code
 class="show-forgot-password
 candidat
 [project-discovery]
+[fonts]
 Zimbra
 You
 XPATH
@@ -187,7 +188,6 @@ blog-title
 authorization_endpoint
 access_key
 __meteor_runtime_config__
-[fonts]
 WebLogic
 VERSION
 USER=
