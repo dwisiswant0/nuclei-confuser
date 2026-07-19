@@ -1545,6 +1545,7 @@ $webdb
 /_common/scripts/global.js
 /_debug_toolbar/
 /_emeetingglobals.js
+/_next/static
 /aboutus/magicmail.gif
 /activex/sinoccshell.cab
 /adfs/portal/css/style.css
@@ -1659,6 +1660,7 @@ $webdb
 /fangmail/default/css/em_css.css
 /files/style.css
 /fmi/iwp/cgi?-noscript
+/fo/user_login.php
 /formmail.pl
 /frameworks/images/ico.ico
 /ftvp/Images/favicon.ico
@@ -1693,6 +1695,7 @@ $webdb
 /images/onlyoffice_logo/
 /images/opsview_logo_large.gif
 /images/opsviewcommunitylogo-large.png
+/images/qualys/product.png
 /images/tongda.ico
 /images/ui/freenas-logo.png
 /images/v7/cms.css">
@@ -2331,6 +2334,8 @@ $webdb
 </script><svg/onload=alert('{{randstr}}')>
 </script><svg/onload=alert(/XSS/)>
 </script><svg/onload=alert(document.domain)>
+</span> New Folder
+</span> Upload
 </span>国迈安全私有云部. <span>all rights reserved
 </string></value>
 </strong>openfiler nas/san appliance
@@ -3726,6 +3731,7 @@ $webdb
 <title>Kavita
 <title>Kemp Login Screen</title>
 <title>Kerio Connect Client</title>
+<title>Kestra</title>
 <title>KeyBank | Banking, Credit Cards, Mortgages, and Loans
 <title>Khoj AI
 <title>Kibana Login</title>
@@ -3982,6 +3988,8 @@ $webdb
 <title>Qlik Sense login page</title>
 <title>QloApps Installation
 <title>Qualitor Web</title>
+<title>Qualys - Login</title>
+<title>Qualys&reg;</title>
 <title>R WebServer</title>
 <title>RStudio Sign In</title>
 <title>RTM WEB</title>
@@ -6511,6 +6519,7 @@ Notion – One workspace. Every team.
 Nova.booting
 Nuage Network
 Nuage Networks
+Number Guess
 Number of active sessions
 Nuxeo Platform
 NzbwpQSdbY06Dngnoteo2wdgiekm7j4Ndisplay_errors
@@ -8003,6 +8012,7 @@ XPATH syntax error:
 XPhone Connect server - Logon
 XPhone Web-Meeting
 XSHI
+XStore
 XWiki.XWikiUsers[0]
 XWikiGuest
 XWikiUsers[0].password
@@ -8014,6 +8024,7 @@ XploitSPY
 Xymon
 Y Soft Corporation, a.s.
 YSoft SafeQ
+YesWiki
 Yii
 You are logged in
 You are logged in as remote user
@@ -9467,6 +9478,7 @@ data-controller-namespace="linkerd
 data-coral-columnview-id
 data-dtconfig=
 data-errormessage-value-missing="* 请录入用户名
+data-formid="" onmouseover="alert(document.domain)" x=""
 data-formid="{{result}}"
 data-gallery_id="\"><script>alert(document.domain)</script>"
 data-grav-
@@ -10416,6 +10428,7 @@ id="logo" alt=bugfree
 id="mmursp_id" value="\"><svg/onload=alert(document.domain)>" />
 id="modal_delay"
 id="msowebpartpage_postbacksource
+id="myform_UserLogin"
 id="mymodallabel">login vam system
 id="novnc-control-bar
 id="oracle-cc
@@ -11320,6 +11333,7 @@ parent.main.location = urlnonst + "?nst=" + top.menu.securitytoken
 parent_location
 parking-lander
 parseHadoopProgress
+parse_path_failed
 pass:
 pass=
 passQueryParameters:true
@@ -12483,6 +12497,7 @@ tool_return":
 tools:
 tools_status
 top.location.href = 'javascript:alert(document.domain)';
+top.location='fo/user_login.php'
 top.location=window.location;top.location="/remote/login";
 top.postMessage(
 topdeskidploginforwardurl
@@ -12559,7 +12574,6 @@ ui avatar vm
 ui/js/seaconfig.js
 ui/skins/black/style.css
 uiLangToHTMLLangAttributeValueMapping
-uiVersion
 uid
 uid=
 uid=0(root) gid=0(root) groups=0
@@ -12918,6 +12932,7 @@ whitelabel/mobileiron/img/favicon.ico
 widget-title"><script>alert(document.domain)</script></h3>
 widget.TreeView
 widget.intercom.io/widget
+widgetapp
 width="100"
 wiki-xwiki"onload="alert(document.domain)"
 wiki/tracguide
@@ -12926,6 +12941,7 @@ window.AsanaStorage.optanonWrapperInitialized
 window.Bazarr
 window.ERROR_VIEW = null
 window.FileBrowser
+window.KESTRA_UI_PATH = "/ui/";
 window.KFP_FLAGS
 window.LANDER_SYSTEM
 window.MetabaseBootstrap
@@ -13103,6 +13119,7 @@ xymon-se
 yabbtime.gettime()
 yarn-error.log
 yarn.dt.plugins.js
+yeswiki
 yeswiki-base
 yeswiki-search
 yfcmf

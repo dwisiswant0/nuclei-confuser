@@ -31,12 +31,12 @@ Parent
 password
 Fatal
 "id"
+{{marker}}
 Interactsh
 <h1>
 <body
 <?php
 "items":
-{{marker}}
 gid=
 success
 name
@@ -162,7 +162,6 @@ user_id
 userId
 uid
 type
-token
 self
 result
 paths:
@@ -237,3 +236,4 @@ Action
 "zlo
 "value":
 "uuid":
+"user_login"
