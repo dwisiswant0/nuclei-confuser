@@ -5,6 +5,6 @@ extensions
 fonts
 bit
 DB_PASSWORD
-DB_NAME
 "success":true
+DB_NAME
 "id":
