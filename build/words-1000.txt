@@ -22,10 +22,10 @@ username
 uid=
 for
 "name"
+{{marker}}
 login
 "version":
 "><script>alert(document.domain)</script>
-{{marker}}
 Parent
 <img
 "password":
@@ -44,10 +44,10 @@ error_message
 Uncaught
 </web-app>
 "token":
+"success"
 "results":
 error
 <!DOCTYPE
-"success"
 {{md5(string)}}
 c8c605999f3d8352d7bb792cf3fdb25
 "url":
@@ -207,6 +207,7 @@ Log
 LISTSERV
 KEY
 IBM
+Failed
 Environment
 Device
 DB_USER
@@ -575,7 +576,6 @@ FreshRSS
 Foldery
 Flowise
 File
-Failed
 F5
 Error
 EntityDescriptor
@@ -729,6 +729,7 @@ ASUS
 003236d7e2c5f1f035dc8b67026d7583ee198b568932acd8faeac18cec673dfa
 /wp-login.php?action=lostpassword">Lost
 /wp-content/themes/jannah/assets/
+/wp-content/plugins/formcraft3/
 /owa/
 /dashboard/home
 /dana-na/
@@ -947,6 +948,3 @@ $.ret=0;
 博库医学在线考试系统，技术支持：杭州博库科技有限公司
 南京云问网络技术有限公司
 医院物资供应商b2b平台
-北京超图软件股份有限公司
-北京用友政务软件股份有限公司
-北京清元优软科技有限公司

@@ -22,10 +22,10 @@ username
 uid=
 for
 "name"
+{{marker}}
 login
 "version":
 "><script>alert(document.domain)</script>
-{{marker}}
 Parent
 <img
 "password":
@@ -44,10 +44,10 @@ error_message
 Uncaught
 </web-app>
 "token":
+"success"
 "results":
 error
 <!DOCTYPE
-"success"
 {{md5(string)}}
 c8c605999f3d8352d7bb792cf3fdb25
 "url":
@@ -207,6 +207,7 @@ Log
 LISTSERV
 KEY
 IBM
+Failed
 Environment
 Device
 DB_USER
@@ -236,4 +237,3 @@ Action
 "zlo
 "version"
 "value":
-"uuid":
