@@ -650,6 +650,7 @@
 "keys"
 "kid"
 "kind":
+"kind":"
 "kty"
 "kty":
 "kubeletVersion": "v
@@ -744,6 +745,7 @@
 "name"
 "name":
 "name": "HertzBeat"
+"name": "bagisto/bagisto"
 "name":"
 "name":"admin"
 "name":"databases"
@@ -944,11 +946,13 @@
 "result"
 "result":
 "result":"0"
+"result":"Success"
 "result":"ok"
 "result":"success"
 "result":1
 "result":true
 "result":true,"session"
+"result":{"data":{"json":
 "result\":false
 "result_path":
 "results":
@@ -1545,6 +1549,7 @@ $webdb
 /Business/
 /CasaOS-UI/
 /DLPCenter/js/
+/Ed1s0nZ/CyberStrikeAI
 /IMAGE/EPSONLOGO.PNG
 /InteractV
 /Library/Think/
@@ -1778,6 +1783,7 @@ $webdb
 /masterview.css
 /masterview.js
 /masterview/mpleftnavstyle/panelbar.mpifma.css
+/maxsite/
 /media/20151019095214828.png
 /media/images/zkeco16.ico
 /media/system/js/core.js
@@ -2920,7 +2926,6 @@ $webdb
 <input name="centreon_token" type="hidden"
 <input name="j_captcha_response" type="hidden
 <input onfocus=eval(atob(this.id)) id=
-<input type="hidden" name="account_update_token" value="([a-zA-Z0-9_-]+)"
 <input type="password" class="form-control" name="password" placeholder="密码" required="">
 <input type="submit" name="cmdsubmit" value=" 登 录 " onclick="javascript:webform_dopostbackwithoptions(new webform_postbackoptions(&quot;cmdsubmit&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="cmdsubmit" class="colorbutton
 <input type=checkbox name="saveuserpass
@@ -4125,6 +4130,7 @@ $webdb
 <title>Sidekiq Enterprise</title>
 <title>Sidekiq</title>
 <title>Sign In - Gogs</title>
+<title>Sign In - Miniflux</title>
 <title>Sign In-SuperVPN</title>
 <title>Sign in ・ Cloudflare Access
 <title>SillyTavern</title>
@@ -4562,6 +4568,7 @@ $webdb
 @echo off
 @github.com
 @jhipster
+@license Firebase
 @masto.ai) - Mastodon</title>
 @mastodon.online) - Mastodon</title>
 @mstdn.io) - Mastodon
@@ -4874,6 +4881,7 @@ Bad mapid
 Bad status line 'Expected dot'
 Badging Template
 Bagisto Installer
+Bagisto Laravel E-Commerce
 Bamboo evaluation license
 Bamboo setup wizard - Atlassian Bamboo
 Bandcamp
@@ -5824,6 +5832,7 @@ HTTP_ACCEPT
 HTTP_ACCEPT_ENCODING
 HTTP_USER_AGENT
 HW Configuration
+Handle
 Hang out anytime, anywhere&#x2014;Messenger makes it easy and fun to stay close to your favorite people
 Hangfire Dashboard
 Harbor Freight
@@ -5896,6 +5905,7 @@ ICEFLOW VPN:
 ICQ chat
 ICTBroadcast[ICTBroadcast :: Installation]
 ID
+ID;Date;User;Field;Update
 ID=
 IMAP Error:
 INFO
@@ -6217,6 +6227,7 @@ Loading - groov View
 Loading DbGate App
 Loan Management System
 LocalGPT
+Location
 Location of the text file
 Lock
 Locklizard Web Viewer
@@ -6408,6 +6419,7 @@ Menards
 Mentions
 Mercari
 Mercurial Repositories
+Meshery
 Message
 Message for
 Message handled successfully
@@ -6733,6 +6745,7 @@ PRTG Traffic Grapher
 PUBG
 PWS Dashboard</title>
 Pa11y Dashboard
+Page ID
 Page Layout Builder =
 Page not found
 Pagekit Installer
@@ -7053,8 +7066,10 @@ Reports
 Repositories
 Repository not found
 Reputa
+Request Blocked
 Request Information
 Request Method:
+Request Rejected
 Request URI: /examples/jsp/snp/snoop.jsp;<script>alert(document.domain)</script>test.jsp
 Request was successful
 Request with action all
@@ -7611,6 +7626,7 @@ The official site for Bethesda, publisher of Fallout, DOOM, Dishonored, Skyrim, 
 The page you're looking for may have moved.
 The password manager trusted by millions | Bitwarden
 The profile of
+The requested URL was rejected
 The requested range is not satisfiable
 The requested resource could not be found, or a request was received using an HTTP method that is not supported by the mapped resource
 The requested resource is not authorized to view
@@ -7723,6 +7739,7 @@ Types of profiles available:
 UBS is a global firm providing financial services in over 50 countries. Visit our site to find out what we offer.
 UID=
 UIPPortalPath
+UNAUTHORIZED
 UNID
 UNIFI_OS_MANIFEST
 UNION SELECT 1,CONCAT('~','9999999999','~')--
@@ -8143,6 +8160,7 @@ Your partner for personal finance, business banking, and wealth management with 
 Your preferred language will be used through out the installation process
 Your profile picture
 Your session timed out.
+Your support ID is
 Your system is installed, remove the
 Your use of this script is at your sole risk
 YzmCMS
@@ -8290,6 +8308,7 @@ _fs_host
 _fs_namespace
 _fs_org
 _fs_script
+_glpi_csrf_token
 _id
 _jcr_content
 _jorani
@@ -8319,6 +8338,7 @@ a6d68fb0380bece011b0180b2926142630414c1d7a3e268fb461c51523b63778
 a743f974bacea01ccc609dcb79247598bd2896f64377ce4a9f9d0333ab7b274e
 a8-v5企业版
 a8bf3d1210afa873d9b9af583e944bdbf5ac7c8a63f6eccc3d6795802bd380d2
+a92788d6874137d1c4c4eaf6b6c0806a
 a9308f85e95b00007892d451fd9f6beabcd8792b4c5f8cd7524ba7e941d479c9
 a=""
 a=logout
@@ -8341,6 +8361,7 @@ access_token=
 account
 account=
 account_id
+accounts.php
 acf-to-rest-api\/class-acf-to-rest-api.php
 acloglogin.php
 acms-js
@@ -8468,6 +8489,7 @@ alt="BlueMind"
 alt="CAE"
 alt="CAREL
 alt="CudaTel
+alt="CyberStrikeAI Logo
 alt="Cypress Oxygen-3
 alt="Eclipse Logo
 alt="FreshRSS
@@ -8593,6 +8615,7 @@ appspace-logo
 archive author
 argilla.io
 argosoft mail server plus for
+aria-label="CyberStrikeAI
 aria-label="Lucy
 aria-label="Planet eStream Website
 arm_directory_paging_container
@@ -8608,6 +8631,7 @@ asp.net mvc application</p>
 aspx/casecenter/acasecenter.aspx?pagetype=sxcx&casetype=sscs&casename=
 assert
 assetPaths
+assetPrefix
 assets-cli.udesk.cn/im_client/js/udeskapi.js
 assets/abb_favicon.ico
 assets/css/fdb.css
@@ -8732,7 +8756,6 @@ bigdump: staggered mysql dump importer
 bim 开发配置与运维控制台
 bin
 bin/
-bin:.*:1:1
 bind
 bind =
 bit app support
@@ -8829,6 +8852,7 @@ catalog/model
 catch-breadcrumb
 cats_connected
 ccaq_kf@unisk.cn
+ccm-ui
 cd 
 cdgserver3
 cdn.aliyuncs.com
@@ -8857,6 +8881,7 @@ china utrust infortech co,.ltd
 chmod 
 choose language
 choose your OS
+chroma language-bash
 chronoslogin.html
 cht.sh
 cicro
@@ -9570,6 +9595,7 @@ data":"{{md5({{num}})}}
 data":[{
 data":[{"id":
 data":{"token"
+data-add-subscription-url="/subscribe"
 data-controller-namespace="linkerd
 data-coral-columnview-id
 data-dtconfig=
@@ -9584,6 +9610,7 @@ data-limesurvey-lang=
 data-marimo="true"
 data-qa-selector="new_user_register_button"
 data-redirect="account/systemconfiguration.aspx"
+data-refresh-all-feeds-url="/feeds/refresh"
 data-shoppable-auth-token
 data-target="#navbar-feifeicms"
 data-tinvwl_product_id="
@@ -10032,6 +10059,7 @@ function www_zzjs_net_change
 function.array
 fusion-builder
 fw_error_www
+fwrite()
 g_i3gState
 g_iUID
 g_rgProfileData =
@@ -10134,6 +10162,7 @@ guard :
 gui.css
 guid":{"rendered":
 guide-jedox-software
+gutenverse
 gve-8janitza.energy.security
 gzsa. all rights reserved</span>
 h-ui.js
@@ -10171,6 +10200,7 @@ header\"><script>alert(document.domain)</script>.css?
 heap profile:
 heapdump
 heimdall
+helix3
 help desk software by kayako esupport
 help/zuitu.php
 hertzbeat.apache.org
@@ -10439,6 +10469,7 @@ https://cert.webtrust.org/viewseal
 https://clients.telrads.com/css/feedback.css
 https://confluence.atlassian.com
 https://discuss.pomerium.com
+https://firebase.google.com/terms/
 https://github.com/MISP/MISP
 https://github.com/composer/satis
 https://github.com/grafana/loki
@@ -10524,6 +10555,7 @@ id="lblname1">版权所有：上海安脉计算机科技有限公司
 id="lgform" action="/sso/login
 id="lkblogin" href="javascript:__dopostback('lkblogin','')
 id="login_form"
+id="login_name"
 id="loginpwdcontiner"
 id="logo" alt=bugfree
 id="mmursp_id" value="\"><svg/onload=alert(document.domain)>" />
@@ -10803,6 +10835,7 @@ junos pulse secure access service
 jurassic
 justsy/user/searchmenusbyusername/
 jwks_uri
+jwt_secret_key:
 k-run-report-message
 k.create
 kaspersky secure mail gateway
@@ -10980,6 +11013,7 @@ logo_url
 logonAnonymous.do
 logonbelt-topshadow
 logout
+logout.php
 longitude
 lookerLocation.title
 lookerVersion
@@ -11038,9 +11072,11 @@ match = rmsie.exec(window.navigator.useragent
 maticsoft
 maticsoftsns
 mauticBasePath
+max-3000.com
 maxResults
 maximo-icon.png
 maximum-resource-capability
+maxsite_cms
 mdaemon 
 mdash; gpodder.net
 mdmserver
@@ -11456,6 +11492,7 @@ password:
 password=
 password=='guest'
 passwordExpiration
+passwordHash
 passwordResetEnabled
 password_value
 password_verify() expects parameter
@@ -11534,6 +11571,7 @@ pipelines:
 piwigo.org">Piwigo</a>
 pixmaps/debian-logo.png
 pki-validation
+placeholder="CyberStrikeAI
 placeholder="Profile Manager">
 placeholder="ad域账号 / 系统账号"
 placeholder="请输入凭据"
@@ -11927,8 +11965,6 @@ reviewable_default_visibility
 revision
 richmail
 right syntax to use near
-right">Router\s*Admin\s*Password<
-right">Router\s*Admin\s*Username<
 rise
 rjsslvpn_encookie
 rmsie = /(msie\s|trident.*rv:)([\w.]+)/
@@ -11939,7 +11975,6 @@ role
 role":
 role":"admin
 root
-root:.*:0:0:
 root:/root:/bin/bash
 root:x:
 root:x:0
@@ -12042,6 +12077,7 @@ self
 self.addEventListener
 self.location = 'http://oast.me'
 self.location=
+selfTest-<img src=x onerror=alert(document.domain)>
 selinc.com
 sellerToken
 senginx-robot-mitigation
@@ -12528,6 +12564,7 @@ thumbnail
 thumbnails.huggingface.co/social-thumbnails/
 thumbprint
 tidal.com
+timeline-error
 timestamp
 timing
 tina-tailwind
@@ -13386,6 +13423,7 @@ zyxel
 {{filename}}.php
 {{input}}
 {{marker}}
+{{marker}}-42
 {{md5("{{randstr}}")}}
 {{md5('CVE-2020-37123')}}
 {{md5(num)}}

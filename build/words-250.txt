@@ -4,8 +4,8 @@
 extensions
 fonts
 bit
-DB_PASSWORD
 "success":true
+DB_PASSWORD
 DB_NAME
 "id":
 "name":
@@ -19,10 +19,10 @@ PHP
 "email":
 <html
 username
+{{marker}}
 uid=
 for
 "name"
-{{marker}}
 login
 "version":
 "><script>alert(document.domain)</script>
@@ -142,6 +142,7 @@ Configuration
 BEGIN
 AdmissionReview
 <title>Access
+<script>alert(1)</script>
 <methodResponse>
 <item>
 <img/src/onerror=alert(document.domain)>
@@ -222,7 +223,6 @@ Action
 <title>Logon</title>
 <title>APP</title>
 <svg/onload=alert(/xss/)>
-<script>alert(1)</script>
 <name>faultString</name>
 <head
 </script><img

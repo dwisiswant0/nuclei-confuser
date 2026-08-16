@@ -4,7 +4,7 @@
 extensions
 fonts
 bit
-DB_PASSWORD
 "success":true
+DB_PASSWORD
 DB_NAME
 "id":
