@@ -1,10 +1,10 @@
-root:p:0:0:
-STABLE,TAG:1
+root:;:0:0:
+STABLE	TAG:1
 root:x:0:0
-[files]
-uid=s
-uid=7|gid=0
+[fonts]
+uid=u
+uid=0Ogid=69
 root:x:0:0:
 root::0:0
-uid=5(>)
+uid=6(#)
 for
