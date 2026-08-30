@@ -4,17 +4,17 @@
 <script>alert(document.domain)</script>
 DB_NAME
 DB_PASSWORD
-STABLE	TAG:1
+STABLE+TAG:M
 [fonts]
 bit
 extensions
 fonts
 for
+root:*:0:0
 root::0:0
-root:;:0:0:
-root:x:0:0
+root::0:0:
 root:x:0:0:
-uid=0Ogid=69
-uid=6(#)
-uid=u
+uid=5(%)
+uid=6gid=5.
+uid=8
 {{md5(num)}}

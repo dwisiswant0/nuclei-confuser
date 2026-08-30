@@ -1,10 +1,10 @@
-root:;:0:0:
-STABLE	TAG:1
-root:x:0:0
+root::0:0:
+STABLE+TAG:M
+root:*:0:0
 [fonts]
-uid=u
-uid=0Ogid=69
+uid=8
+uid=6gid=5.
 root:x:0:0:
 root::0:0
-uid=6(#)
+uid=5(%)
 for
