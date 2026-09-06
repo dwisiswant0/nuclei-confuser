@@ -70,6 +70,7 @@ Dashboard
 <script>alert(document.domain);</script>
 #
 "status":
+"data"
 version
 onclick='alert(document.domain)
 module.exports
@@ -84,7 +85,6 @@ DB_HOST
 "token_type":
 "success":
 "sources":
-"data"
 {{string}}
 timestamp
 didn't

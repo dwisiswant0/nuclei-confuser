@@ -115,6 +115,7 @@
 "ConnectionStrings":
 "Consumers":
 "Containers":
+"DIRECTUS"
 "DataSets"
 "Database"
 "Datacenter":
@@ -217,6 +218,7 @@
 "account_name":
 "action":"create"
 "actions"
+"activeTargets"
 "activeUserName":"cmuser"
 "additional_fields":["<img src=x onerror=alert(document.domain)>"]}
 "address"
@@ -453,6 +455,7 @@
 "diskSpace"
 "display_name"
 "display_name":
+"display_powered_by"
 "disposable"
 "dns"
 "do_key"
@@ -480,6 +483,7 @@
 "enabled":[
 "encryption":
 "end_date":
+"entitlements"
 "entity"
 "entity_type":
 "entryAssembly"
@@ -1117,6 +1121,7 @@
 "themes"
 "threadName":
 "threads":
+"ticket"
 "ticket":"anonymous"
 "time":
 "time_next_update_utc"
@@ -1427,6 +1432,7 @@ $webdb
 (Git with a cup of tea)
 (InstallAnywhere Web Installer)
 (Runtime)
+(alert(1),{})
 (build 
 ) Investment Portfolio on Public
 ) on Figma Community
@@ -1691,6 +1697,7 @@ $webdb
 /extplorer.ico
 /fangmail/cgi/index.cgi
 /fangmail/default/css/em_css.css
+/faviconFH.ico
 /files/style.css
 /fmi/iwp/cgi?-noscript
 /fo/user_login.php
@@ -1948,6 +1955,7 @@ $webdb
 /thinkphp/library/think/
 /tmp/passwd9
 /tmp/www/<script>alert(document.domain)</script>
+/tmp/{{fname}}.py
 /tpl/home/weimeng/common/css/
 /tpl/login/user/images/dbg.png
 /ui/fonts/source_sans_3/SourceSans3
@@ -2855,6 +2863,7 @@ $webdb
 <html lang="<h3>{{marker}}</h3>">
 <html ng-app="Clockwork" ng-csp="">
 <html ng-app="pypicloud">
+<html><body></body></html>
 <html><body>You are being <a href="https://uptime.betterstack.com">redirected</a>.</body></html>
 <html><body>access denied.  please consult the http-access directive in the user's guide for more information.</body>
 <html><head></head><body>
@@ -3632,6 +3641,7 @@ $webdb
 <title>FatPipe Networks</title>
 <title>FatPipe WARP&nbsp;| Log in</title>
 <title>Feast Feature Store
+<title>Fiberhome</title>
 <title>FiftyOne</title>
 <title>FileCatalyst Workflow Administration</title>
 <title>FileGator
@@ -4753,6 +4763,7 @@ AllCops:
 Alloc
 Allow:
 Allowed commands
+Allowed memory size of
 Ally
 Altname
 Alumni List
@@ -5068,6 +5079,7 @@ Chat público ao vivo de
 Chat with Open Large Language Models
 ChatGPT helps you get answers, find inspiration, and be more productive.
 ChatGPTAPI
+Chatwoot
 Check Point Mobile
 Check Point Software Technologies
 Check Point Software Technologies Ltd. All rights reserved.
@@ -5794,6 +5806,7 @@ Global Traffic Statistics
 Global kernel usage</b>
 GlobalProtect
 Glowroot
+GnCatController
 GoAnywhere
 GoAnywhere Managed File Transfer
 GoAnywhere Web Client
@@ -6586,6 +6599,7 @@ Nginx UI
 Nginx Vhost Traffic Status
 Nginx+ Dashboard
 Nike
+No 'Content-Disposition' header from 'http://[::ffff:127.0.0.1]:3000/health'
 No Packages Found
 No Site For Domain
 No Update Needed
@@ -6678,7 +6692,6 @@ Oops.</h2><p class="text-muted text-tight">The page you're looking for doesn't e
 Oops… looks like you got lost
 Open Source
 Open Source Matters. All rights reserved
-Open source Observability platform | SigNoz
 Open source observability for your LLM applications
 Open-source, self-hosted AI experiment tracking tool
 OpenBMCS does not support Internet Explorer
@@ -7362,7 +7375,6 @@ Show followings
 Show on admin log-in
 Showing Objects Of
 Sidekiq
-SigNoz is an open source observability platform
 Sign In
 Sign In - Airflow
 Sign In - Hyperic
@@ -8483,6 +8495,7 @@ agenda_js.php?type=xss" onmouseover=alert(document.domain)
 agent
 aggregateRating
 airos_logo.png
+ais_fibre
 ajax/confirm.ashx
 ajax_ccea.php
 ajax_getemailingactions.php
@@ -8849,6 +8862,7 @@ by <a href="https://goaccess.io/">goaccess</a>
 by Labrador CMS
 by jorge schrauwen
 by:lin.zhibin
+bytes exhausted (tried to allocate
 c5b3d7397a90f42d222f7ed9408c0dc6
 c5fe25896e49ddfe996db7508cf00534
 c8c605999f3d8352d7bb792cf
@@ -9609,6 +9623,7 @@ cui-login-screen
 curl cheat.sh
 current changed">@<svg/onload=alert
 currently locked
+currently offline due to an unexpected error
 custom tables
 customLoginUrlTemplate
 custom_scalars
@@ -10108,6 +10123,7 @@ g_iUID
 g_rgProfileData =
 g_sysinfo_sim_state
 ganglia_form.submit()
+gargoyle
 gateone.css
 gateone.js
 gateway
@@ -11304,6 +11320,7 @@ network_password
 new ct.extapp.aboutsystemwindow()
 new line detected in
 new squarespace.fixedpositiontip("logout successful", "you have been successfully logged out.", { xmargin: 15, ymargin: 15, icon: "/universal/images/helptip-info.png", orientation: "upper-right", viewportfixed: true, autohide: 1800 }).show();
+new_super_admin
 new_{{username}}
 nexposeccpassword
 nextConfig
@@ -11915,6 +11932,7 @@ pwdplaceholder
 px-captcha
 python_gc_objects_collected_total
 python_info
+python_uploads
 qBittorrent Web UI
 qdPM
 qliksenseserver
@@ -13512,6 +13530,7 @@ zyxel
 {{to_number(randA)*to_number(randB)}}
 {{username}}
 {{username}}', '/logout')
+{{xss}}
 {}
 | , , GB pc game performance
 | BiggerPockets</title>
