@@ -19,9 +19,9 @@ PHP
 <html
 "email":
 username
+for
 {{marker}}
 uid=
-for
 "name"
 login
 "version":
@@ -50,6 +50,7 @@ error
 <!DOCTYPE
 {{md5(string)}}
 c8c605999f3d8352d7bb792cf3fdb25
+[extensions]
 <script
 "url":
 "created_at":
@@ -59,7 +60,6 @@ c8c605999f3d8352d7bb792cf3fdb25
 {{randstr}}
 password=
 groups=
-[extensions]
 Password=
 Model=
 Login
@@ -90,9 +90,9 @@ timestamp
 didn't
 description
 c8c605999f3d8352d7bb792cf3fdb25b
+[fonts]
 [core]
 Tested
 Sign
 <title>Login</title>
 <svg
-<?xml

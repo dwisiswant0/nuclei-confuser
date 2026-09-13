@@ -19,9 +19,9 @@ PHP
 <html
 "email":
 username
+for
 {{marker}}
 uid=
-for
 "name"
 login
 "version":
@@ -50,6 +50,7 @@ error
 <!DOCTYPE
 {{md5(string)}}
 c8c605999f3d8352d7bb792cf3fdb25
+[extensions]
 <script
 "url":
 "created_at":
@@ -59,7 +60,6 @@ c8c605999f3d8352d7bb792cf3fdb25
 {{randstr}}
 password=
 groups=
-[extensions]
 Password=
 Model=
 Login
@@ -90,6 +90,7 @@ timestamp
 didn't
 description
 c8c605999f3d8352d7bb792cf3fdb25b
+[fonts]
 [core]
 Tested
 Sign
@@ -110,6 +111,7 @@ user_id
 url
 success":true
 s
+root:x:0:0:
 profile:username
 prestashop
 notifyemail
@@ -124,7 +126,6 @@ code
 class="show-forgot-password
 candidat
 [project-discovery]
-[fonts]
 Zimbra
 You
 XPATH
@@ -259,6 +260,7 @@ Action
 "password"
 "nbProducts"
 "key":
+"jsonrpc"
 "ip":
 "id_wishlist"
 "hostname":
@@ -337,8 +339,9 @@ security:
 secured
 secret_key
 seal.godaddy.com
-root:x:0:0:
 role":
+rest_no_route
+rest_forbidden
 reloadByURL
 reason
 qdPM
@@ -480,6 +483,3 @@ _wpnonce
 _jorani
 __WEAVEWORKS_CSRF_TOKEN
 __CSRF_TOKEN_PLACEHOLDER__
-[tool.poetry]
-[default]
-Zabbix

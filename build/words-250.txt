@@ -19,9 +19,9 @@ PHP
 <html
 "email":
 username
+for
 {{marker}}
 uid=
-for
 "name"
 login
 "version":
@@ -50,6 +50,7 @@ error
 <!DOCTYPE
 {{md5(string)}}
 c8c605999f3d8352d7bb792cf3fdb25
+[extensions]
 <script
 "url":
 "created_at":
@@ -59,7 +60,6 @@ c8c605999f3d8352d7bb792cf3fdb25
 {{randstr}}
 password=
 groups=
-[extensions]
 Password=
 Model=
 Login
@@ -90,6 +90,7 @@ timestamp
 didn't
 description
 c8c605999f3d8352d7bb792cf3fdb25b
+[fonts]
 [core]
 Tested
 Sign
@@ -110,6 +111,7 @@ user_id
 url
 success":true
 s
+root:x:0:0:
 profile:username
 prestashop
 notifyemail
@@ -124,7 +126,6 @@ code
 class="show-forgot-password
 candidat
 [project-discovery]
-[fonts]
 Zimbra
 You
 XPATH
@@ -236,4 +237,3 @@ Action
 </password>
 :"finished"
 6fa9fec63ba24ec06fcae0ec30d1369619c2c3323fe9ddc4849af86457d59eef
-1d840f0c4634c8813d3056f26cbab7a685d544050360a611a9df0b42371f4d98
